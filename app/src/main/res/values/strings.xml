@@ -51,21 +51,21 @@
     </string-array>
 
     <string-array name="TJ">
-        <item>【 私は毎日-V 】 / 【 I-V-every day 】</item>
-        <item>【 あなたは毎日-V-か？ 】 / 【 Do you-V-every day? 】</item>
-        <item>【 あなたは毎日何時に-V-か？ 】 / 【 What time-do you-V-every day? 】</item>
-        <item>【 あなたは毎日どこで、に-V-か？ 】 / 【 Where-do you-V-every day? 】</item>
+        <item>私は毎日-V /  I-V-every day </item>
+        <item>あなたは毎日-V-か？ / Do you-V-every day? </item>
+        <item>あなたは毎日何時に-V-か？  /  What time-do you-V-every day? </item>
+        <item>あなたは毎日どこで、に-V-か？  /  Where-do you-V-every day? </item>
     </string-array>
 
     <string-array name="TE">
-        <item>【 I-動詞-every day 】 / 【 私は毎日-  】</item>
-        <item>【 Do you-動詞-every day? 】 / 【 あなたは毎日-？ 】</item>
-        <item>【 When-do you-動詞-every day? 】 / 【 あなたは毎日いつ-？ 】</item>
-        <item>【 Where-do you-動詞-every day ? 】 / 【 あなたは毎日どこで、に-？ 】</item>
-        <item>【 Why-do you-動詞-every day ? 】 / 【 あなたはどうして毎日-？ 】</item>
-        <item>【 I don't-V-every day 】 / 【 私は毎日-わけではない  】</item>
-        <item>【 Don't you-動詞-every day? 】 / 【 あなたは毎日-わけではない？ 】</item>
-        <item>【 Why-don't you-動詞-every day ? 】 / 【 あなたはどうして毎日-わけではない？ 】</item>
+        <item>I-動詞-every day / 私は毎日- </item>
+        <item>Do you-動詞-every day? / あなたは毎日-？</item>
+        <item>When-do you-動詞-every day? / あなたは毎日いつ-？</item>
+        <item>Where-do you-動詞-every day ? / あなたは毎日どこで、に-？</item>
+        <item>Why-do you-動詞-every day ? / あなたはどうして毎日-？</item>
+        <item>I don\'t-V-every day / 私は毎日-わけではない </item>
+        <item>Don\'t you-動詞-every day? / あなたは毎日-わけではない？</item>
+        <item>Why-don\'t you-動詞-every day ? / あなたはどうして毎日-わけではない？</item>
     </string-array>
 
 
