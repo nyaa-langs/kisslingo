@@ -21,7 +21,7 @@ id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyak
 ,,,,,,あなたは普段何時に朝食を食べますか？,,,,1
 ,,,,,【 あなたは普段どこで-V-か？ 】 / 【 Where-do you usually-V? 】,あなたは普段どこで勉強しますか？,,,,1
 ,,,,,,あなたは普段どこで朝食を食べますか？,,,,1
-,,,,,【 私は普段-Vn 】 / 【 I don't usually-V 】,私は普段ビールを飲みません,,,,1
+,,,,,【 私は普段-Vn 】 / 【 I dont usually-V 】,私は普段ビールを飲みません,,,,1
 ,,,,,,私は普段家で勉強をしません,,,,1
 ,,,,,,,,,,1
 ,,,Beginner1,,【 私はよく-V 】 / 【 I often-V 】,私はよく映画を見ます,,,,1
@@ -30,7 +30,7 @@ id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyak
 ,,,,,【 あなたはよく-V-か？ 】 / 【 Do you often-V? 】,あなたはよく映画を見ますか？,,,,1
 ,,,,,,あなたはよく本を読みますか？,,,,1
 ,,,,,,あなたはよくジムに行きますか？,,,,1
-,,,,,【 私はあまり-Vn 】 / 【 I don't often-V 】,私はあまり勉強をしません,,,,1
+,,,,,【 私はあまり-Vn 】 / 【 I dont often-V 】,私はあまり勉強をしません,,,,1
 ,,,,,,私はあまりスマホを使いません,,,,1
 ,,,,,,私はあまり音楽を聴きません,,,,1
 ,,,,,,,,,,1
@@ -61,21 +61,21 @@ id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyak
 ,,,,,,私は今日早く寝ます,I will go to bed early today.,,,1
 ,,,,,【 あなたは今日-V-か？ 】 / 【 Will you-V-today? 】,あなたは今日図書館に行きますか？,Will you go to the library today?,,,1
 ,,,,,,あなたは今日早く寝ますか？,Will you go to bed early today?,,,1
-,,,,,【 私は今日-Vn 】 / 【 I will not-V-today 】,私は今日夕食を食べません,I won't eat dinner today.,,,1
-,,,,,,私は今日仕事に行きません,I won't go to work today.,,,1
+,,,,,【 私は今日-Vn 】 / 【 I will not-V-today 】,私は今日夕食を食べません,I wont eat dinner today.,,,1
+,,,,,,私は今日仕事に行きません,I wont go to work today.,,,1
 ,,,,,,,,,,1
 ,,,Beginner1,,【 私は明日-V 】 / 【 I will-V-tomorrow 】,私は明日友達と映画に行きます,I will go to the movie with my friends tomorrow.,,,1
 ,,,,,,私は明日友達と遊びに行きます,I will go hang out with my friends tomorrow.,,,1
 ,,,,,【 私は明日-V-か？ 】 / 【 I will-V-tomorrow? 】,あなたは明日図書館に行きますか？,Will you go to the library today?,,,1
 ,,,,,,あなたは明日私の家に来ますか？,Will you come over to my place tomorrow?,,,1
-,,,,,【 私は明日-Vn 】 / 【 I will not-V-tomorrow 】,私は明日彼に会いません,I won't see him tomorrow.,,,1
-,,,,,,私は明日仕事に行きません,I won't go to work tomorrow.,,,1
+,,,,,【 私は明日-Vn 】 / 【 I will not-V-tomorrow 】,私は明日彼に会いません,I wont see him tomorrow.,,,1
+,,,,,,私は明日仕事に行きません,I wont go to work tomorrow.,,,1
 ,,,,,,,,,,1
 ,,,,,,,,,,1
 ,,,Beginner1,,【 私はたいてい-V 】 / 【 I-V-most of the time 】,私はたいてい夜早く寝ます,I go to bed early at night most of the time.,,,1
 ,,,,,,私はたいてい週末友達と遊びに行きます,I go hang out with my friends on weekends most of the time.,,,1
-,,,,,【 私はたいてい-Vn 】 / 【 I don't-V-most of the time 】,私はたいてい5時間以上寝ません,I don't sleep more than 5 hours most of the time.,,,1
-,,,,,,彼はたいてい時間通りに来ません,He doesn't come on time most of the time.,,,1
+,,,,,【 私はたいてい-Vn 】 / 【 I dont-V-most of the time 】,私はたいてい5時間以上寝ません,I dont sleep more than 5 hours most of the time.,,,1
+,,,,,,彼はたいてい時間通りに来ません,He doesnt come on time most of the time.,,,1
 ,,,,,,,,,,1
 ,,,Beginner1,,【 1日中-V 】 / 【 V-all day 】,私は休みの日、1日中本を読みます,I read books all day on my days off.,,,1
 ,,,,,,,,,,1
@@ -85,7 +85,7 @@ id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyak
 ,,,,,,,,,,1
 ,,,Beginner1,,【 私は最近よく-V 】 / 【 I often-V-recently 】,私は最近よく車を運転します,I often drive a car recently.,,,1
 ,,,,,,,,,,1
-,,,,,【 私は最近あまり-Vn 】 / 【 I don't often-V-recently 】,私は最近あまりニュースを見ません,I don't often watch the news recently.,,,1
+,,,,,【 私は最近あまり-Vn 】 / 【 I dont often-V-recently 】,私は最近あまりニュースを見ません,I dont often watch the news recently.,,,1
 ,,,,,,,,,,1
 ,,,,,【 私は最近たまに-V 】 / 【 I sometimes-V-recently 】,私は最近たまにワインを飲みます,I sometimes drink wine recently.,,,1
 ,,,,,,,,,,1
@@ -96,7 +96,7 @@ id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyak
 ,,,,,,,,,,1
 ,,,,,【 あなたはさっき-Vp？ 】 / 【 Did you-V-a bit ago? 】,あなたはさっき夕食を食べましたか？,Did you eat dinner a bit ago?,,,1
 ,,,,,,,,,,1
-,,,,,【 私はさっき-Vpn 】 / 【 I didn't-V-a bit ago 】,私はさっき電話に出ませんでした,I didn't pick up a phone a bit ago.,,,1
+,,,,,【 私はさっき-Vpn 】 / 【 I didnt-V-a bit ago 】,私はさっき電話に出ませんでした,I didnt pick up a phone a bit ago.,,,1
 ,,,,,,,,,,1
 ,,,,,,,,,,1
 ,,,Beginner1,,【 私はあとで-V 】 / 【 I will-V-later 】,,,,,1
@@ -119,10 +119,10 @@ id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyak
 ,,,,,,彼女は昨日からずっと映画を見ています,She has been watching movies the whole time since yesterday.,,,1
 ,,,,,私は今日1日中～Vping,私は今日1日中仕事をしていました,I worked all day today.,,,1
 ,,,,,,彼女は今日1日中寝ていました,She slept all day today.,,,1
-,,,Beginner2,,私はまだ～Vning,私はまだ夕食を食べていません,I haven't eaten dinner yet.,,,1
-,,,,,,彼はまだ起きていません,He hasn't waken up yet.,,,1
-,,,,,,私はまだ今週、ドラマを見ていません,I haven't watched the TV drama this week yet.,,,1
-,,,,,,彼女はまだ宿題をしていません,She hasn't done her homework yet.,,,1
+,,,Beginner2,,私はまだ～Vning,私はまだ夕食を食べていません,I havent eaten dinner yet.,,,1
+,,,,,,彼はまだ起きていません,He hasnt waken up yet.,,,1
+,,,,,,私はまだ今週、ドラマを見ていません,I havent watched the TV drama this week yet.,,,1
+,,,,,,彼女はまだ宿題をしていません,She hasn''t done her homework yet.,,,1
 ,,,Beginner2,,早くVte～ください,早くしてください,Please do it quick.,,,1
 ,,,,,,早く来てください,Please hurry come over.,,,1
 ,,,,,,早く電話してください,Please hurry call me.,,,1
