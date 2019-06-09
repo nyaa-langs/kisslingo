@@ -2,8 +2,6 @@ package com.minapikke.kisslingo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.app.AlertDialog;
-import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteOpenHelper;
@@ -12,21 +10,15 @@ import android.util.Log;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.content.res.AssetManager;
-import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.Spinner;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemSelectedListener;
-import java.io.File;
+
 import java.lang.String;
-import android.util.Log;
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
 import java.io.InputStream;
 
 //▼MainActivity class開始▼
@@ -273,7 +265,7 @@ public class MainActivity extends AppCompatActivity {
                                     // データベースオブジェクトをクローズ
                                     DatabaseObject.close();
                                     }
-                                ((ListView) findViewById(R.id.ListView)).setAdapter(ad);
+                                ((ListView) findViewById(R.id.ExamplesButton)).setAdapter(ad);
                             }
                         });
     }

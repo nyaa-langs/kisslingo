@@ -48,12 +48,15 @@
             android:id="@+id/button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button" />
+            android:text="@string/study_button_en" />
 
-        <ListView
-            android:id="@+id/ListView"
+        <Button
+            android:id="@+id/ExamplesButton"
+            style="@android:style/Widget.Material.Light.Button.Inset"
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_height="333dp"
+            android:text="" />
 
     </LinearLayout>
+
 </android.support.constraint.ConstraintLayout>

@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">KissLingo</string>
+    <string name="study_button_en">Study</string>
+    <string name="study_button_jp">勉強</string>
 
     <string-array name="YL">
         <item>English</item>

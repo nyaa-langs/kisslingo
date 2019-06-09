@@ -2,8 +2,6 @@ package com.minapikke.kisslingo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.app.AlertDialog;
-import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteOpenHelper;
@@ -12,22 +10,18 @@ import android.util.Log;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.content.res.AssetManager;
-import android.widget.EditText;
-import android.widget.ListView;
+import android.widget.Button;
 import android.widget.Spinner;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemSelectedListener;
-import java.io.File;
+
 import java.lang.String;
-import android.util.Log;
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
 import java.io.InputStream;
+import java.util.Random;
+import java.util.HashMap;
 
 //▼MainActivity class開始▼
 public class MainActivity extends AppCompatActivity {
@@ -44,6 +38,8 @@ public class MainActivity extends AppCompatActivity {
     private String levelStr;
     private String wclassStr;
     private String typeStr;
+
+    private String lastSentence;
 
 
     @Override
@@ -72,8 +68,8 @@ public class MainActivity extends AppCompatActivity {
         DatabaseObject.execSQL(createTable);
 
        // csvからのデータの書き込み
-        writetoDatabase("jap_verb.csv");
-        //writetoDatabase("eng_verb.csv");
+        writeToDatabase("jap_verb.csv");
+        //writeToDatabase("eng_verb.csv");
 
 
         // ▼spinner　onItemSelected設定▼
@@ -132,11 +128,13 @@ public class MainActivity extends AppCompatActivity {
 
                 //spinner2-5 のylangStrによる分岐定義
                 if(ylangStr.equals("English")){
+                    ((Button)findViewById(R.id.button)).setText(R.string.study_button_en);
                     setSpinner(spinner2, getResources().getStringArray(R.array.TLE));
                     setSpinner(spinner3, getResources().getStringArray(R.array.LJ));
                     setSpinner(spinner4, getResources().getStringArray(R.array.CJ));
                     setSpinner(spinner5, getResources().getStringArray(R.array.TJ));
                 }else{
+                    ((Button)findViewById(R.id.button)).setText(R.string.study_button_jp);
                     setSpinner(spinner2, getResources().getStringArray(R.array.TLJ));
                     setSpinner(spinner3, getResources().getStringArray(R.array.LE));
                     setSpinner(spinner4, getResources().getStringArray(R.array.CE));
@@ -222,7 +220,7 @@ public class MainActivity extends AppCompatActivity {
                                        View view, int position, long id) {
 
                 Spinner spinner5 = (Spinner)parent;
-                wclassStr = (String)spinner5.getSelectedItem();
+                typeStr = (String)spinner5.getSelectedItem();
             }
 
             //　アイテムが選択されなかった
@@ -234,14 +232,15 @@ public class MainActivity extends AppCompatActivity {
 
         // ▼spinner　onItemSelected終了▼
 
-
+        //A key-value pair list of yExamples as keys and tExamples as values.
+        final HashMap<String,String> examplesList = new HashMap<String, String>();
 
         // ▼button onClick method設定▼
         findViewById(R.id.button)
                 .setOnClickListener(
                         new View.OnClickListener() {
                             // ListViewに表示するためのArrayAdapter
-                            ArrayAdapter<String> ad;
+                            //ArrayAdapter<String> ad;
 
                             @Override
                             public void onClick(View v) {
@@ -251,7 +250,8 @@ public class MainActivity extends AppCompatActivity {
 
                                     Cursor cursor = DatabaseObject.rawQuery(selectsql,null);
 
-                                    ad = new ArrayAdapter<String>(MainActivity.this, android.R.layout.simple_list_item_1);
+                                    //ad = new ArrayAdapter<String>(MainActivity.this, android.R.layout.simple_list_item_1);
+                                    examplesList.clear();
 
                                     if(cursor.moveToFirst()){
                                         do{
@@ -261,21 +261,57 @@ public class MainActivity extends AppCompatActivity {
                                             //String subject = cursor.getString(cursor.getColumnIndex("subject"));
                                             //String tense = cursor.getString(cursor.getColumnIndex("tense"));
                                             String type = cursor.getString(cursor.getColumnIndex("type"));
+                                            String level = cursor.getString(cursor.getColumnIndex("level"));
                                             String tlang_ex = cursor.getString(cursor.getColumnIndex("tlang_ex"));
                                             String ylang_ex = cursor.getString(cursor.getColumnIndex("ylang_ex"));
 
-                                            String row = id + ":" + type + ":" + ylang_ex + ":" + tlang_ex;
+                                            //String row = /*id + ":" + type + ":" +level + " : " + levelStr+"\n"+  + wclass + " : " + wclassStr + "\n"type + " : " + typeStr+"\n" +*/ ylang_ex/* + ":" + tlang_ex*/;
                                             //String row = tense + ":" ;
-                                            ad.add(row);
+                                            if (choicesMatch(wclass,type,level))
+                                                examplesList.put(ylang_ex, tlang_ex);
+                                                //ad.add(row);
+
                                         }while(cursor.moveToNext());
                                     }
                                 } catch(Exception e){
                                     // データベースオブジェクトをクローズ
                                     DatabaseObject.close();
                                     }
-                                ((ListView) findViewById(R.id.ListView)).setAdapter(ad);
+                                //store the random sentence in a variable so we don't get unpredictable results later
+                                lastSentence = getRandomStringFromList(examplesList);
+                                ((Button) findViewById(R.id.ExamplesButton)).setText(lastSentence);
                             }
                         });
+
+        //Reveal translation when you click on the example.
+        findViewById(R.id.ExamplesButton)
+                .setOnClickListener(
+                        new View.OnClickListener() {
+                            @Override
+                            public void onClick(View v) {
+                                //If we click the button twice without caching "lastSentence" we would get an empty string. TODO: Maybe change this into toggle.
+                                ((Button)findViewById(R.id.ExamplesButton)).setText(getTranslationFromList(examplesList,lastSentence));
+                            }
+                        });
+    }
+
+    //Simply returns the value from a specified key.
+    private String getTranslationFromList(HashMap<String,String> pList, String pCurrentExample){
+        return pList.get(pCurrentExample);
+    }
+    //returns true if all the parameters match the user input TODO: Update the database to match the selection choices for types of sentences.
+    private boolean choicesMatch(String pWclass, String pType, String pLevel){
+        return pWclass.toLowerCase().equals(wclassStr.toLowerCase()) /*&& pType.equals(typeStr)*/ && pLevel.toLowerCase().equals(levelStr.toLowerCase());
+    }
+    //Random generator has a global scope so the seed doesn't change every time we execute a function with random.
+    private java.util.Random randomGenerator = new Random();
+    //Returns a random item from a HashMap. Currently used to return example sentences.
+    private String getRandomStringFromList(HashMap<String, String> pList){
+        String[] yExamples = pList.keySet().toArray(new String[pList.size()]);
+
+        if (pList.size()>0)
+            return yExamples[randomGenerator.nextInt(pList.size())];
+        else return "List is Empty!";
     }
                             //▼button onClick method終了▼
 
@@ -290,7 +326,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     // writetoDatabaseの定義
-    private void writetoDatabase(String filename) {
+    private void writeToDatabase(String filename) {
         try{
             AssetManager assetManager = getApplicationContext().getAssets();
             //InputStream inputStream = assetManager.open("jap_verb" + i + ".csv");
@@ -311,7 +347,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-        // ▼database method設定▼
+    // ▼database method設定▼
     private void Database(){
 
             // database
@@ -352,12 +388,7 @@ public class MainActivity extends AppCompatActivity {
             // データベースオブジェクトをクローズ
 //        DatabaseObject.close();
     }
-
     //▼database method終了▼
-
-
-
-
 
     //▼DatabaseHelper class設定▼
     private static class DatabaseHelper extends SQLiteOpenHelper {
