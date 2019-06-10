@@ -54,14 +54,14 @@ id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyak
 ,English,Japanese,Beginner1,Verb,【 I-Vpn-yesterday 】,私は昨日音楽を聴きませんでした,I didn''t listen to the music yesterday.,私は | 昨日 | 音楽を 聴きませんでした,watashi wa | kinou | ongaku wo kiki masen deshita,I | yesterday | not listend to the music(polite)
 ,English,Japanese,Beginner1,Verb,【 I-Vpn-yesterday 】,私は昨日仕事をしませんでした,I didn''t work yesterday.,私は | 昨日 | 仕事を しませんでした,watashi wa | kinou | shigoto wo shi masen deshita,I | yesterday | not worked(p)
 ,English,Japanese,Beginner1,Verb,【 I-Vpn-yesterday 】,私は昨日友達と遊びませんでした,I didn''t hang out with friends.,私は | 昨日 | 友達と | 遊びませんでした,watashi wa | kinou | tomodachi to | asobi masen deshita,I | yesterday | with friends | not hanged out(polite)
-,English,Japanese,Beginner1,Verb,,,,,,
+,English,Japanese,Beginner1,Verb,,,,,,1
 ,English,Japanese,Beginner1,Verb,【 I-Vp-today 】,私は今日図書館に行きました,I went to the library today.,私は | 今日 | 図書館に 行きました,watashi wa | kyou | toshokan ni iki mashita,I | today | went to the library(polite)
 ,English,Japanese,Beginner1,Verb,【 I-Vp-today 】,私は今日家でゲームをしました,I played games at home today.,私は | 今日 | 家で | ゲームを しました,watashi wa | kyou | ie de | ge-mu wo shi mashita,I | today | at home | played games(polite)
 ,English,Japanese,Beginner1,Verb,【 Did you-V-today? 】,あなたは今日図書館に行きましたか？,Did you go to the library today?,あなたは | 今日 | 図書館に 行きました | か？,anata wa | kyou | toshokan ni iki mashita | ka?,You | today | went to the library | ？(polite)
 ,English,Japanese,Beginner1,Verb,【 Did you-V-today? 】,あなたは今日家でゲームをしましたか？,Did you play games at home today?,あなたは | 今日 | 家で | ゲームを しました | か？,anata wa | kyou | ie de | ge-mu wo shi mashita | ka?,You | today | at home | played games | ?(polite)
 ,English,Japanese,Beginner1,Verb,【 I-Vpn-today 】,私は今日スマホを使いませんでした,I didn''t use the smartphone today.,私は | 今日 | スマホを 使いませんでした,watashi wa | kyou | sumaho wo tsukai masen dehsita,I | today | not used the smartphone(polite)
 ,English,Japanese,Beginner1,Verb,【 I-Vpn-today 】,私は今日朝食を食べませんでした,I didn''t eat breakfast today.,私は | 今日 | 朝食を 食べませんでした,watashi wa | kyou | choushoku wo tabe masen deshita,I | today | not ate breakfast(polite)
-,English,Japanese,Beginner1,Verb,,,,,,
+,English,Japanese,Beginner1,Verb,,,,,,1
 ,English,Japanese,Beginner1,Verb,【 I will-V-today 】,私は今日図書館に行きます,I will go to the library today.,私は | 今日 | 図書館に 行きます, watashi wa | kyou | toshokan ni iki masu, I | today | go to the library(polite)
 ,English,Japanese,Beginner1,Verb,【 I will-V-today 】,私は今日早く寝ます,I will go to bed early today.,私は | 今日 | 早く 寝ます, watashi wa | kyou | hayaku ne masu, I | today | go to bed early(polite)
 ,English,Japanese,Beginner1,Verb,【 Will you-V-today? 】,あなたは今日図書館に行きますか？,Will you go to the library today?,あなたは | 今日 | 図書館に 行きます | か？, anata wa | kyou | toshokan ni iki masu | ka?, You | today | go to the library | ？(polite)

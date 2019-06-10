@@ -239,9 +239,6 @@ public class MainActivity extends AppCompatActivity {
         //A key-value pair list of yExamples as keys and tExamples as values.
         final DualHashBidiMap<String,String> examplesList = new DualHashBidiMap<String, String>();
 
-        //chikugoyaku buttons array
-        final ArrayList<Button> chikugoyakuButtons = new ArrayList<>();
-
         // ▼button onClick method設定▼
         findViewById(R.id.button)
                 .setOnClickListener(
@@ -266,26 +263,17 @@ public class MainActivity extends AppCompatActivity {
                                             String wclass = cursor.getString(cursor.getColumnIndex("wclass"));
                                             String type = cursor.getString(cursor.getColumnIndex("type"));
                                             String level = cursor.getString(cursor.getColumnIndex("level"));
-                                            String tlang_ex = cursor.getString(cursor.getColumnIndex("tlang_ex"));
+                                            String tlang_ex = cursor.getString(cursor.getColumnIndex("tlang_exf"));
                                             String ylang_ex = cursor.getString(cursor.getColumnIndex("ylang_ex"));
                                             String chikugoyaku = cursor.getString(cursor.getColumnIndex("chikugoyaku"));
                                             String furigana = cursor.getString(cursor.getColumnIndex("furigana"));
                                             String[] chikugoyakuFrag = chikugoyaku.split(" | ");
 
-                                            chikugoyakuButtons.clear();
-                                            for(int i=0; i<chikugoyakuFrag.length; i++){
-                                                Button frag = new Button(getApplicationContext());
-                                                LinearLayout layout = (LinearLayout) findViewById(R.id.Layout);
-                                                frag.setLayoutParams(new LayoutParams(
-                                                        LayoutParams.WRAP_CONTENT,
-                                                        LayoutParams.WRAP_CONTENT));
-                                                layout.addView(frag);
-                                                chikugoyakuButtons.add(frag);
-                                            }
                                             //String row = /*id + ":" + type + ":" +level + " : " + levelStr+"\n"+  + wclass + " : " + wclassStr + "\n"type + " : " + typeStr+"\n" +*/ ylang_ex/* + ":" + tlang_ex*/;
                                             //String row = tense + ":" ;
+                                            String fullExample = furigana + "\n" + tlang_ex + "\n" + chikugoyaku;
                                             if (choicesMatch(wclass,type,level))
-                                                examplesList.put(ylang_ex, tlang_ex);
+                                                examplesList.put(ylang_ex, fullExample);
                                                 //ad.add(row);
 
                                         }while(cursor.moveToNext());
@@ -319,7 +307,7 @@ public class MainActivity extends AppCompatActivity {
 
     //returns true if all the parameters match the user input TODO: Update the database to match the selection choices for types of sentences.
     private boolean choicesMatch(String pWclass, String pType, String pLevel){
-        return pWclass.toLowerCase().equals(wclassStr.toLowerCase()) /*&& pType.equals(typeStr)*/ && pLevel.toLowerCase().equals(levelStr.toLowerCase());
+        return pWclass.toLowerCase().equals(wclassStr.toLowerCase()) && pType.toLowerCase().equals(typeStr.toLowerCase()) && pLevel.toLowerCase().equals(levelStr.toLowerCase());
     }
     //Random generator has a global scope so the seed doesn't change every time we execute a function with random.
     private java.util.Random randomGenerator = new Random();

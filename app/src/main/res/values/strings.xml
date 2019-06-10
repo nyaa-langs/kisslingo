@@ -53,10 +53,10 @@
     </string-array>
 
     <string-array name="TJ">
-        <item>私は毎日-V /  I-V-every day </item>
-        <item>あなたは毎日-V-か？ / Do you-V-every day? </item>
-        <item>あなたは毎日何時に-V-か？  /  What time-do you-V-every day? </item>
-        <item>あなたは毎日どこで、に-V-か？  /  Where-do you-V-every day? </item>
+        <item>【 I-V-every day 】</item>
+        <item>【 Do you-V-every day? 】</item>
+        <item>【 What time do you-V-every day? 】</item>
+        <item>【 Where do you-V-every day? 】</item>
     </string-array>
 
     <string-array name="TE">
