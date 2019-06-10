@@ -11,17 +11,21 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.content.res.AssetManager;
 import android.widget.Button;
+import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemSelectedListener;
+import android.view.ViewGroup.LayoutParams;
+
+import org.apache.commons.collections4.bidimap.DualHashBidiMap;
 
 import java.lang.String;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.InputStream;
+import java.util.ArrayList;
 import java.util.Random;
-import java.util.HashMap;
 
 //▼MainActivity class開始▼
 public class MainActivity extends AppCompatActivity {
@@ -39,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
     private String wclassStr;
     private String typeStr;
 
-    private String lastSentence;
+    private String lastSentence = "Flashcard~";
 
 
     @Override
@@ -233,7 +237,10 @@ public class MainActivity extends AppCompatActivity {
         // ▼spinner　onItemSelected終了▼
 
         //A key-value pair list of yExamples as keys and tExamples as values.
-        final HashMap<String,String> examplesList = new HashMap<String, String>();
+        final DualHashBidiMap<String,String> examplesList = new DualHashBidiMap<String, String>();
+
+        //chikugoyaku buttons array
+        final ArrayList<Button> chikugoyakuButtons = new ArrayList<>();
 
         // ▼button onClick method設定▼
         findViewById(R.id.button)
@@ -257,14 +264,24 @@ public class MainActivity extends AppCompatActivity {
                                         do{
                                             int id = cursor.getInt(cursor.getColumnIndex("id"));
                                             String wclass = cursor.getString(cursor.getColumnIndex("wclass"));
-                                            //String word = cursor.getString(cursor.getColumnIndex("word"));
-                                            //String subject = cursor.getString(cursor.getColumnIndex("subject"));
-                                            //String tense = cursor.getString(cursor.getColumnIndex("tense"));
                                             String type = cursor.getString(cursor.getColumnIndex("type"));
                                             String level = cursor.getString(cursor.getColumnIndex("level"));
                                             String tlang_ex = cursor.getString(cursor.getColumnIndex("tlang_ex"));
                                             String ylang_ex = cursor.getString(cursor.getColumnIndex("ylang_ex"));
+                                            String chikugoyaku = cursor.getString(cursor.getColumnIndex("chikugoyaku"));
+                                            String furigana = cursor.getString(cursor.getColumnIndex("furigana"));
+                                            String[] chikugoyakuFrag = chikugoyaku.split(" | ");
 
+                                            chikugoyakuButtons.clear();
+                                            for(int i=0; i<chikugoyakuFrag.length; i++){
+                                                Button frag = new Button(getApplicationContext());
+                                                LinearLayout layout = (LinearLayout) findViewById(R.id.Layout);
+                                                frag.setLayoutParams(new LayoutParams(
+                                                        LayoutParams.WRAP_CONTENT,
+                                                        LayoutParams.WRAP_CONTENT));
+                                                layout.addView(frag);
+                                                chikugoyakuButtons.add(frag);
+                                            }
                                             //String row = /*id + ":" + type + ":" +level + " : " + levelStr+"\n"+  + wclass + " : " + wclassStr + "\n"type + " : " + typeStr+"\n" +*/ ylang_ex/* + ":" + tlang_ex*/;
                                             //String row = tense + ":" ;
                                             if (choicesMatch(wclass,type,level))
@@ -289,24 +306,26 @@ public class MainActivity extends AppCompatActivity {
                         new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
-                                //If we click the button twice without caching "lastSentence" we would get an empty string. TODO: Maybe change this into toggle.
-                                ((Button)findViewById(R.id.ExamplesButton)).setText(getTranslationFromList(examplesList,lastSentence));
+                                //If we click the button twice without caching "lastSentence" we would get an empty string.
+                                Button currentButton = (findViewById(R.id.ExamplesButton));
+                                System.out.println(currentButton.getText().toString() + " == " + lastSentence + " : " + currentButton.getText().toString().toLowerCase().equals(lastSentence.toLowerCase()) );
+                                if(currentButton.getText()!=null && currentButton.getText().toString().toLowerCase().equals(lastSentence.toLowerCase())){
+                                    currentButton.setText(examplesList.get(lastSentence));
+                                }
+                                else currentButton.setText(lastSentence);
                             }
                         });
     }
 
-    //Simply returns the value from a specified key.
-    private String getTranslationFromList(HashMap<String,String> pList, String pCurrentExample){
-        return pList.get(pCurrentExample);
-    }
     //returns true if all the parameters match the user input TODO: Update the database to match the selection choices for types of sentences.
     private boolean choicesMatch(String pWclass, String pType, String pLevel){
         return pWclass.toLowerCase().equals(wclassStr.toLowerCase()) /*&& pType.equals(typeStr)*/ && pLevel.toLowerCase().equals(levelStr.toLowerCase());
     }
     //Random generator has a global scope so the seed doesn't change every time we execute a function with random.
     private java.util.Random randomGenerator = new Random();
+
     //Returns a random item from a HashMap. Currently used to return example sentences.
-    private String getRandomStringFromList(HashMap<String, String> pList){
+    private String getRandomStringFromList(DualHashBidiMap<String, String> pList){
         String[] yExamples = pList.keySet().toArray(new String[pList.size()]);
 
         if (pList.size()>0)
