@@ -8,41 +8,57 @@
 
     <LinearLayout
         android:id="@+id/Layout"
-        android:layout_width="374dp"
-        android:layout_height="539dp"
-        android:layout_marginStart="8dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="32dp"
         android:layout_marginEnd="16dp"
+        android:layout_marginBottom="32dp"
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
         <Spinner
             android:id="@+id/spinner1"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="41dp"
+            android:scrollbarTrackVertical="@null"
+            android:spinnerMode="dropdown"
+            android:textAlignment="center" />
 
         <Spinner
             android:id="@+id/spinner2"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="36dp"
+            android:scrollbarTrackVertical="@null"
+            android:spinnerMode="dropdown"
+            android:textAlignment="center" />
 
         <Spinner
             android:id="@+id/spinner3"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="37dp"
+            android:scrollbarTrackVertical="@null"
+            android:spinnerMode="dropdown"
+            android:textAlignment="center" />
 
         <Spinner
             android:id="@+id/spinner4"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="37dp"
+            android:scrollbarTrackVertical="@null"
+            android:spinnerMode="dropdown"
+            android:textAlignment="center" />
 
         <Spinner
             android:id="@+id/spinner5"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="43dp"
+            android:scrollbarTrackVertical="@null"
+            android:spinnerMode="dropdown"
+            android:textAlignment="center" />
 
         <Button
             android:id="@+id/button"
@@ -52,10 +68,13 @@
 
         <Button
             android:id="@+id/ExamplesButton"
-            style="@android:style/Widget.Material.Light.Button.Inset"
+            style="@android:style/Widget.DeviceDefault.Light.Button.Inset"
             android:layout_width="match_parent"
-            android:layout_height="369dp"
-            android:text="" />
+            android:layout_height="match_parent"
+
+            android:stateListAnimator="@null"
+            android:text="Empty~"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
     </LinearLayout>
 

@@ -1,5 +1,10 @@
 package com.minapikke.kisslingo;
 
+import android.animation.Animator;
+import android.animation.AnimatorInflater;
+import android.animation.AnimatorListenerAdapter;
+import android.animation.AnimatorSet;
+import android.animation.ObjectAnimator;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.content.Context;
@@ -11,11 +16,9 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.content.res.AssetManager;
 import android.widget.Button;
-import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemSelectedListener;
-import android.view.ViewGroup.LayoutParams;
 
 import org.apache.commons.collections4.bidimap.DualHashBidiMap;
 
@@ -24,7 +27,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.InputStream;
-import java.util.ArrayList;
 import java.util.Random;
 
 //▼MainActivity class開始▼
@@ -52,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        final float scale = getApplicationContext().getResources().getDisplayMetrics().density;
 
         // ▼pre-made database設定▼
         //Database();
@@ -285,6 +288,8 @@ public class MainActivity extends AppCompatActivity {
                                 //store the random sentence in a variable so we don't get unpredictable results later
                                 lastSentence = getRandomStringFromList(examplesList);
                                 ((Button) findViewById(R.id.ExamplesButton)).setText(lastSentence);
+
+                                //findViewById(R.id.card_front).startAnimation(AnimationUtils.loadAnimation(getApplicationContext(), R.anim.animations));
                             }
                         });
 
@@ -295,12 +300,31 @@ public class MainActivity extends AppCompatActivity {
                             @Override
                             public void onClick(View v) {
                                 //If we click the button twice without caching "lastSentence" we would get an empty string.
-                                Button currentButton = (findViewById(R.id.ExamplesButton));
+                                final Button currentButton = (findViewById(R.id.ExamplesButton));
                                 System.out.println(currentButton.getText().toString() + " == " + lastSentence + " : " + currentButton.getText().toString().toLowerCase().equals(lastSentence.toLowerCase()) );
+
+                                AnimatorSet anim = (AnimatorSet) AnimatorInflater.loadAnimator(getApplicationContext(), R.animator.flipanim);
+                                anim.setTarget(currentButton);
+                                currentButton.setCameraDistance(8000 * scale); //8000 = distance
+
                                 if(currentButton.getText()!=null && currentButton.getText().toString().toLowerCase().equals(lastSentence.toLowerCase())){
                                     currentButton.setText(examplesList.get(lastSentence));
                                 }
                                 else currentButton.setText(lastSentence);
+
+                                final String tempText = currentButton.getText().toString();
+                                anim.addListener(new AnimatorListenerAdapter() {
+                                    @Override
+                                    public void onAnimationStart(Animator animation, boolean isReverse) {
+                                        currentButton.setText("");
+                                    }
+
+                                    @Override
+                                    public void onAnimationEnd(Animator animation, boolean isReverse) {
+                                        currentButton.setText(tempText);
+                                    }
+                                });
+                                anim.start();
                             }
                         });
     }
