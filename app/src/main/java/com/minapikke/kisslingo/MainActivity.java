@@ -4,7 +4,7 @@ import android.animation.Animator;
 import android.animation.AnimatorInflater;
 import android.animation.AnimatorListenerAdapter;
 import android.animation.AnimatorSet;
-import android.animation.ObjectAnimator;
+import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.content.Context;
@@ -16,9 +16,11 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.content.res.AssetManager;
 import android.widget.Button;
+import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemSelectedListener;
+import android.widget.TextView;
 
 import org.apache.commons.collections4.bidimap.DualHashBidiMap;
 
@@ -27,6 +29,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.InputStream;
+import java.util.ArrayList;
 import java.util.Random;
 
 //▼MainActivity class開始▼
@@ -45,24 +48,19 @@ public class MainActivity extends AppCompatActivity {
     private String wclassStr;
     private String typeStr;
 
-    private String lastSentence = "Flashcard~";
-
-
     @Override
     // ▼onCreate method設定▼
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        final float scale = getApplicationContext().getResources().getDisplayMetrics().density;
 
         // ▼pre-made database設定▼
         //Database();
 
         //▼csvファイルからDatabaseへの落とし込み
         DatabaseHelper DbHelperObject = new DatabaseHelper(MainActivity.this);
-        DatabaseObject =
-                DbHelperObject.getWritableDatabase();
+        DatabaseObject = DbHelperObject.getWritableDatabase();
 
         String dropTable = "DROP TABLE IF EXISTS " + DB_TABLE;
 
@@ -78,36 +76,37 @@ public class MainActivity extends AppCompatActivity {
         writeToDatabase("jap_verb.csv");
         //writeToDatabase("eng_verb.csv");
 
+        final ArrayList<Spinner> spinners = new ArrayList<>();
 
         // ▼spinner　onItemSelected設定▼
-        final Spinner spinner1 = (Spinner) findViewById(R.id.spinner1);
-        final Spinner spinner2 = (Spinner) findViewById(R.id.spinner2);
-        final Spinner spinner3 = (Spinner) findViewById(R.id.spinner3);
-        final Spinner spinner4 = (Spinner) findViewById(R.id.spinner4);
-        final Spinner spinner5 = (Spinner) findViewById(R.id.spinner5);
+        spinners.add((Spinner)findViewById(R.id.spinner1));
+        spinners.add((Spinner)findViewById(R.id.spinner2));
+        spinners.add((Spinner)findViewById(R.id.spinner3));
+        spinners.add((Spinner)findViewById(R.id.spinner4));
+        spinners.add((Spinner)findViewById(R.id.spinner5));
+        // ▼spinner　onItemSelected設定▼
+//        final Spinner spinner1 = findViewById(R.id.spinner1);
+//        final Spinner spinner2 = findViewById(R.id.spinner2);
+//        final Spinner spinner3 = findViewById(R.id.spinner3);
+//        final Spinner spinner4 = findViewById(R.id.spinner4);
+//        final Spinner spinner5 = findViewById(R.id.spinner5);
 
-        ArrayAdapter<String> adapter1
-                = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, getResources().getStringArray(R.array.YL));
-        ArrayAdapter<String> adapter2
-                = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, getResources().getStringArray(R.array.TLE));
-        ArrayAdapter<String> adapter3
-                = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, getResources().getStringArray(R.array.LJ));
-        ArrayAdapter<String> adapter4
-                = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, getResources().getStringArray(R.array.CJ));
-        ArrayAdapter<String> adapter5
-                = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, getResources().getStringArray(R.array.TJ));
-
-        adapter1.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        adapter2.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        adapter3.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        adapter4.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        adapter5.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-
-        spinner1.setAdapter(adapter1);
-        spinner2.setAdapter(adapter2);
-        spinner3.setAdapter(adapter3);
-        spinner4.setAdapter(adapter4);
-        spinner5.setAdapter(adapter5);
+        ArrayList<ArrayAdapter<String>> adapters = new ArrayList<>();
+        adapters.add(new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, getResources().getStringArray(R.array.YL)));
+        adapters.add(new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, getResources().getStringArray(R.array.TLE)));
+        adapters.add(new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, getResources().getStringArray(R.array.LJ)));
+        adapters.add(new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, getResources().getStringArray(R.array.CJ)));
+        adapters.add(new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, getResources().getStringArray(R.array.TJ)));
+//        ArrayAdapter<String> adapter1
+//                = ;
+//        ArrayAdapter<String> adapter2
+//                = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, getResources().getStringArray(R.array.TLE));
+//        ArrayAdapter<String> adapter3
+//                = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, getResources().getStringArray(R.array.LJ));
+//        ArrayAdapter<String> adapter4
+//                = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, getResources().getStringArray(R.array.CJ));
+//        ArrayAdapter<String> adapter5
+//                = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, getResources().getStringArray(R.array.TJ));
 
         // spinner未選択時
         ylangStr = getResources().getStringArray(R.array.YL)[0];
@@ -116,132 +115,200 @@ public class MainActivity extends AppCompatActivity {
         wclassStr = getResources().getStringArray(R.array.CJ)[0];
         typeStr = getResources().getStringArray(R.array.TJ)[0];
 
+        for (int i = 0; i < adapters.size(); i++){
+            adapters.get(i).setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+            spinners.get(i).setAdapter(adapters.get(i));
+            // default表示切替
+            spinners.get(i).setSelection(0,false);
+            spinners.get(i).setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
+        }
+//        adapter1.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+//        adapter2.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+//        adapter3.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+//        adapter4.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+//        adapter5.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+
+//
+//        spinner2.setAdapter(adapter2);
+//        spinner3.setAdapter(adapter3);
+//        spinner4.setAdapter(adapter4);
+//        spinner5.setAdapter(adapter5);
+
+
+
         // default表示切替
-        spinner1.setSelection(0, false);
-        spinner2.setSelection(0, false);
-        spinner3.setSelection(0, false);
-        spinner4.setSelection(0, false);
-        spinner5.setSelection(0, false);
+//        spinner1.setSelection(0, false);
+//        spinner2.setSelection(0, false);
+//        spinner3.setSelection(0, false);
+//        spinner4.setSelection(0, false);
+//        spinner5.setSelection(0, false);
 
         // spinner1へリスナーを登録
-        spinner1.setOnItemSelectedListener(new OnItemSelectedListener() {
-            //　アイテムが選択された時
-            @Override
-            public void onItemSelected(AdapterView<?> parent,
-                                       View view, int position, long id) {
+//        spinners.get(0).setOnItemSelectedListener(new OnItemSelectedListener() {
+//            //　アイテムが選択された時
+//            @Override
+//            public void onItemSelected(AdapterView<?> parent,
+//                                       View view, int position, long id) {
+//
+//                Spinner spinner1 = (Spinner)parent;
+//                ylangStr = (String)spinner1.getSelectedItem();
+//
+//                //spinner2-5 のylangStrによる分岐定義
+//                if(ylangStr.equals("English")){
+//                    ((Button)findViewById(R.id.button)).setText(R.string.study_button_en);
+//                    setSpinner(spinners.get(1), getResources().getStringArray(R.array.TLE));
+//                    setSpinner(spinners.get(2), getResources().getStringArray(R.array.LJ));
+//                    setSpinner(spinners.get(3), getResources().getStringArray(R.array.CJ));
+//                    setSpinner(spinners.get(4), getResources().getStringArray(R.array.TJ));
+//                }else{
+//                    ((Button)findViewById(R.id.button)).setText(R.string.study_button_jp);
+//                    setSpinner(spinners.get(1), getResources().getStringArray(R.array.TLJ));
+//                    setSpinner(spinners.get(2), getResources().getStringArray(R.array.LE));
+//                    setSpinner(spinners.get(3), getResources().getStringArray(R.array.CE));
+//                    setSpinner(spinners.get(4), getResources().getStringArray(R.array.TE));
+//                }
+//                /*else if( ylang.equals("日本語")) {
+//                    setSpinner(spinner2, getResources().getStringArray(R.array.TLJ));
+//                    setSpinner(spinner3, getResources().getStringArray(R.array.LE));
+//                    setSpinner(spinner4, getResources().getStringArray(R.array.CE));
+//                    setSpinner(spinner5, getResources().getStringArray(R.array.TE));
+//                }else{
+//                    //ここで、spinner5を画面から消去し、spinner6をsubjectNounList（this/this noun / I / mine etc）に変更したい
+//                    setSpinner(spinner5, getResources().getStringArray(R.array.WNLE));
+//                    setSpinner(spinner7, getResources().getStringArray(R.array.TBLJ));
+//                }*/
+//
+//            }
+//
+//            //　アイテムが選択されなかった
+//            public void onNothingSelected(AdapterView<?> parent) {
+//                //
+//            }
+//        });
 
-                Spinner spinner1 = (Spinner)parent;
-                ylangStr = (String)spinner1.getSelectedItem();
+        for (int i = 0; i < 5; i++){
+            spinners.get(i).setOnItemSelectedListener(new OnItemSelectedListener() {
+                //　アイテムが選択された時
+                @Override
+                public void onItemSelected(AdapterView<?> parent,
+                                           View view, int position, long id) {
 
-                //spinner2-5 のylangStrによる分岐定義
-                if(ylangStr.equals("English")){
-                    ((Button)findViewById(R.id.button)).setText(R.string.study_button_en);
-                    setSpinner(spinner2, getResources().getStringArray(R.array.TLE));
-                    setSpinner(spinner3, getResources().getStringArray(R.array.LJ));
-                    setSpinner(spinner4, getResources().getStringArray(R.array.CJ));
-                    setSpinner(spinner5, getResources().getStringArray(R.array.TJ));
-                }else{
-                    ((Button)findViewById(R.id.button)).setText(R.string.study_button_jp);
-                    setSpinner(spinner2, getResources().getStringArray(R.array.TLJ));
-                    setSpinner(spinner3, getResources().getStringArray(R.array.LE));
-                    setSpinner(spinner4, getResources().getStringArray(R.array.CE));
-                    setSpinner(spinner5, getResources().getStringArray(R.array.TE));
+                    Spinner spinner = (Spinner)parent;
+                    switch (spinner.getId()){
+                        case R.id.spinner1:
+                            ylangStr = (String)spinner.getSelectedItem();
+
+                            //spinner2-5 のylangStrによる分岐定義
+                            if(ylangStr.equals("English")){
+                                ((Button)findViewById(R.id.button)).setText(R.string.study_button_en);
+                                setSpinner(spinners.get(1), getResources().getStringArray(R.array.TLE));
+                                setSpinner(spinners.get(2), getResources().getStringArray(R.array.LJ));
+                                setSpinner(spinners.get(3), getResources().getStringArray(R.array.CJ));
+                                setSpinner(spinners.get(4), getResources().getStringArray(R.array.TJ));
+                            }else{
+                                ((Button)findViewById(R.id.button)).setText(R.string.study_button_jp);
+                                setSpinner(spinners.get(1), getResources().getStringArray(R.array.TLJ));
+                                setSpinner(spinners.get(2), getResources().getStringArray(R.array.LE));
+                                setSpinner(spinners.get(3), getResources().getStringArray(R.array.CE));
+                                setSpinner(spinners.get(4), getResources().getStringArray(R.array.TE));
+                            }
+                            break;
+                        case R.id.spinner2:
+                            tlangStr = (String)spinner.getSelectedItem();
+                            break;
+                        case R.id.spinner3:
+                            levelStr = (String)spinner.getSelectedItem();
+                            break;
+                        case R.id.spinner4:
+                            wclassStr = (String)spinner.getSelectedItem();
+                            break;
+                        case R.id.spinner5:
+                            typeStr = (String)spinner.getSelectedItem();
+                            break;
+                    }
                 }
-                /*else if( ylang.equals("日本語")) {
-                    setSpinner(spinner2, getResources().getStringArray(R.array.TLJ));
-                    setSpinner(spinner3, getResources().getStringArray(R.array.LE));
-                    setSpinner(spinner4, getResources().getStringArray(R.array.CE));
-                    setSpinner(spinner5, getResources().getStringArray(R.array.TE));
-                }else{
-                    //ここで、spinner5を画面から消去し、spinner6をsubjectNounList（this/this noun / I / mine etc）に変更したい
-                    setSpinner(spinner5, getResources().getStringArray(R.array.WNLE));
-                    setSpinner(spinner7, getResources().getStringArray(R.array.TBLJ));
-                }*/
 
-            }
-
-            //　アイテムが選択されなかった
-            public void onNothingSelected(AdapterView<?> parent) {
-                //
-            }
-
-        });
-
-        // spinner2へリスナーを登録
-        spinner2.setOnItemSelectedListener(new OnItemSelectedListener() {
-            //　アイテムが選択された時
-            @Override
-            public void onItemSelected(AdapterView<?> parent,
-                                       View view, int position, long id) {
-
-                Spinner spinner2 = (Spinner)parent;
-                tlangStr = (String)spinner2.getSelectedItem();
-            }
-
-            //　アイテムが選択されなかった
-            public void onNothingSelected(AdapterView<?> parent) {
-                //
-            }
-        });
-
-
-        // spinner3へリスナーを登録
-        spinner3.setOnItemSelectedListener(new OnItemSelectedListener() {
-            //　アイテムが選択された時
-            @Override
-            public void onItemSelected(AdapterView<?> parent,
-                                       View view, int position, long id) {
-
-                Spinner spinner3 = (Spinner)parent;
-                levelStr = (String)spinner3.getSelectedItem();
-            }
-
-            //　アイテムが選択されなかった
-            public void onNothingSelected(AdapterView<?> parent) {
-                //
-            }
-        });
-
-        // spinner4へリスナーを登録
-        spinner4.setOnItemSelectedListener(new OnItemSelectedListener() {
-            //　アイテムが選択された時
-            @Override
-            public void onItemSelected(AdapterView<?> parent,
-                                       View view, int position, long id) {
-
-                Spinner spinner4 = (Spinner)parent;
-                wclassStr = (String)spinner4.getSelectedItem();
-            }
-
-            //　アイテムが選択されなかった
-            public void onNothingSelected(AdapterView<?> parent) {
-                //
-            }
-        });
-
-        // spinner5へリスナーを登録
-        spinner5.setOnItemSelectedListener(new OnItemSelectedListener() {
-            //　アイテムが選択された時
-            @Override
-            public void onItemSelected(AdapterView<?> parent,
-                                       View view, int position, long id) {
-
-                Spinner spinner5 = (Spinner)parent;
-                typeStr = (String)spinner5.getSelectedItem();
-            }
-
-            //　アイテムが選択されなかった
-            public void onNothingSelected(AdapterView<?> parent) {
-                //
-            }
-        });
+                //　アイテムが選択されなかった
+                public void onNothingSelected(AdapterView<?> parent) {
+                    //
+                }
+            });
+        }
+//        // spinner2へリスナーを登録
+//        spinner2.setOnItemSelectedListener(new OnItemSelectedListener() {
+//            //　アイテムが選択された時
+//            @Override
+//            public void onItemSelected(AdapterView<?> parent,
+//                                       View view, int position, long id) {
+//
+//                Spinner spinner2 = (Spinner)parent;
+//                tlangStr = (String)spinner2.getSelectedItem();
+//            }
+//
+//            //　アイテムが選択されなかった
+//            public void onNothingSelected(AdapterView<?> parent) {
+//                //
+//            }
+//        });
+//
+//
+//        // spinner3へリスナーを登録
+//        spinner3.setOnItemSelectedListener(new OnItemSelectedListener() {
+//            //　アイテムが選択された時
+//            @Override
+//            public void onItemSelected(AdapterView<?> parent,
+//                                       View view, int position, long id) {
+//
+//                Spinner spinner3 = (Spinner)parent;
+//                levelStr = (String)spinner3.getSelectedItem();
+//            }
+//
+//            //　アイテムが選択されなかった
+//            public void onNothingSelected(AdapterView<?> parent) {
+//                //
+//            }
+//        });
+//
+//        // spinner4へリスナーを登録
+//        spinner4.setOnItemSelectedListener(new OnItemSelectedListener() {
+//            //　アイテムが選択された時
+//            @Override
+//            public void onItemSelected(AdapterView<?> parent,
+//                                       View view, int position, long id) {
+//
+//                Spinner spinner4 = (Spinner)parent;
+//                wclassStr = (String)spinner4.getSelectedItem();
+//            }
+//
+//            //　アイテムが選択されなかった
+//            public void onNothingSelected(AdapterView<?> parent) {
+//                //
+//            }
+//        });
+//
+//        // spinner5へリスナーを登録
+//        spinner5.setOnItemSelectedListener(new OnItemSelectedListener() {
+//            //　アイテムが選択された時
+//            @Override
+//            public void onItemSelected(AdapterView<?> parent,
+//                                       View view, int position, long id) {
+//
+//                Spinner spinner5 = (Spinner)parent;
+//                typeStr = (String)spinner5.getSelectedItem();
+//            }
+//
+//            //　アイテムが選択されなかった
+//            public void onNothingSelected(AdapterView<?> parent) {
+//                //
+//            }
+//        });
 
 
         // ▼spinner　onItemSelected終了▼
 
         //A key-value pair list of yExamples as keys and tExamples as values.
         final DualHashBidiMap<String,String> examplesList = new DualHashBidiMap<String, String>();
-
+        final LinearLayout linearLayout =  findViewById(R.id.ExamplesScroll);
         // ▼button onClick method設定▼
         findViewById(R.id.button)
                 .setOnClickListener(
@@ -259,6 +326,7 @@ public class MainActivity extends AppCompatActivity {
 
                                     //ad = new ArrayAdapter<String>(MainActivity.this, android.R.layout.simple_list_item_1);
                                     examplesList.clear();
+                                    linearLayout.removeAllViews();
 
                                     if(cursor.moveToFirst()){
                                         do{
@@ -275,58 +343,75 @@ public class MainActivity extends AppCompatActivity {
                                             //String row = /*id + ":" + type + ":" +level + " : " + levelStr+"\n"+  + wclass + " : " + wclassStr + "\n"type + " : " + typeStr+"\n" +*/ ylang_ex/* + ":" + tlang_ex*/;
                                             //String row = tense + ":" ;
                                             String fullExample = furigana + "\n" + tlang_ex + "\n" + chikugoyaku;
-                                            if (choicesMatch(wclass,type,level))
-                                                examplesList.put(ylang_ex, fullExample);
-                                                //ad.add(row);
+                                            if (choicesMatch(wclass,type,level)) {
 
+                                                Button button = new Button(getApplicationContext());
+                                                button.setText(ylang_ex);
+                                                button.setAllCaps(false);
+
+                                                linearLayout.addView(button);
+                                                examplesList.put(ylang_ex, fullExample);
+                                                OnClickButton(button, examplesList);
+                                                //ad.add(row);
+                                            }
                                         }while(cursor.moveToNext());
                                     }
                                 } catch(Exception e){
                                     // データベースオブジェクトをクローズ
                                     DatabaseObject.close();
                                     }
+                                if (examplesList.size()<1){
+                                    TextView view = new TextView(getApplicationContext());
+                                    view.setText(R.string.empty_list_en);
+                                    view.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
+                                    view.setTextSize(14f);
+                                    view.setTextColor(Color.rgb(100,0,255));
+                                    linearLayout.addView(view);
+                                }
                                 //store the random sentence in a variable so we don't get unpredictable results later
-                                lastSentence = getRandomStringFromList(examplesList);
-                                ((Button) findViewById(R.id.ExamplesButton)).setText(lastSentence);
-
+//                                lastSentence = getRandomStringFromList(examplesList);
+//                                ((Button) findViewById(R.id.ExamplesButton)).setText(lastSentence);
                                 //findViewById(R.id.card_front).startAnimation(AnimationUtils.loadAnimation(getApplicationContext(), R.anim.animations));
                             }
                         });
 
         //Reveal translation when you click on the example.
-        findViewById(R.id.ExamplesButton)
-                .setOnClickListener(
-                        new View.OnClickListener() {
+    }
+
+    private void OnClickButton(final Button pButton, final DualHashBidiMap<String, String> pExamplesList){
+        final float scale = getApplicationContext().getResources().getDisplayMetrics().density;
+
+        pButton.setOnClickListener(
+                new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        //If we click the button twice without caching "lastSentence" we would get an empty string.
+                        //System.out.println(pButton.getText().toString() + " == " + lastSentence + " : " + pButton.getText().toString().toLowerCase().equals(lastSentence.toLowerCase()) );
+
+                        AnimatorSet anim = (AnimatorSet) AnimatorInflater.loadAnimator(getApplicationContext(), R.animator.flipanim);
+                        anim.setTarget(pButton);
+                        pButton.setCameraDistance(8000 * scale); //8000 = distance
+
+                        if(pButton.getText()!=null && pExamplesList.containsKey(pButton.getText().toString())){
+                            pButton.setText(pExamplesList.get(pButton.getText().toString()));
+                        }
+                        else pButton.setText(pExamplesList.getKey(pButton.getText().toString()));
+
+                        final String tempText = pButton.getText().toString();
+                        anim.addListener(new AnimatorListenerAdapter() {
                             @Override
-                            public void onClick(View v) {
-                                //If we click the button twice without caching "lastSentence" we would get an empty string.
-                                final Button currentButton = (findViewById(R.id.ExamplesButton));
-                                System.out.println(currentButton.getText().toString() + " == " + lastSentence + " : " + currentButton.getText().toString().toLowerCase().equals(lastSentence.toLowerCase()) );
+                            public void onAnimationStart(Animator animation, boolean isReverse) {
+                                pButton.setText("");
+                            }
 
-                                AnimatorSet anim = (AnimatorSet) AnimatorInflater.loadAnimator(getApplicationContext(), R.animator.flipanim);
-                                anim.setTarget(currentButton);
-                                currentButton.setCameraDistance(8000 * scale); //8000 = distance
-
-                                if(currentButton.getText()!=null && currentButton.getText().toString().toLowerCase().equals(lastSentence.toLowerCase())){
-                                    currentButton.setText(examplesList.get(lastSentence));
-                                }
-                                else currentButton.setText(lastSentence);
-
-                                final String tempText = currentButton.getText().toString();
-                                anim.addListener(new AnimatorListenerAdapter() {
-                                    @Override
-                                    public void onAnimationStart(Animator animation, boolean isReverse) {
-                                        currentButton.setText("");
-                                    }
-
-                                    @Override
-                                    public void onAnimationEnd(Animator animation, boolean isReverse) {
-                                        currentButton.setText(tempText);
-                                    }
-                                });
-                                anim.start();
+                            @Override
+                            public void onAnimationEnd(Animator animation, boolean isReverse) {
+                                pButton.setText(tempText);
                             }
                         });
+                        anim.start();
+                    }
+                });
     }
 
     //returns true if all the parameters match the user input TODO: Update the database to match the selection choices for types of sentences.
