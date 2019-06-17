@@ -82,7 +82,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical" >
 
-                <Button
+                <!--Button
                     android:id="@+id/ExamplesButton"
                     style="@android:style/Widget.DeviceDefault.Light.Button.Inset"
                     android:layout_width="match_parent"
@@ -90,7 +90,7 @@
 
                     android:stateListAnimator="@null"
                     android:text="Empty~"
-                    android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium" /-->
             </LinearLayout>
         </ScrollView>
 

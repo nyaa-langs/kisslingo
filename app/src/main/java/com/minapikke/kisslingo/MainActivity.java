@@ -91,6 +91,7 @@ public class MainActivity extends AppCompatActivity {
 //        final Spinner spinner4 = findViewById(R.id.spinner4);
 //        final Spinner spinner5 = findViewById(R.id.spinner5);
 
+        //TODO: Make a languages database
         ArrayList<ArrayAdapter<String>> adapters = new ArrayList<>();
         adapters.add(new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, getResources().getStringArray(R.array.YL)));
         adapters.add(new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, getResources().getStringArray(R.array.TLE)));
@@ -348,6 +349,7 @@ public class MainActivity extends AppCompatActivity {
                                                 Button button = new Button(getApplicationContext());
                                                 button.setText(ylang_ex);
                                                 button.setAllCaps(false);
+                                                button.setHeight(200);
 
                                                 linearLayout.addView(button);
                                                 examplesList.put(ylang_ex, fullExample);
