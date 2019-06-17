@@ -56,19 +56,59 @@
     <string-array name="TJ">
         <item>【 I-V-every day 】</item>
         <item>【 Do you-V-every day? 】 </item>
+        <item>【 When do you-V-every day? 】</item>
         <item>【 What time do you-V-every day? 】</item>
         <item>【 Where do you-V-every day? 】</item>
+        <item>【 I usually-V 】</item>
+        <item>【 Do you usually-V? 】</item>
+        <item>【 When do you usually-V? 】</item>
+        <item>【 What time do you usually-V? 】</item>
+        <item>【 Where do you usually-V? 】 </item>
+        <item>【 I don\'t usually-V 】</item>
+        <item>【 I often-V 】</item>
+        <item>【 Do you often-V? 】</item>
+        <item>【 I don\'t often-V 】</item>
+        <item>【 I sometimes-V 】</item>
+        <item>【 Do you sometimes-V? 】</item>
+        <item>【 I rarely-V 】</item>
+        <item>【 I-Vp-yesterday 】</item>
+        <item>【 Did you-V-yesterday? 】 </item>
+        <item>【 I-Vpn-yesterday 】</item>
+        <item>【 I often-V 】</item>
+        <item>【 I-Vp-today 】</item>
+        <item>【 Did you-V-today? 】</item>
+        <item>【 I-Vpn-today 】</item>
+        <item>【 I will-V-today 】</item>
+        <item>【 Will you-V-today? 】</item>
+        <item>【 I will-V-tomorrow 】</item>
+        <item>【 I will-V-tomorrow? 】</item>
+        <item>【 I will not-V-tomorrow 】</item>
+        <item>【 I-V-most of the time 】</item>
+        <item>【 I don\'t-V-most of the time 】</item>
+        <item>【 V-all day 】 </item>
+        <item>【 V-all day? 】</item>
+        <item>【 Vp-all day 】</item>
+        <item>【 I often-V-recently 】</item>
+        <item>【 I don\'t often-V-recently 】</item>
+        <item>【 I sometimes-V-recently 】</item>
+        <item>【 I rarely-V-recently 】</item>
+        <item>【 I-Vp-a bit ago 】</item>
+        <item>【 Did you-V-a bit ago? 】</item>
+        <item>【 I didn\'t-V-a bit ago 】</item>
+        <item>【 I will-V-later 】</item>
+        <item>【 Will you-V-later? 】</item>
     </string-array>
 
     <string-array name="TE">
-        <item>I-動詞-every day / 私は毎日- </item>
-        <item>Do you-動詞-every day? / あなたは毎日-？</item>
-        <item>When-do you-動詞-every day? / あなたは毎日いつ-？</item>
-        <item>Where-do you-動詞-every day ? / あなたは毎日どこで、に-？</item>
-        <item>Why-do you-動詞-every day ? / あなたはどうして毎日-？</item>
-        <item>I don\'t-V-every day / 私は毎日-わけではない </item>
-        <item>Don\'t you-動詞-every day? / あなたは毎日-わけではない？</item>
-        <item>Why-don\'t you-動詞-every day ? / あなたはどうして毎日-わけではない？</item>
+        <item>【 私は毎日-します 】</item>
+        <item>【 あなたは毎日-しますか？ 】</item>
+        <item>【 あなたは毎日いつ-しますか？ 】</item>
+        <item>【 あなたは毎日何時に-しますか？ 】</item>
+        <item>【 あなたは毎日どこで-しますか？ 】</item>
+        <item>【 あなたはどうして毎日-するんですか？ 】</item>
+        <item>【 私は毎日は-しない  】</item>
+        <item>【 あなたは毎日は-しない？ 】</item>
+        <item>【 あなたはどうして毎日は-しない？ 】</item>
     </string-array>
 
 
