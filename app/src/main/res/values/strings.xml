@@ -55,7 +55,7 @@
 
     <string-array name="TJ">
         <item>【 I-V-every day 】</item>
-        <item>【 Do you-V-every day? 】 </item>
+        <item>【 Do you-V-every day? 】</item>
         <item>【 When do you-V-every day? 】</item>
         <item>【 What time do you-V-every day? 】</item>
         <item>【 Where do you-V-every day? 】</item>
@@ -63,7 +63,7 @@
         <item>【 Do you usually-V? 】</item>
         <item>【 When do you usually-V? 】</item>
         <item>【 What time do you usually-V? 】</item>
-        <item>【 Where do you usually-V? 】 </item>
+        <item>【 Where do you usually-V? 】</item>
         <item>【 I don\'t usually-V 】</item>
         <item>【 I often-V 】</item>
         <item>【 Do you often-V? 】</item>
@@ -72,7 +72,7 @@
         <item>【 Do you sometimes-V? 】</item>
         <item>【 I rarely-V 】</item>
         <item>【 I-Vp-yesterday 】</item>
-        <item>【 Did you-V-yesterday? 】 </item>
+        <item>【 Did you-V-yesterday? 】</item>
         <item>【 I-Vpn-yesterday 】</item>
         <item>【 I often-V 】</item>
         <item>【 I-Vp-today 】</item>
@@ -85,7 +85,7 @@
         <item>【 I will not-V-tomorrow 】</item>
         <item>【 I-V-most of the time 】</item>
         <item>【 I don\'t-V-most of the time 】</item>
-        <item>【 V-all day 】 </item>
+        <item>【 V-all day 】</item>
         <item>【 V-all day? 】</item>
         <item>【 Vp-all day 】</item>
         <item>【 I often-V-recently 】</item>
