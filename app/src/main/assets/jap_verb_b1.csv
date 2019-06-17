@@ -1,0 +1,112 @@
+id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku
+1,English,Japanese,Beginner1,Verb,【 I-V-every day 】,私は毎日本を読みます,I read a book every day.,私は | 毎日 | 本を | 読みます,watashi wa | mainichi | hon wo | yomi masu,I | every day | a book | read(polite)
+,English,Japanese,Beginner1,Verb,【 I-V-every day 】,私は毎日学校に行きます,I go to school every day.,私は | 毎日 | 学校に | 行きます,watashi wa | mainichi | gakkou ni | iki masu,I | every day | to school | go(polite)
+,English,Japanese,Beginner1,Verb,【 I-V-every day 】,私は毎日朝食を食べます,I eat breakfast every day.,私は | 毎日 | 朝食を | 食べます,watashi wa | mainichi | choushoku wo | tabe masu,I | every day | breakfast | eat(polite)
+,English,Japanese,Beginner1,Verb,【 Do you-V-every day? 】,あなたは毎日本を読みますか？,Do you read a book every day?,あなたは | 毎日 | 本を | 読みます | か？,anata wa | mainichi | hon wo | yomi masu | ka?,You | every day | a book | read(polite) | ?
+,English,Japanese,Beginner1,Verb,【 Do you-V-every day? 】,あなたは毎日学校に行きますか？,Do you go to school every day?,あなたは | 毎日 | 学校に | 行きます | か？,anata wa | mainichi | gakkou ni | iki masu | ka?,You | every day | to school | go(polite) | ?
+,English,Japanese,Beginner1,Verb,【 When do you-V-every day? 】,あなたは毎日いつ本を読みますか？,When do you read a book every day?,あなたは | 毎日 | いつ | 本を | 読みます | か？,anata wa | mainichi | itsu | hon wo | yomi masu | ka?,You | every day | when | a book | read(polite) | ?
+,English,Japanese,Beginner1,Verb,【 When do you-V-every day? 】,あなたは毎日いつ学校に行きますか？,When do you go to school every day?,あなたは | 毎日 | いつ | 学校に | 行きます | か？,anata wa | mainichi | itsu | gakkou ni | iki masu | ka?,You | every day | when | to school | go(polite) | ?
+,English,Japanese,Beginner1,Verb,【 What time do you-V-every day? 】,あなたは毎日何時に本を読みますか？,What time do you read a book every day?,あなたは | 毎日 | 何時に | 本を | 読みます | か？,anata wa | mainichi | nanji ni | hon wo | yomi masu | ka?,You | every day | what time | a book | read(polite) | ?
+,English,Japanese,Beginner1,Verb,【 What time do you-V-every day? 】,あなたは毎日何時に学校に行きますか？,What time do you go to school every day?,あなたは | 毎日 | 何時に | 学校に | 行きます | か？,anata wa | mainichi | nanji ni | gakkou ni | iki masu | ka?,You | every day | what time | to school | go(polite) | ?
+,English,Japanese,Beginner1,Verb,【 Where do you-V-every day? 】,あなたは毎日どこで本を読みますか？,Where do you read a book every day?,あなたは | 毎日 | どこで | 本を | 読みます | か？,anata wa | mainichi | doko de | hon wo | yomi masu | ka?,You | every day | where | a book | read(polite) | ?
+,English,Japanese,Beginner1,Verb,【 Where do you-V-every day? 】,あなたは毎日どこに行きますか？,Where do you go every day?,あなたは | 毎日 | どこに | 行きます | か？,anata wa | mainichi | doko ni | iki masu | ka?,You | every day | where | go(polite) | ?
+,English,Japanese,Beginner1,Verb,【 Where do you-V-every day? 】,あなたは毎日どこで英語を勉強しますか？,Where do you study every day?,あなたは | 毎日 | どこで | 勉強します | か？,anata wa | mainichi | doko de | benkyou shi masu | ka?,You | every day | where | study(polite) | ?
+,English,Japanese,Beginner1,Verb,,,,,,1
+,English,Japanese,Beginner1,Verb,【 I usually-V 】,私は普段朝早く起きます,I usually get up early in the morning.,私は | 普段 | 朝 | 早く | 起きます,watashi wa | fudan | asa | hayaku | oki masu,I | usually | in the morning | early | get up(p)
+,English,Japanese,Beginner1,Verb,【 I usually-V 】,私は普段10時に寝ます,I usually go to bed at 10.,私は | 普段 | 10時に | 寝ます,watashi wa | fudan | juuji ni | ne masu,I | usually | at 10 | go to bed(p)
+,English,Japanese,Beginner1,Verb,【 Do you usually-V? 】,あなたは普段家で勉強しますか？,Do you usually study at home?,あなたは | 普段 | 家で | 勉強します | か？,anata wa | fudan | ie de | benkyou shi masu | ka？,You | usually | at home | study(p) | ？
+,English,Japanese,Beginner1,Verb,【 Do you usually-V? 】,あなたは普段朝食を食べますか？,Do you usually eat breakfast?,あなたは | 普段 | 朝食を | 食べます | か？,anata wa | fudan | choushoku wo | tabe masu | ka？,You | usually | breakfast | eat(p) | ？
+,English,Japanese,Beginner1,Verb,【 When do you usually-V? 】,あなたは普段いつ家で勉強しますか？,When do you usually study at home?,あなたは | 普段 | いつ | 家で | 勉強します | か？,anata wa | fudan | itsu | ie de | benkyou shi masu | ka？,You | usually | itsu | at home | study(p) | ？
+,English,Japanese,Beginner1,Verb,【 When do you usually-V? 】,あなたは普段いつ朝食を食べますか？,When do you usually eat breakfast?,あなたは | 普段 | いつ | 朝食を | 食べます | か？,anata wa | fudan | itsu | choushoku wo | tabe masu | ka？,You | usually | itsu | breakfast | eat(p) | ？
+,English,Japanese,Beginner1,Verb,【 What time do you usually-V? 】,あなたは普段何時に家で勉強しますか？,What time do you usually study at home?,あなたは | 普段 | 何時に | 家で | 勉強します | か？,anata wa | fudan | nanji ni | ie de | benkyou shi masu | ka？,You | usually | what time | at home | study(p) | ？
+,English,Japanese,Beginner1,Verb,【 What time do you usually-V? 】,あなたは普段何時に朝食を食べますか？,What time do you usually eat breakfast?,あなたは | 普段 | 何時に | 朝食を | 食べます | か？,anata wa | fudan | nanji ni | choushoku wo | tabe masu | ka？,You | usually | what time | breakfast | eat(p) | ？
+,English,Japanese,Beginner1,Verb,【 Where do you usually-V? 】,あなたは普段どこで勉強しますか？,Where do you usually study?,あなたは | 普段 | どこで | 勉強します | か？,anata wa | fudan | doko de | benkyou shi masu | ka？,You | usually | where | study(p) | ？
+,English,Japanese,Beginner1,Verb,【 Where do you usually-V? 】,あなたは普段どこで朝食を食べますか？,Where do you usually eat breakfast?,あなたは | 普段 | どこで | 朝食を | 食べます | か？,anata wa | fudan | doko de | choushoku wo | tabe masu | ka？,You | usually | where | breakfast | eat(p) | ？
+,English,Japanese,Beginner1,Verb,【 I don''t usually-V 】,私は普段ビールを飲みません,I don''t usually drink beer.,私は | 普段 | ビールを | 飲みません,watashi wa | fudan | bi-ru wo | nomi masen,You | usually | beer | not drink(p)
+,English,Japanese,Beginner1,Verb,【 I don''t usually-V 】,私は普段家で勉強しません,I don''t usually study at home.,私は | 普段 | 家で | 勉強しません,watashi wa | fudan | ie de | benkyou shi masen,I | usually | at home | not study(p)
+,English,Japanese,Beginner1,Verb,【 I don''t usually-V 】,私は普段ジムに行きません,I don''t usually go to gym.,私は | 普段 | ジムに | 行きません,watashi wa | fudan | jimu ni | iki masen,I | usually | to gym | not go(p)
+,English,Japanese,Beginner1,Verb,,,,,,1
+,English,Japanese,Beginner1,Verb,【 I often-V 】,私はよく映画を見ます,I often watch a movie.,私は | よく | 映画を | 見ます,,1
+,English,Japanese,Beginner1,Verb,【 I often-V 】,私はよく本を読みます,I often read a book.,私は | よく | 本を | 読みます,,1
+,English,Japanese,Beginner1,Verb,【 I often-V 】,私はよくジムに行きます,I often go to gym.,私は | よく | ジムに | 行きます,,1
+,English,Japanese,Beginner1,Verb,【 Do you often-V? 】,あなたはよく映画を見ますか？,Do you often watch a movie?,あなたは | よく | 映画を | 見ます | か？,,1
+,English,Japanese,Beginner1,Verb,【 Do you often-V? 】,あなたはよく本を読みますか？,Do you often read a book?,あなたは | よく | 本を | 読みます | か？,,1
+,English,Japanese,Beginner1,Verb,【 Do you often-V? 】,あなたはよくジムに行きますか？,Do you often go to gym?,あなたは | よく | ジムに | 行きます | か？,,1
+,English,Japanese,Beginner1,Verb,【 I don''t often-V 】,私はあまり勉強をしません,I don''t often study.,私は | あまり | 勉強しません,,1
+,English,Japanese,Beginner1,Verb,【 I don''t often-V 】,私はあまりスマホを使いません,I don''t often use the smartphone.,私は | あまり | スマホを | 使いません,,1
+,English,Japanese,Beginner1,Verb,【 I don''t often-V 】,私はあまり音楽をききません,I don''t often listen to the music.,私は | あまり | 音楽を | ききません,,1
+,English,Japanese,Beginner1,Verb,【 I don''t often-V 】,私はあまりバスで学校に行きません,I don''t often go to school by bus.,私は | あまり | バスで | 学校に | 行きません,,1
+,English,Japanese,Beginner1,Verb,,,,,,1
+,English,Japanese,Beginner1,Verb,【 I sometimes-V 】,私はたまに家で映画を見ます,I sometimes watch a movie at home.,私は | たまに | 家で | 映画を | 見ます,,1
+,English,Japanese,Beginner1,Verb,【 I sometimes-V 】,私はたまに料理をします,I sometimes cook.,私は | たまに | 料理を | します,,1
+,English,Japanese,Beginner1,Verb,【 I sometimes-V 】,私はたまに旅行に行きます,I sometimes go on a trip.,私は | たまに | 旅行に | 行きます,,1
+,English,Japanese,Beginner1,Verb,【 Do you sometimes-V? 】,あなたはたまにジムに行きますか？,Do you sometimes go to gym?,あなたは | たまに | ジムに | 行きます | か？,,1
+,English,Japanese,Beginner1,Verb,【 Do you sometimes-V? 】,あなたはたまに本を読みますか？,Do you sometimes read a book?,あなたは | たまに | 本を | 読みます | か？,,1
+,English,Japanese,Beginner1,Verb,【 Do you sometimes-V? 】,あなたはたまに映画を見ますか？,Do you sometimes watch a movie?,あなたは | たまに | 映画を | 見ます | か？,,1
+,English,Japanese,Beginner1,Verb,【 I rarely-V 】,私はほとんど学校に行きません,I rarely go to school.,私は | ほとんど | 学校に | 行きません,,1
+,English,Japanese,Beginner1,Verb,【 I rarely-V 】,私はほとんど肉を食べません,I rarely eat meat.,私は | ほとんど | 肉を | 食べません,,1
+,English,Japanese,Beginner1,Verb,【 I rarely-V 】,私はほとんどゲームをしません,I rarely play games.,私は | ほとんど | ゲームを | しません,,1
+,English,Japanese,Beginner1,Verb,,,,,,1
+,English,Japanese,Beginner1,Verb,【 I-Vp-yesterday 】,私は昨日学校に行きました,I went to school yesterday.,私は | 昨日 | 学校に | 行きました,watashi wa | kinou | gakkou ni | iki mashita,I | yesterday | to school | went(polite)
+,English,Japanese,Beginner1,Verb,【 I-Vp-yesterday 】,私は昨日早く寝ました,I went to bed early yesterday.,私は | 昨日 | 早く | 寝ました,watashi wa | kinou | hayaku | ne mashita,I | yesterday | early | went to bed(polite)
+,English,Japanese,Beginner1,Verb,【 Did you-V-yesterday? 】,あなたは昨日学校に行きましたか？,Did you go to school yesterday?,あなたは | 昨日 | 学校に | 行きました | か？,anata wa | kinou | gakkou ni | iki mashita | ka?,You | yesterday | to school | went (polite) | ？
+,English,Japanese,Beginner1,Verb,【 Did you-V-yesterday? 】,あなたは昨日早く寝ましたか？,Did you go to bed early yesterday?,あなたは | 昨日 | 早く | 寝ました | か？,anata wa | kinou | hayaku | ne mashita | ka?,You | yesterday | early | went to bed(polite) | ？
+,English,Japanese,Beginner1,Verb,【 I-Vpn-yesterday 】,私は昨日音楽をききませんでした,I didn''t listen to the music yesterday.,私は | 昨日 | 音楽を | ききませんでした,watashi wa | kinou | ongaku wo | kiki masen deshita,I | yesterday | to the music | not listened(polite) 
+,English,Japanese,Beginner1,Verb,【 I-Vpn-yesterday 】,私は昨日仕事をしませんでした,I didn''t work yesterday.,私は | 昨日 | 仕事を | しませんでした,watashi wa | kinou | shigoto wo | shi masen deshita,I | yesterday | work | not did(polite)
+,English,Japanese,Beginner1,Verb,【 I-Vpn-yesterday 】,私は昨日友達と遊びませんでした,I didn''t hang out with friends.,私は | 昨日 | 友達と | 遊びませんでした,watashi wa | kinou | tomodachi to | asobi masen deshita,I | yesterday | with friends | not hanged out(polite)
+,English,Japanese,Beginner1,Verb,,,,,,1
+,English,Japanese,Beginner1,Verb,【 I-Vp-today 】,私は今日図書館に行きました,I went to the library today.,私は | 今日 | 図書館に | 行きました,watashi wa | kyou | toshokan ni | iki mashita,I | today | to the library | went(polite)
+,English,Japanese,Beginner1,Verb,【 I-Vp-today 】,私は今日家でゲームをしました,I played games at home today.,私は | 今日 | 家で | ゲームを | しました,watashi wa | kyou | ie de | ge-mu wo | shi mashita,I | today | at home | games | played(polite)
+,English,Japanese,Beginner1,Verb,【 Did you-V-today? 】,あなたは今日図書館に行きましたか？,Did you go to the library today?,あなたは | 今日 | 図書館に | 行きました | か？,anata wa | kyou | toshokan ni | iki mashita | ka?,You | today | to the library | went(polite) | ？
+,English,Japanese,Beginner1,Verb,【 Did you-V-today? 】,あなたは今日家でゲームをしましたか？,Did you play games at home today?,あなたは | 今日 | 家で | ゲームを | しました | か？,anata wa | kyou | ie de | ge-mu wo | shi mashita | ka?,You | today | at home | games | did(polite) | ?
+,English,Japanese,Beginner1,Verb,【 I-Vpn-today 】,私は今日スマホを使いませんでした,I didn''t use the smartphone today.,私は | 今日 | スマホを | 使いませんでした,watashi wa | kyou | sumaho wo | tsukai masen dehsita,I | today | the smartphone | not used(polite)
+,English,Japanese,Beginner1,Verb,【 I-Vpn-today 】,私は今日朝食を食べませんでした,I didn''t eat breakfast today.,私は | 今日 | 朝食を | 食べませんでした,watashi wa | kyou | choushoku wo | tabe masen deshita,I | today | breakfast | not ate(polite)
+,English,Japanese,Beginner1,Verb,,,,,,1
+,English,Japanese,Beginner1,Verb,【 I will-V-today 】,私は今日図書館に行きます,I will go to the library today.,私は | 今日 | 図書館に | 行きます, watashi wa | kyou | toshokan ni | iki masu, I | today | to the library | go(polite)
+,English,Japanese,Beginner1,Verb,【 I will-V-today 】,私は今日早く寝ます,I will go to bed early today.,私は | 今日 | 早く | 寝ます, watashi wa | kyou | hayaku | ne masu, I | today | early | go to bed(polite)
+,English,Japanese,Beginner1,Verb,【 Will you-V-today? 】,あなたは今日図書館に行きますか？,Will you go to the library today?,あなたは | 今日 | 図書館に | 行きます | か？, anata wa | kyou | toshokan ni | iki masu | ka?, You | today | to the library | go(polite) | ?
+,English,Japanese,Beginner1,Verb,【 Will you-V-today? 】,あなたは今日早く寝ますか？,Will you go to bed early today?,あなたは | 今日 | 早く | 寝ます | か？, anata wa | kyou | hayaku | ne masu | ka?, You | today | early | go to bed(polite) | ？
+,English,Japanese,Beginner1,Verb,【 I will not-V-today 】,私は今日夕食を食べません,I won''t eat dinner today.,私は | 今日 | 夕食を | 食べません, watashi wa | kyou | yuushoku wo | tabe masen, I | today | dinner | not eat(polite)
+,English,Japanese,Beginner1,Verb,【 I will not-V-today 】,私は今日仕事に行きません,I won''t go to work today.,私は | 今日 | 仕事に | 行きません, watashi wa | kyou | shigoto ni | iki masen, I | today | to work | not go (polite)
+,English,Japanese,Beginner1,Verb,【 I will not-V-today 】,,,,,1
+,English,Japanese,Beginner1,Verb,【 I will-V-tomorrow 】,私は明日友達と映画に行きます,I will go to the movie with my friends tomorrow.,私は | 明日 | 友達と | 映画に | 行きます,,1
+,English,Japanese,Beginner1,Verb,【 I will-V-tomorrow 】,私は明日友達と遊びに行きます,I will go hang out with my friends tomorrow.,私は | 明日 | 友達と | 遊びに | 行きます,,1
+,English,Japanese,Beginner1,Verb,【 I will-V-tomorrow? 】,あなたは明日図書館に行きますか？,Will you go to the library today?,あなたは | 明日 | 図書館に | 行きます | か？,,1
+,English,Japanese,Beginner1,Verb,【 I will-V-tomorrow? 】,あなたは明日私の家に来ますか？,Will you come over to my place tomorrow?,あなたは | 明日 | 私の家に | 来ます | か？,,1
+,English,Japanese,Beginner1,Verb,【 I will not-V-tomorrow 】,私は明日彼に会いません,I won''t see him tomorrow.,私は | 明日 | 彼に | 会いません,,1
+,English,Japanese,Beginner1,Verb,【 I will not-V-tomorrow 】,私は明日仕事に行きません,I won''t go to work tomorrow.,私は | 明日 | 仕事に | 行きません,,1
+,English,Japanese,Beginner1,Verb,,,,,,1
+,English,Japanese,Beginner1,Verb,,,,,,1
+,English,Japanese,Beginner1,Verb,【 I-V-most of the time 】,私はたいてい夜早く寝ます,I go to bed early at night most of the time.,私は | たいてい | 夜 | 早く | 寝ます,,1
+,English,Japanese,Beginner1,Verb,【 I-V-most of the time 】,私はたいてい週末友達と遊びに行きます,I go hang out with my friends on weekends most of the time.,私は | たいてい | 週末 | 友達と | 遊びに | 行きます,,1
+,English,Japanese,Beginner1,Verb,【 I don''t-V-most of the time 】,私はたいてい5時間以上寝ません,I don''t sleep more than 5 hours most of the time.,私は | たいてい | 5時間以上 | 寝ません,,1
+,English,Japanese,Beginner1,Verb,【 I don''t-V-most of the time 】,彼はたいてい時間通りに来ません,He doesn''t come on time most of the time.,彼は | たいてい | 時間通りに | 来ません,,1
+,English,Japanese,Beginner1,Verb,,,,,,1
+,English,Japanese,Beginner1,Verb,【 V-all day 】,私は休みの日、1日中本を読みます,I read books all day on my days off.,私は | 休みの日、| 1日中 | 本を | 読みます,,1
+,English,Japanese,Beginner1,Verb,【 V-all day 】,私は休みの日、1日中絵をかきます,I draw pictures all day on my days off.,私は | 休みの日、| 1日中 | 絵を | かきます,,1
+,English,Japanese,Beginner1,Verb,【 V-all day? 】,あなたは休みの日、1日中本を読みますか？,Do you read books all day on your days off?,あなたは | 休みの日、| 1日中 | 本を | 読みます | か？,,1
+,English,Japanese,Beginner1,Verb,【 V-all day? 】,私は休みの日、1日中絵をかきますか？,I draw pictures all day on my days off.,私は | 休みの日、| 1日中 | 絵を | かきます | か？,,1
+,English,Japanese,Beginner1,Verb,【 Vp-all day 】,私は昨日、1日中ゲームをしました,I played games all day yesterday.,私は | 昨日、| 1日中 | ゲームを | しました,,1
+,English,Japanese,Beginner1,Verb,【 Vp-all day 】,私は昨日、1日中映画を見ました,I watched movies all day yesterday.,私は | 昨日、| 1日中 | 映画を | 見ました,,1
+,English,Japanese,Beginner1,Verb,,,,,,1
+,English,Japanese,Beginner1,Verb,【 I often-V-recently 】,私は最近よく車を運転します,I often drive a car recently.,私は | 最近 | よく | 車を | 運転します,,1
+,English,Japanese,Beginner1,Verb,【 I often-V-recently 】,私は最近よく音楽をききます,I often listen to the music recently.,私は | 最近 | よく | 音楽を | ききます,,1
+,English,Japanese,Beginner1,Verb,【 I don''t often-V-recently 】,私は最近あまりニュースを見ません,I don''t often watch the news recently.,私は | 最近 | あまり | ニュースを | 見ません,,1
+,English,Japanese,Beginner1,Verb,【 I don''t often-V-recently 】,私は最近あまり歌を歌いません,I don''t often sing a song recently.,私は | 最近 | あまり | 歌を | 歌いません,,1
+,English,Japanese,Beginner1,Verb,【 I sometimes-V-recently 】,私は最近たまにワインを飲みます,I sometimes drink wine recently.,私は | 最近 | たまに | ワインを | 飲みます,,1
+,English,Japanese,Beginner1,Verb,【 I sometimes-V-recently 】,私は最近たまにたばこを吸います,I sometimes smoke recently.,私は | 最近 | たまに | たばこを | 吸います,,1
+,English,Japanese,Beginner1,Verb,【 I rarely-V-recently 】,私は最近ほとんどたばこを吸いません,I rarely smoke recently.,私は | 最近 | ほとんど | たばこを | 吸いません,,1
+,English,Japanese,Beginner1,Verb,【 I rarely-V-recently 】,私は最近ほとんどゲームをしません,I rarely play games recently.,私は | 最近 | ほとんど | ゲームを | しません,,1
+,English,Japanese,Beginner1,Verb,【 I rarely-V-recently 】,私は最近ほとんど友達と遊びません,I rarely hang out with friends recently.,私は | 最近 | ほとんど | 友達と | 遊びません,,1
+,English,Japanese,Beginner1,Verb,,,,,,1
+,English,Japanese,Beginner1,Verb,【 I-Vp-a bit ago 】,私はさっき夕食を食べました,I ate dinner a bit ago.,私は | さっき | 夕食を | 食べました,,1
+,English,Japanese,Beginner1,Verb,【 I-Vp-a bit ago 】,私はさっきコンビニに行きました,I went to the convenient store a bit ago.,私は | さっき | コンビニに | 行きました,,1
+,English,Japanese,Beginner1,Verb,【 Did you-V-a bit ago? 】,あなたはさっき夕食を食べましたか？,Did you eat dinner a bit ago?,あなたは | さっき | 夕食を | 食べました | か？,,1
+,English,Japanese,Beginner1,Verb,【 Did you-V-a bit ago? 】,あなたはさっきコンビニに行きましたか？,Did you go to the convenient store a bit ago?,あなたは | さっき | コンビニに | 行きました | か？,,1
+,English,Japanese,Beginner1,Verb,【 I didn''t-V-a bit ago 】,私はさっき英語を勉強しませんでした,I didn''t study English a bit ago.,私は | さっき | 英語を | 勉強しませんでした,,1
+,English,Japanese,Beginner1,Verb,【 I didn''t-V-a bit ago 】,私はさっき夕食を食べませんでした,I didn''t eat dinner a bit ago.,私は | さっき | 夕食を | 食べませんでした,,1
+,English,Japanese,Beginner1,Verb,,,,,,1
+,English,Japanese,Beginner1,Verb,【 I will-V-later 】,私はあとでテレビを見ます,I will watch the TV later.,私は | あとで | テレビを | 見ます,,1
+,English,Japanese,Beginner1,Verb,【 I will-V-later 】,私はあとで図書館に行きます,I will go to the library later.,私は | あとで | 図書館に | 行きます,,1
+,English,Japanese,Beginner1,Verb,【 Will you-V-later? 】,あなたはあとで映画を見ますか？,Will you watch a movie later?,あなたは | あとで | 映画を | 見ます | か？,,1
+,English,Japanese,Beginner1,Verb,【 Will you-V-later? 】,あなたはあとで英語を勉強しますか？,Will you study English later?,あなたは | あとで | 英語を | 勉強します | か？,,1

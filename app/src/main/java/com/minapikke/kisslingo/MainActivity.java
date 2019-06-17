@@ -73,8 +73,8 @@ public class MainActivity extends AppCompatActivity {
         DatabaseObject.execSQL(createTable);
 
        // csvからのデータの書き込み
-        writeToDatabase("jap_verb.csv");
-        //writeToDatabase("eng_verb.csv");
+        writeToDatabase("jap_verb_b1.csv");
+        writeToDatabase("eng_verb_b1.csv");
 
         final ArrayList<Spinner> spinners = new ArrayList<>();
 
