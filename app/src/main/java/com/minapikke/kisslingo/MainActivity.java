@@ -90,7 +90,33 @@ public class MainActivity extends AppCompatActivity {
 //        final Spinner spinner3 = findViewById(R.id.spinner3);
 //        final Spinner spinner4 = findViewById(R.id.spinner4);
 //        final Spinner spinner5 = findViewById(R.id.spinner5);
+        try {
+            String selectsql = "SELECT id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku FROM ExampleSentences";
+            //String selectsql ="SELECT id,ylang,tlang,level,wclass,word,subject,tense,type,ylang_ex,tlang_ex,tlang_exf,furigana,chikugoyaku FROM ExampleSentences WHERE class ='" + wclassStr + "' and word ='" + wordStr + "' and subject ='" + subjectStr + "' and tense ='" + tenseStr + "'";
 
+            Cursor cursor = DatabaseObject.rawQuery(selectsql, null);
+
+            //ad = new ArrayAdapter<String>(MainActivity.this, android.R.layout.simple_list_item_1);
+
+            if (cursor.moveToFirst()) {
+                do {
+                    int id = cursor.getInt(cursor.getColumnIndex("id"));
+                    String wclass = cursor.getString(cursor.getColumnIndex("wclass"));
+                    String type = cursor.getString(cursor.getColumnIndex("type"));
+                    String level = cursor.getString(cursor.getColumnIndex("level"));
+                    String tlang_ex = cursor.getString(cursor.getColumnIndex("tlang_exf"));
+                    String ylang_ex = cursor.getString(cursor.getColumnIndex("ylang_ex"));
+                    String chikugoyaku = cursor.getString(cursor.getColumnIndex("chikugoyaku"));
+                    String furigana = cursor.getString(cursor.getColumnIndex("furigana"));
+                    String[] chikugoyakuFrag = chikugoyaku.split(" | ");
+
+
+                } while (cursor.moveToNext());
+            }
+        } catch(Exception e) {
+            // データベースオブジェクトをクローズ
+            DatabaseObject.close();
+        }
         //TODO: Make a languages database
         ArrayList<ArrayAdapter<String>> adapters = new ArrayList<>();
         adapters.add(new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, getResources().getStringArray(R.array.YL)));
