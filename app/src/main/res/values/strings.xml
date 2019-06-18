@@ -53,7 +53,7 @@
         <item>フラグメント</item>
     </string-array>
 
-    <string-array name="TJ">
+    <string-array name="TJVB1">
         <item>【 I-V-every day 】</item>
         <item>【 Do you-V-every day? 】</item>
         <item>【 When do you-V-every day? 】</item>
@@ -99,14 +99,37 @@
         <item>【 Will you-V-later? 】</item>
     </string-array>
 
-    <string-array name="TE">
+    <string-array name="TJFB1">
+        <item>Verb+Object @ home</item>
+        <item>Verb+Object @ life</item>
+        <item>Verb 読む</item>
+        <item>Verb 見る</item>
+        <item>Verb きく</item>
+        <item>Verb かく</item>
+        <item>Verb 起きる</item>
+        <item>Verb 寝る</item>
+        <item>Verb 勉強する</item>
+        <item>Verb 食べる</item>
+        <item>Verb 飲む</item>
+        <item>Verb 行く</item>
+        <item>Verb 来る</item>
+        <item>Verb する</item>
+        <item>Verb 吸う</item>
+        <item>Verb 使う</item>
+        <item>Verb 遊ぶ</item>
+        <item>Verb 会う</item>
+        <item>Verb 歌う</item>
+        <item>Else</item>
+    </string-array>
+
+    <string-array name="TEVB1">
         <item>【 私は毎日-します 】</item>
         <item>【 あなたは毎日-しますか？ 】</item>
         <item>【 あなたは毎日いつ-しますか？ 】</item>
         <item>【 あなたは毎日何時に-しますか？ 】</item>
         <item>【 あなたは毎日どこで-しますか？ 】</item>
         <item>【 あなたはどうして毎日-するんですか？ 】</item>
-        <item>【 私は毎日は-しない  】</item>
+        <item>【 私は毎日は-しない 】</item>
         <item>【 あなたは毎日は-しない？ 】</item>
         <item>【 あなたはどうして毎日は-しない？ 】</item>
     </string-array>

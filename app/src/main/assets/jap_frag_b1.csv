@@ -1,0 +1,221 @@
+id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku
+,English,Japanese,Beginner1,Fragment,Verb+Object @ home,本を読む,read a book,本を | 読む,hon wo | yomu,book | read
+,English,Japanese,Beginner1,Fragment,Verb+Object @ home,映画を見る,watch the movie,映画を | 見る,eiga wo | miru,movie | watch
+,English,Japanese,Beginner1,Fragment,Verb+Object @ home,ニュースを見る,watch the news,ニュースを | 見る,news wo | miru,news | watch
+,English,Japanese,Beginner1,Fragment,Verb+Object @ home,テレビを見る,watch the TV,テレビを | 見る,terebi wo | miru,TV | watch
+,English,Japanese,Beginner1,Fragment,Verb+Object @ home,音楽をきく,listen to the music,音楽を | きく,ongaku wo | kiku,music | listen
+,English,Japanese,Beginner1,Fragment,Verb+Object @ home,絵をかく,draw a picture,絵を | かく,e wo | kaku,picture | draw
+,English,Japanese,Beginner1,Fragment,Verb+Object @ home,早く起きる,get up early,早く | 起きる,hayku | okiru,early | get up
+,English,Japanese,Beginner1,Fragment,Verb+Object @ home,早く寝る,go to bed early,早く | 寝る,hayaku | neru,early | go to sleep
+,English,Japanese,Beginner1,Fragment,Verb+Object @ home,10時に寝る,go to bed at 10,10時に | 寝る,juu ji ni | neru,at 10 | go to sleep
+,English,Japanese,Beginner1,Fragment,Verb+Object @ home,英語を勉強する,study English,英語を | 勉強する,eigo wo | benkyou suru,English | study
+,English,Japanese,Beginner1,Fragment,Verb+Object @ home,家で勉強する,study at home,家で | 勉強する,ie de | benkyou suru,at home | study
+,English,Japanese,Beginner1,Fragment,Verb+Object @ home,ゲームをする,play games,ゲームを | する,geemu wo | suru,game | play
+,English,Japanese,Beginner1,Fragment,Verb+Object @ home,朝食を食べる,eat breakfast,朝食を | 食べる,choushoku wo | taberu,breakfast | eat
+,English,Japanese,Beginner1,Fragment,Verb+Object @ home,夕食を食べる,eat dinner,夕食を | 食べる,yuusyoku wo | taberu,dinner | eat
+,English,Japanese,Beginner1,Fragment,Verb+Object @ home,肉を食べる,eat meat,肉を | 食べる,niku wo | taberu,meat | eat
+,English,Japanese,Beginner1,Fragment,Verb+Object @ home,ワインを飲む,drink wine,ワインを | 飲む,wain wo | nomu,wine | drink
+,English,Japanese,Beginner1,Fragment,Verb+Object @ home,ビールを飲む,drink beer,ビールを | 飲む,biiru wo | nomu,beer | drink
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb+Object @ life,学校に行く,go to school,学校に | 行く,gakkou ni | iku,to school | go
+,English,Japanese,Beginner1,Fragment,Verb+Object @ life,ジムに行く,go to gym,ジムに | 行く,jimu ni | iku,to gym | go
+,English,Japanese,Beginner1,Fragment,Verb+Object @ life,仕事に行く,go to work,仕事に | 行く,shigoto ni | iku,to work | go
+,English,Japanese,Beginner1,Fragment,Verb+Object @ life,コンビニに行く,go to the convenience store,コンビニに | 行く,konbini ni | iku,to convenience store | go
+,English,Japanese,Beginner1,Fragment,Verb+Object @ life,図書館に行く,go to the library,図書館に | 行く,toshokan ni | iku,to library | go
+,English,Japanese,Beginner1,Fragment,Verb+Object @ life,旅行に行く,go on a trip,旅行に | 行く,ryokou ni | iku,to trip | go
+,English,Japanese,Beginner1,Fragment,Verb+Object @ life,遊びに行く,go to hang out,遊びに | 行く,asobi ni | iku,to play | go
+,English,Japanese,Beginner1,Fragment,Verb+Object @ life,映画に行く,go to the movie,映画に | 行く,eiga ni | iku,to movie | go
+,English,Japanese,Beginner1,Fragment,Verb+Object @ life,私の家に来る,come over to my house,私の家に | 来る,watashi no ie ni | kuru,to my house | come
+,English,Japanese,Beginner1,Fragment,Verb+Object @ life,仕事をする,work,仕事を | する,shigoto wo | suru,work | do
+,English,Japanese,Beginner1,Fragment,Verb+Object @ life,料理をする,cook,料理を | する,ryouri wo | suru,cooking | do
+,English,Japanese,Beginner1,Fragment,Verb+Object @ life,車を運転する,drive a car,車を | 運転する,kuruma wo | unten suru,car | drive
+,English,Japanese,Beginner1,Fragment,Verb+Object @ life,たばこを吸う,smoke,たばこを | 吸う,tabako wo | suu,cigarret | smoke
+,English,Japanese,Beginner1,Fragment,Verb+Object @ life,スマホを使う,use the smartphone,スマホを | 使う,sumaho wo | tsukau,smartphone | use
+,English,Japanese,Beginner1,Fragment,Verb+Object @ life,友達と遊ぶ,hang out with friends,友達と | 遊ぶ,tomodachi to | asobu,with friends | hang out
+,English,Japanese,Beginner1,Fragment,Verb+Object @ life,彼に会う,see him,彼に | 会う,kare ni | au,him | see
+,English,Japanese,Beginner1,Fragment,Verb+Object @ life,歌を歌う,sing a song,歌を | 歌う,uta wo | utau,a song | sing
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb 読む,読む,read,読む,yomu,read
+,English,Japanese,Beginner1,Fragment,Verb 読む,読まない,not read,読まない,yoma nai,not read
+,English,Japanese,Beginner1,Fragment,Verb 読む,読んだ,read(ed),読んだ,yon da,read(ed)
+,English,Japanese,Beginner1,Fragment,Verb 読む,読まなかった,not read(ed),読まなかった,yoma nakatta,not read(ed)
+,English,Japanese,Beginner1,Fragment,Verb 読む,読みます,read(p),読みます,yomi masu,read(p)
+,English,Japanese,Beginner1,Fragment,Verb 読む,読みません,not read(p),読みません,yomi masen,not read(p)
+,English,Japanese,Beginner1,Fragment,Verb 読む,読みました,read(ed)(p),読みました,yomi mashita,read(ed)(p)
+,English,Japanese,Beginner1,Fragment,Verb 読む,読みませんでした,not read(ed)(p),読みませんでした,yomi masen deshita,not read(ed)(p)
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb 見る,見る,see,見る,miru,see
+,English,Japanese,Beginner1,Fragment,Verb 見る,見ない,not see,見ない,mi nai,not see
+,English,Japanese,Beginner1,Fragment,Verb 見る,見た,saw,見た,mi ta,saw
+,English,Japanese,Beginner1,Fragment,Verb 見る,見なかった,not saw,見なかった,mi nakatta,not saw
+,English,Japanese,Beginner1,Fragment,Verb 見る,見ます,see(p),見ます,mi masu,see(p)
+,English,Japanese,Beginner1,Fragment,Verb 見る,見ません,not see(p),見ません,mi masen ,not see(p)
+,English,Japanese,Beginner1,Fragment,Verb 見る,見ました,saw(p),見ました,mi mashita,saw(p)
+,English,Japanese,Beginner1,Fragment,Verb 見る,見ませんでした,not saw(p),見ませんでした,mi masen deshita,not saw(p)
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb きく,きく,listen,きく,kiku,listen
+,English,Japanese,Beginner1,Fragment,Verb きく,きかない,not listen,きかない,kika nai,not listen
+,English,Japanese,Beginner1,Fragment,Verb きく,きいた,listened,きいた,kii ta,listened
+,English,Japanese,Beginner1,Fragment,Verb きく,きかなかった,not listened,きかなかった,kika nakatta,not listened
+,English,Japanese,Beginner1,Fragment,Verb きく,ききます,listen(p),ききます,kiki masu,listen(p)
+,English,Japanese,Beginner1,Fragment,Verb きく,ききません,not listen(p),ききません,kiki masen,not listen(p)
+,English,Japanese,Beginner1,Fragment,Verb きく,ききました,listened(p),ききました,kiki mashita,listened(p)
+,English,Japanese,Beginner1,Fragment,Verb きく,ききませんでした,not listened(p),ききませんでした,kiki masen deshita,not listened(p)
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb かく,かく,write,かく,kaku,write
+,English,Japanese,Beginner1,Fragment,Verb かく,かかない,not write,かかない,kaka nai,not write
+,English,Japanese,Beginner1,Fragment,Verb かく,かいた,wrote,かいた,kai ta,wrote
+,English,Japanese,Beginner1,Fragment,Verb かく,かかなかった,not wrote,かかなかった,kaka nakatta,not wrote
+,English,Japanese,Beginner1,Fragment,Verb かく,かきます,write(p),かきます,kaki masu,write(p)
+,English,Japanese,Beginner1,Fragment,Verb かく,かきません,not write(p),かきません,kaki masen,not write(p)
+,English,Japanese,Beginner1,Fragment,Verb かく,かきました,wrote(p),かきました,kaki mashita,wrote(p)
+,English,Japanese,Beginner1,Fragment,Verb かく,かきませんでした,not wrote(p),かきませんでした,kaki masen deshita,not wrote(p)
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb 起きる,起きる,get up,起きる,okiru,get up
+,English,Japanese,Beginner1,Fragment,Verb 起きる,起きない,not get up,起きない,oki nai,not get up
+,English,Japanese,Beginner1,Fragment,Verb 起きる,起きた,got up,起きた,oki ta,got up
+,English,Japanese,Beginner1,Fragment,Verb 起きる,起きなかった,not got up,起きなかった,oki nakatta,not got up
+,English,Japanese,Beginner1,Fragment,Verb 起きる,起きます,get up(p),起きます,oki masu,get up(p)
+,English,Japanese,Beginner1,Fragment,Verb 起きる,起きません,not get up(p),起きません,oki masen,not get up(p)
+,English,Japanese,Beginner1,Fragment,Verb 起きる,起きました,got up(p),起きました,oki mashita,got up(p)
+,English,Japanese,Beginner1,Fragment,Verb 起きる,起きませんでした,not got up(p),起きませんでした,oki masen deshita,not got up(p)
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb 寝る,寝る,go to bed,寝る,neru,go to bed
+,English,Japanese,Beginner1,Fragment,Verb 寝る,寝ない,not go to bed,寝ない,ne nai,not go to bed
+,English,Japanese,Beginner1,Fragment,Verb 寝る,寝た,went to bed,寝た,ne ta,went to bed
+,English,Japanese,Beginner1,Fragment,Verb 寝る,寝なかった,not went to bed,寝なかった,ne nakatta,not went to bed
+,English,Japanese,Beginner1,Fragment,Verb 寝る,寝ます,go to bed(p),寝ます,ne masu,go to bed(p)
+,English,Japanese,Beginner1,Fragment,Verb 寝る,寝ません,not go to bed(p),寝ません,ne masen,not go to bed(p)
+,English,Japanese,Beginner1,Fragment,Verb 寝る,寝ました,went to bed(p),寝ました,ne mashita,went to bed(p)
+,English,Japanese,Beginner1,Fragment,Verb 寝る,寝ませんでした,not went to bed(p),寝ませんでした,ne masen deshita,not went to bed(p)
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb 勉強する,勉強する,study,勉強する,benkyou suru,study
+,English,Japanese,Beginner1,Fragment,Verb 勉強する,勉強しない,not study,勉強しない,benkyou shi nai,not study
+,English,Japanese,Beginner1,Fragment,Verb 勉強する,勉強した,studied,勉強した,benkyou shi ta,studied
+,English,Japanese,Beginner1,Fragment,Verb 勉強する,勉強しなかった,not studied,勉強しなかった,benkyou shi nakatta,not studied
+,English,Japanese,Beginner1,Fragment,Verb 勉強する,勉強します,study(p),勉強します,benkyou shi masu,study(p)
+,English,Japanese,Beginner1,Fragment,Verb 勉強する,勉強しません,not study(p),勉強しません,benkyou shi masen,not study(p)
+,English,Japanese,Beginner1,Fragment,Verb 勉強する,勉強しました,studied(p),勉強しました,benkyou shi mashita,studied(p)
+,English,Japanese,Beginner1,Fragment,Verb 勉強する,勉強しませんでした,not studied(p),勉強しませんでした,benkyou shi masen deshita,not studied(p)
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb 食べる,食べる,eat,食べる,taberu,eat
+,English,Japanese,Beginner1,Fragment,Verb 食べる,食べない,not eat,食べない,tabe nai,not eat
+,English,Japanese,Beginner1,Fragment,Verb 食べる,食べた,ate,食べた,tabe ta,ate
+,English,Japanese,Beginner1,Fragment,Verb 食べる,食べなかった,not ate,食べなかった,tabe nakatta,not ate
+,English,Japanese,Beginner1,Fragment,Verb 食べる,食べます,eat(p),食べます,tabe masu,eat(p)
+,English,Japanese,Beginner1,Fragment,Verb 食べる,食べません,not eat(p),食べません,tabe masen,not eat(p)
+,English,Japanese,Beginner1,Fragment,Verb 食べる,食べました,ate(p),食べました,tabe mashita,ate(p)
+,English,Japanese,Beginner1,Fragment,Verb 食べる,食べませんでした,not ate(p),食べませんでした,tabe masen deshita,not ate(p)
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb 飲む,飲む,drink,飲む,nomu,drink
+,English,Japanese,Beginner1,Fragment,Verb 飲む,飲まない,not drink,飲まない,noma nai,not drink
+,English,Japanese,Beginner1,Fragment,Verb 飲む,飲んだ,drank,飲んだ,non da,drank
+,English,Japanese,Beginner1,Fragment,Verb 飲む,飲まなかった,not drank,飲まなかった,noma nakatta,not drank
+,English,Japanese,Beginner1,Fragment,Verb 飲む,飲みます,drink(p),飲みます,nomi masu,drink(p)
+,English,Japanese,Beginner1,Fragment,Verb 飲む,飲みません,not drink,飲みません,nomi masen,not drink
+,English,Japanese,Beginner1,Fragment,Verb 飲む,飲みました,drank(p),飲みました,nomi mashita,drank(p)
+,English,Japanese,Beginner1,Fragment,Verb 飲む,飲みませんでした,not drank(p),飲みませんでした,nomi masen deshita,not drank(p)
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb 行く,行く,go,行く,iku,go
+,English,Japanese,Beginner1,Fragment,Verb 行く,行かない,not go,行かない,ika nai,not go
+,English,Japanese,Beginner1,Fragment,Verb 行く,行った,went,行った,i tta,went
+,English,Japanese,Beginner1,Fragment,Verb 行く,行かなかった,not went,行かなかった,ika nakatta,not went
+,English,Japanese,Beginner1,Fragment,Verb 行く,行きます,go(p),行きます,iki masu,go(p)
+,English,Japanese,Beginner1,Fragment,Verb 行く,行きません,not go(p),行きません,iki masen,not go(p)
+,English,Japanese,Beginner1,Fragment,Verb 行く,行きました,went(p),行きました,iki mashita,went(p)
+,English,Japanese,Beginner1,Fragment,Verb 行く,行きませんでした,not went(p),行きませんでした,iki masen deshita,not went(p)
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb 来る,来る,come,来る,kuru,come
+,English,Japanese,Beginner1,Fragment,Verb 来る,来た,came,来た,ki ta,came
+,English,Japanese,Beginner1,Fragment,Verb 来る,来ない,not come,来ない,ko nai,not come
+,English,Japanese,Beginner1,Fragment,Verb 来る,来なかった,not came,来なかった,ko nakatta,not came
+,English,Japanese,Beginner1,Fragment,Verb 来る,来ます,come(p),来ます,ki masu,come(p)
+,English,Japanese,Beginner1,Fragment,Verb 来る,来ません,came(p),来ません,ki masen,came(p)
+,English,Japanese,Beginner1,Fragment,Verb 来る,来ました,not come(p),来ました,ki mashita,not come(p)
+,English,Japanese,Beginner1,Fragment,Verb 来る,来ませんでした,not came(p),来ませんでした,ki masen deshita,not came(p)
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb する,する,do,する,suru,do
+,English,Japanese,Beginner1,Fragment,Verb する,しない,not do,しない,shi nai,not do
+,English,Japanese,Beginner1,Fragment,Verb する,した,did,した,shi ta,did
+,English,Japanese,Beginner1,Fragment,Verb する,しなかった,not did,しなかった,shi nakatta,not did
+,English,Japanese,Beginner1,Fragment,Verb する,します,do(p),します,shi masu,do(p)
+,English,Japanese,Beginner1,Fragment,Verb する,しません,not do(p),しません,shi masen,not do(p)
+,English,Japanese,Beginner1,Fragment,Verb する,しました,did(p),しました,shi mashita,did(p)
+,English,Japanese,Beginner1,Fragment,Verb する,しませんでした,not did(p),しませんでした,shi masen deshita,not did(p)
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb 吸う,吸う,inhale,吸う,suu,inhale
+,English,Japanese,Beginner1,Fragment,Verb 吸う,吸わない,not inhale,吸わない,suwa nai,not inhale
+,English,Japanese,Beginner1,Fragment,Verb 吸う,吸った,inhaled,吸った,su tta,inhaled
+,English,Japanese,Beginner1,Fragment,Verb 吸う,吸わなかった,not inhaled,吸わなかった,suwa nakatta,not inhaled
+,English,Japanese,Beginner1,Fragment,Verb 吸う,吸います,inhale(p),吸います,sui masu,inhale(p)
+,English,Japanese,Beginner1,Fragment,Verb 吸う,吸いません,not inhale(p),吸いません,sui masen,not inhale(p)
+,English,Japanese,Beginner1,Fragment,Verb 吸う,吸いました,inhaled(p),吸いました,sui mashita,inhaled(p)
+,English,Japanese,Beginner1,Fragment,Verb 吸う,吸いませんでした,not inhaled(p),吸いませんでした,sui masen deshita,not inhaled(p)
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb 使う,使う,use,使う,tsukau,use
+,English,Japanese,Beginner1,Fragment,Verb 使う,使わない,not use,使わない,tsukawa nai,not use
+,English,Japanese,Beginner1,Fragment,Verb 使う,使った,used,使った,tsuka tta,used
+,English,Japanese,Beginner1,Fragment,Verb 使う,使わなかった,not used,使わなかった,tukawa nakatta,not used
+,English,Japanese,Beginner1,Fragment,Verb 使う,使います,use(p),使います,tsukai masu,use(p)
+,English,Japanese,Beginner1,Fragment,Verb 使う,使いません,not use(p),使いません,tsukai masen,not use(p)
+,English,Japanese,Beginner1,Fragment,Verb 使う,使わなかった,used(p),使わなかった,tsukawa nakatta,used(p)
+,English,Japanese,Beginner1,Fragment,Verb 使う,使いませんでした,not used(p),使いませんでした,tsukai masen deshita,not used(p)
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb 遊ぶ,遊ぶ,play,遊ぶ,asobu,play
+,English,Japanese,Beginner1,Fragment,Verb 遊ぶ,遊ばない,not play,遊ばない,asoba nai,not play
+,English,Japanese,Beginner1,Fragment,Verb 遊ぶ,遊んだ,played,遊んだ,ason da,played
+,English,Japanese,Beginner1,Fragment,Verb 遊ぶ,遊ばなかった,not played,遊ばなかった,asoba nakatta,not played
+,English,Japanese,Beginner1,Fragment,Verb 遊ぶ,遊びます,play(p),遊びます,asobi masu,play(p)
+,English,Japanese,Beginner1,Fragment,Verb 遊ぶ,遊びません,not play(p),遊びません,asobi masen,not play(p)
+,English,Japanese,Beginner1,Fragment,Verb 遊ぶ,遊びました,played(p),遊びました,asobi mashita,played(p)
+,English,Japanese,Beginner1,Fragment,Verb 遊ぶ,遊びませんでした,not played(p),遊びませんでした,asobi masen deshita,not played(p)
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb 会う,会う,meet,会う,au,meet
+,English,Japanese,Beginner1,Fragment,Verb 会う,会わない,not meet,会わない,awa nai,not meet
+,English,Japanese,Beginner1,Fragment,Verb 会う,会った,met,会った,a tta,met
+,English,Japanese,Beginner1,Fragment,Verb 会う,会わなかった,not met,会わなかった,awa nakatta,not met
+,English,Japanese,Beginner1,Fragment,Verb 会う,会います,meet(p),会います,ai masu,meet(p)
+,English,Japanese,Beginner1,Fragment,Verb 会う,会いません,not meet(p),会いません,ai masen,not meet(p)
+,English,Japanese,Beginner1,Fragment,Verb 会う,会いました,met(p),会いました,ai mashita,met(p)
+,English,Japanese,Beginner1,Fragment,Verb 会う,会いませんでした,not met(p),会いませんでした,ai masen deshita,not met(p)
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb 歌う,歌う,sing,歌う,utau,sing
+,English,Japanese,Beginner1,Fragment,Verb 歌う,歌わない,not sing,歌わない,utawa nai,not sing
+,English,Japanese,Beginner1,Fragment,Verb 歌う,歌った,sang,歌った,uta tta,sang
+,English,Japanese,Beginner1,Fragment,Verb 歌う,歌わなかった,not sang,歌わなかった,utawa nakatta,not sang
+,English,Japanese,Beginner1,Fragment,Verb 歌う,歌います,sing(p),歌います,utai masu,sing(p)
+,English,Japanese,Beginner1,Fragment,Verb 歌う,歌いません,not sing(p),歌いません,utai masen,not sing(p)
+,English,Japanese,Beginner1,Fragment,Verb 歌う,歌いました,sang(p),歌いました,utai mashita,sang(p)
+,English,Japanese,Beginner1,Fragment,Verb 歌う,歌いませんでした,not sang(p),歌いませんでした,utai masen deshita,not sang(p)
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Verb 運転する,運転する,drive,運転する,unten suru,drive
+,English,Japanese,Beginner1,Fragment,Verb 運転する,運転しない,not drive,運転しない,unten shi nai,not drive
+,English,Japanese,Beginner1,Fragment,Verb 運転する,運転した,drove,運転した,unten shi ta,drove
+,English,Japanese,Beginner1,Fragment,Verb 運転する,運転しなかった,not drove,運転しなかった,unten shi nakatta,not drove
+,English,Japanese,Beginner1,Fragment,Verb 運転する,運転します,drive(p),運転します,unten shi masu,drive(p)
+,English,Japanese,Beginner1,Fragment,Verb 運転する,運転しません,not drive(p),運転しません,unten shi masen,not drive(p)
+,English,Japanese,Beginner1,Fragment,Verb 運転する,運転しました,drove(p),運転しました,unten shi mashita,drove(p)
+,English,Japanese,Beginner1,Fragment,Verb 運転する,運転しませんでした,not drove(p),運転しませんでした,unten shi masen deshita,not drove(p)
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,,,,,,1
+,English,Japanese,Beginner1,Fragment,Else,私は,I,私は,watashi wa,I
+,English,Japanese,Beginner1,Fragment,Else,あなたは,you,あなたは,anata wa,you
+,English,Japanese,Beginner1,Fragment,Else,彼は,he,彼は,kare wa,he
+,English,Japanese,Beginner1,Fragment,Else,彼女は,she,彼女は,kanojo wa,she
+,English,Japanese,Beginner1,Fragment,Else,,,,,1
+,English,Japanese,Beginner1,Fragment,Else,よく,often,よく,yoku,often
+,English,Japanese,Beginner1,Fragment,Else,あまり,not much,あまり,amari,not much
+,English,Japanese,Beginner1,Fragment,Else,たまに,sometimes,たまに,tamani,sometimes
+,English,Japanese,Beginner1,Fragment,Else,ほとんど,almost,ほとんど,hotondo,almost
+,English,Japanese,Beginner1,Fragment,Else,たいてい,most of the time,たいてい,taitei,most of the time
+,English,Japanese,Beginner1,Fragment,Else,,,,,1
+,English,Japanese,Beginner1,Fragment,Else,最近,recently,最近,saikin,recently
+,English,Japanese,Beginner1,Fragment,Else,あとで,later,あとで,atode,later
+,English,Japanese,Beginner1,Fragment,Else,さっき,a bit ago,さっき,sakki,a bit ago
+,English,Japanese,Beginner1,Fragment,Else,1日中,all day,1日中,ichinichi ju,all day
+,English,Japanese,Beginner1,Fragment,Else,休みの日,on days off,休みの日,yasumi no hi,on days off
+,English,Japanese,Beginner1,Fragment,Else,時間通りに,on time,時間通りに,jikan douri ni,on time
+,English,Japanese,Beginner1,Fragment,Else,週末,on weekends,週末,shuumatsu,on weekends
+,English,Japanese,Beginner1,Fragment,Else,5時間以上,for more than 5 hours,5時間以上,go jikan ijou,for more than 5 hours

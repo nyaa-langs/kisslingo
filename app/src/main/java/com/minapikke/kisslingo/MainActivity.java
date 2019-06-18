@@ -75,6 +75,7 @@ public class MainActivity extends AppCompatActivity {
        // csvからのデータの書き込み
         writeToDatabase("jap_verb_b1.csv");
         writeToDatabase("eng_verb_b1.csv");
+        writeToDatabase("jap_frag_b1.csv");
 
         final ArrayList<Spinner> spinners = new ArrayList<>();
 
