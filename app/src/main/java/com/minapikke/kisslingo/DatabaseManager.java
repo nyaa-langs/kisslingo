@@ -47,7 +47,6 @@ public class DatabaseManager {
     private ArrayList<String> furiganaArray    = new ArrayList<>();
     private ArrayList<String> chikugoyakuArray = new ArrayList<>();
 
-
     private SQLiteDatabase DatabaseObject;
 
     private DatabaseManager() {
@@ -152,7 +151,7 @@ public class DatabaseManager {
 
     public void UpdateClassType(String pLevel, String pClass){
         try {
-            String selectsql = "SELECT level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku FROM ExampleSentences WHERE "/*level = '" + pLevel + "' AND*/+" wclass = '" + pClass + "'";
+            String selectsql = "SELECT level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku FROM ExampleSentences WHERE "+" wclass = '"+pClass+"'";
             Cursor cursor = DatabaseObject.rawQuery(selectsql, null);
             typeArray.clear();
 
@@ -171,47 +170,26 @@ public class DatabaseManager {
             ex.printStackTrace();
         }
     }
-    public void UpdateYourLangauge(String pYoLang, String pClass) {
+    public void UpdateYourLangauge(String pYoLang) {
         try {
-//            String selectsql = "SELECT id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku FROM ExampleSentences";
-
             String selectsql = "SELECT ylang,tlang,level,wclass FROM ExampleSentences WHERE ylang = '" + pYoLang + "'";
             Cursor cursor = DatabaseObject.rawQuery(selectsql, null);
-            yLangArray.clear();
             tLangArray.clear();
             levelArray.clear();
             wClassArray.clear();
 
             if (cursor.moveToFirst()) {
                 do {
-                    String yLang = cursor.getString(cursor.getColumnIndex("ylang"));
                     String tLang = cursor.getString(cursor.getColumnIndex("tlang"));
                     String level = cursor.getString(cursor.getColumnIndex("level"));
                     String wClass = cursor.getString(cursor.getColumnIndex("wclass"));
-//                    String tlang_ex = cursor.getString(cursor.getColumnIndex("tlang_ex"));
-//                    String ylang_ex = cursor.getString(cursor.getColumnIndex("ylang_ex"));
-//                    String tlang_exf = cursor.getString(cursor.getColumnIndex("tlang_exf"));
-//                    String furigana = cursor.getString(cursor.getColumnIndex("furigana"));
-//                    String chikugoyaku = cursor.getString(cursor.getColumnIndex("chikugoyaku"));
-                    //System.out.println( id+"\n"+ yLang+"\n"+ tLang +"\n"+level +"\n"+ wClass +"\n"+ type);
-                    if (!yLangArray.contains(yLang))
-                        yLangArray.add(yLang);
+
                     if (!tLangArray.contains(tLang))
                         tLangArray.add(tLang);
                     if (!levelArray.contains(level))
                         levelArray.add(level);
                     if (!wClassArray.contains(wClass))
                         wClassArray.add(wClass);
-//                    if (!tLangExArray.contains(tlang_ex))
-//                        tLangExArray.add(tlang_ex);
-//                    if (!yLangExArray.contains(ylang_ex))
-//                        yLangExArray.add(ylang_ex);
-//                    if (!tLangExFArray.contains(tlang_exf))
-//                        tLangExFArray.add(tlang_exf);
-//                    if (!furiganaArray.contains(furigana))
-//                        furiganaArray.add(furigana);
-//                    if (!chikugoyakuArray.contains(chikugoyaku))
-//                        chikugoyakuArray.add(chikugoyaku);
                 } while (cursor.moveToNext());
 
                 cursor.close();
@@ -224,7 +202,7 @@ public class DatabaseManager {
 
     private void initializeArrays(){
         try {
-            String selectsql = "SELECT id,ylang,tlang,level,wclass,type FROM ExampleSentences";
+            String selectsql = "SELECT id,ylang,tlang,level,wclass,type FROM ExampleSentences WHERE ylang NOT LIKE 'ylang'";
 
             Cursor cursor = DatabaseObject.rawQuery(selectsql, null);
             clearArrays();
@@ -253,6 +231,10 @@ public class DatabaseManager {
             // データベースオブジェクトをクローズ
             DatabaseObject.close();
         }
+
+        UpdateYourLangauge(yLangArray.get(0));
+        UpdateClassType(levelArray.get(0),wClassArray.get(0));
+        UpdateFlashcards(typeArray.get(0));
     }
     //▼DatabaseHelper class設定▼
     private static class DatabaseHelper extends SQLiteOpenHelper {

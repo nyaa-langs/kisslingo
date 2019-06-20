@@ -28,13 +28,13 @@ public class MainActivity extends AppCompatActivity {
     //private SQLiteDatabase preDatabaseObject;
 
     private String ylangStr;
+    //TODO: add database filters for target langauges and level
     private String tlangStr;
     private String levelStr;
     private String wClassStr;
     private String typeStr;
 
     private ArrayList<Spinner> spinners = new ArrayList<>();
-    //TODO: Make a languages database
     private ArrayList<ArrayAdapter<String>> adapters = new ArrayList<>();
     //Random generator has a global scope so the seed doesn't change every time we execute a function with random.
     private java.util.Random randomGenerator = new Random();
@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
                     switch (spinner.getId()){
                         case R.id.spinner1:
                             ylangStr = (String)spinner.getSelectedItem();
-                            DatabaseManager.getInstance().UpdateYourLangauge(ylangStr,wClassStr);
+                            DatabaseManager.getInstance().UpdateYourLangauge(ylangStr);
 
                             setSpinner(spinners.get(1), DatabaseManager.getInstance().GetDbArray(DbObjectType.T_LANG));
                             setSpinner(spinners.get(2), DatabaseManager.getInstance().GetDbArray(DbObjectType.LEVEL));
@@ -108,7 +108,7 @@ public class MainActivity extends AppCompatActivity {
                             break;
                         case R.id.spinner2:
                             tlangStr = (String)spinner.getSelectedItem();
-                            DatabaseManager.getInstance().UpdateYourLangauge(ylangStr,wClassStr);
+                            DatabaseManager.getInstance().UpdateYourLangauge(ylangStr);
                             setSpinner(spinners.get(2), DatabaseManager.getInstance().GetDbArray(DbObjectType.LEVEL));
                             setSpinner(spinners.get(3), DatabaseManager.getInstance().GetDbArray(DbObjectType.CLASS));
                             setSpinner(spinners.get(4), DatabaseManager.getInstance().GetDbArray(DbObjectType.TYPE));
@@ -161,14 +161,14 @@ public class MainActivity extends AppCompatActivity {
                             String fullExample = "";
                             if (i < furiganaArray.length)    fullExample += furiganaArray[i] + "\n";
                                 else fullExample += "\n";
-                            if (i < tLangExfArray.length || yLangExArray[i].equals(""))    fullExample += tLangExfArray[i] + "\n";
-                                else fullExample += "Could not find a translation!";
+                            if (i < tLangExfArray.length && !yLangExArray[i].equals(""))    fullExample += tLangExfArray[i] + "\n";
+                                else fullExample += "Could not find a translation!\n";
                             if (i < chikoguyakuArray.length) fullExample += chikoguyakuArray[i];
 
                             Button button = new Button(getApplicationContext());
                             button.setText(yLangExArray[i]);
                             button.setAllCaps(false);
-                            button.setHeight(200);
+                            button.setHeight(300);
 
                             linearLayout.addView(button);
                             examplesList.put(yLangExArray[i], fullExample);
