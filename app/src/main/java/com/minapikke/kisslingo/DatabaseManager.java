@@ -69,6 +69,7 @@ public class DatabaseManager {
         writeToDatabase("eng_verb_b1.csv");
         writeToDatabase("jap_frag_b1.csv");
         writeToDatabase("jap_sentence_ad.csv");
+        writeToDatabase("jap_noun_b1.csv");
         initializeArrays();
     }
 
