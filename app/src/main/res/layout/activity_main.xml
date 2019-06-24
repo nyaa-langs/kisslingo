@@ -63,6 +63,7 @@
             android:scrollbarTrackVertical="@null"
             android:spinnerMode="dropdown"
             android:background="@android:drawable/btn_default"
+            android:autoSizeTextType="uniform"
             android:textAlignment="center" />
 
         <Button

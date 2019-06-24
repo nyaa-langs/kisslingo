@@ -115,12 +115,12 @@ public class MainActivity extends AppCompatActivity {
                             break;
                         case R.id.spinner3:
                             levelStr = (String)spinner.getSelectedItem();
-                            DatabaseManager.getInstance().UpdateClassType(ylangStr,wClassStr);
-                            setSpinner(spinners.get(4), DatabaseManager.getInstance().GetDbArray(DbObjectType.TYPE));
+                            DatabaseManager.getInstance().UpdateLevelType(levelStr);
+                            setSpinner(spinners.get(3), DatabaseManager.getInstance().GetDbArray(DbObjectType.CLASS));
                             break;
                         case R.id.spinner4:
                             wClassStr = (String)spinner.getSelectedItem();
-                            DatabaseManager.getInstance().UpdateClassType(ylangStr,wClassStr);
+                            DatabaseManager.getInstance().UpdateClassType(wClassStr);
                             setSpinner(spinners.get(4), DatabaseManager.getInstance().GetDbArray(DbObjectType.TYPE));
                             break;
                         case R.id.spinner5:

@@ -106,7 +106,8 @@ public class DatabaseManager {
         }
 
         UpdateYourLangauge(yLangArray.get(0));
-        UpdateClassType(levelArray.get(0),wClassArray.get(0));
+        UpdateLevelType(levelArray.get(0));
+        UpdateClassType(wClassArray.get(0));
         UpdateFlashcards(typeArray.get(0));
     }
 
@@ -138,9 +139,32 @@ public class DatabaseManager {
             ex.printStackTrace();
         }
     }
-    public void UpdateClassType(String pLevel, String pClass){
+    public void UpdateLevelType(String pLevel){
         try {
-            String selectsql = "SELECT level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku FROM ExampleSentences WHERE "+" wclass = '"+pClass+"'";
+            String selectsql = "SELECT level,wclass FROM ExampleSentences WHERE "+" level = '"+pLevel+"'";
+            Cursor cursor = DatabaseObject.rawQuery(selectsql, null);
+            wClassArray.clear();
+
+            if (cursor.moveToFirst()) {
+                do {
+                    String mClass = cursor.getString(cursor.getColumnIndex("wclass"));
+                    //System.out.println( id+"\n"+ yLang+"\n"+ tLang +"\n"+level +"\n"+ wClass +"\n"+ type);
+                    if (!wClassArray.contains(mClass))
+                        wClassArray.add(mClass);
+
+                } while (cursor.moveToNext());
+
+                cursor.close();
+            }
+
+            UpdateClassType(wClassArray.get(0));
+        }catch(Exception ex){
+            ex.printStackTrace();
+        }
+    }
+    public void UpdateClassType(String pClass){
+        try {
+            String selectsql = "SELECT wclass,type FROM ExampleSentences WHERE "+" wclass = '"+pClass+"'";
             Cursor cursor = DatabaseObject.rawQuery(selectsql, null);
             typeArray.clear();
 
