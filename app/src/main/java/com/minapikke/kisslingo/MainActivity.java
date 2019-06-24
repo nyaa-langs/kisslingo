@@ -161,7 +161,7 @@ public class MainActivity extends AppCompatActivity {
                             String fullExample = "";
                             if (i < furiganaArray.length)    fullExample += furiganaArray[i] + "\n";
                                 else fullExample += "\n";
-                            if (i < tLangExfArray.length && !yLangExArray[i].equals(""))    fullExample += tLangExfArray[i] + "\n";
+                            if (i < tLangExfArray.length && !tLangExfArray[i].equals(""))    fullExample += tLangExfArray[i] + "\n";
                                 else fullExample += "Could not find a translation!\n";
                             if (i < chikoguyakuArray.length) fullExample += chikoguyakuArray[i];
 
