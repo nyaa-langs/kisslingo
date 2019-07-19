@@ -65,7 +65,8 @@ public class DatabaseManager {
         DatabaseObject.execSQL(createTable);
 
         // csvからのデータの書き込み
-        writeToDatabase("jap_verb_b1.csv");
+        //writeToDatabase("jap_verb_b1.csv");
+        //writeToDatabase("jap_adjective_b1.csv");
         writeToDatabase("eng_verb_b1.csv");
         writeToDatabase("jap_frag_b1.csv");
         writeToDatabase("jap_sentence_ad.csv");
@@ -105,13 +106,13 @@ public class DatabaseManager {
             DatabaseObject.close();
         }
 
-        UpdateYourLangauge(yLangArray.get(0));
+        UpdateYourLanguage(yLangArray.get(0));
         UpdateLevelType(levelArray.get(0));
         UpdateClassType(wClassArray.get(0));
         UpdateFlashcards(typeArray.get(0));
     }
 
-    public void UpdateYourLangauge(String pYoLang) {
+    public void UpdateYourLanguage(String pYoLang) {
         try {
             String selectsql = "SELECT ylang,tlang,level,wclass FROM ExampleSentences WHERE ylang = '" + pYoLang + "'";
             Cursor cursor = DatabaseObject.rawQuery(selectsql, null);

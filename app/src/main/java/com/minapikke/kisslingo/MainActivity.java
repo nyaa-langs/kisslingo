@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
                     switch (spinner.getId()){
                         case R.id.spinner1:
                             ylangStr = (String)spinner.getSelectedItem();
-                            DatabaseManager.getInstance().UpdateYourLangauge(ylangStr);
+                            DatabaseManager.getInstance().UpdateYourLanguage(ylangStr);
 
                             setSpinner(spinners.get(1), DatabaseManager.getInstance().GetDbArray(DbObjectType.T_LANG));
                             setSpinner(spinners.get(2), DatabaseManager.getInstance().GetDbArray(DbObjectType.LEVEL));
@@ -108,7 +108,7 @@ public class MainActivity extends AppCompatActivity {
                             break;
                         case R.id.spinner2:
                             tlangStr = (String)spinner.getSelectedItem();
-                            DatabaseManager.getInstance().UpdateYourLangauge(ylangStr);
+                            DatabaseManager.getInstance().UpdateYourLanguage(ylangStr);
                             setSpinner(spinners.get(2), DatabaseManager.getInstance().GetDbArray(DbObjectType.LEVEL));
                             setSpinner(spinners.get(3), DatabaseManager.getInstance().GetDbArray(DbObjectType.CLASS));
                             setSpinner(spinners.get(4), DatabaseManager.getInstance().GetDbArray(DbObjectType.TYPE));
@@ -168,7 +168,7 @@ public class MainActivity extends AppCompatActivity {
                             Button button = new Button(getApplicationContext());
                             button.setText(yLangExArray[i]);
                             button.setAllCaps(false);
-                            button.setHeight(300);
+                            button.setHeight(500);
 
                             linearLayout.addView(button);
                             examplesList.put(yLangExArray[i], fullExample);
