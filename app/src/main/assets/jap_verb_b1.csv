@@ -1,9 +1,9 @@
 id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),yournameさんは、よく本を読みますか？,"yourname, do you often read a book?",yournameさんは、| よく | 本を | 読みます | か？,yourname san wa | yoku | hon wo | yomi masu | ka？,yourname | often | a book | read(polite) | ？
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),はい、よく読みます,"Yes, I often do.",はい、| よく | 読みます,hai | yoku | yomi masu,yes | often | read(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),yournameさんは、よく本を読みますか？,yourname. Do you often read a book?,yournameさんは、| よく | 本を | 読みます | か？,yourname san wa | yoku | hon wo | yomi masu | ka？,yourname | often | a book | read(polite) | ？
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),はい、よく読みます,Yes. I often do.,はい、| よく | 読みます,hai | yoku | yomi masu,yes | often | read(polite)
 ,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),たまに読みます,I sometimes do.,たまに | 読みます,tamani | yomi masu,sometimes | read(polite)
 ,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),週に2回くらい読みます,I do about twice a week.,週に | 2回 | くらい | 読みます,shuu ni | ni kai | kurai | yomi masu,a week | twice | about | read(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),いいえ、あまり読みません,"No, I don''t much.",いいえ、| あまり | 読みません,iie | amari | yomi masen,no | not much | not read(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),いいえ、あまり読みません,No. I don''t much.,いいえ、| あまり | 読みません,iie | amari | yomi masen,no | not much | not read(polite)
 ,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),私はほとんど本を読みません,I rarely read a book.,私は | ほとんど | 本を | 読みません,watashi wa | hotondo | hon wo | yomi masen,I | almost not | a book | not read(polite)
 ,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),最近はどうですか？,How about recenlty?,最近は | どう | です | か？,saikin wa | dou | desu | ka？,recently | how | is(polite) | ？
 ,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),最近はいつも何か読んでいます,I am always reading something recently.,最近は | いつも | 何か | 読んでいます,saikin wa | itsumo | nanika | yonde imasu,recently | always | something | reading(polite)
@@ -16,21 +16,21 @@ id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyak
 ,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),1日2時間くらい読んでいます,About 2 hours a day.,1日 | 2時間 | くらい | 読んでいます,ichi nichi | ni jikan | kurai | yonde imasu,a day | two hours | about | reading(polite)
 ,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),普段はどんな本を読んでいますか？,What kind of book do you usually read?,普段は | どんな | 本を | 読んでいます | か？,fudan wa | donna | hon wo | yonde imasu | ka？,usually | what kind of | a book | reading(polite) | ？
 ,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),小説を読んでいます,Novels.,小説を | 読んでいます,shousetsu wo | yonde imasu,novel | reading(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),ちなみに今日はもう本を読みましたか？,"By the way, have you already read a book today?",ちなみに | 今日は | もう | 本を | 読みました | か？,chinamini | kyou wa | mou | hon wo | yomi mashita | ka？,by the way | today | already | a book | read(past)(polite) | ？
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),はい、読みました,"Yes, I have.",はい、| 読みました,hai | yomi mashita,yes | read(past)(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),いいえ、まだ読んでいません,"No, I haven''t yet.",いいえ、| まだ | 読んでいません,iie | mada | yonde imasen,no | yet | not reading(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),ちなみに今日はもう本を読みましたか？,By the way. Have you already read a book today?,ちなみに | 今日は | もう | 本を | 読みました | か？,chinamini | kyou wa | mou | hon wo | yomi mashita | ka？,by the way | today | already | a book | read(past)(polite) | ？
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),はい、読みました,Yes. I have.,はい、| 読みました,hai | yomi mashita,yes | read(past)(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),いいえ、まだ読んでいません,No. I haven''t yet.,いいえ、| まだ | 読んでいません,iie | mada | yonde imasen,no | yet | not reading(polite)
 ,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),何を読みましたか？,What did you read?,何を | 読みました | か？,nani wo | yomi mashita | ka？,what | read(past)(polite) | ？
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),ミステリー小説を読みました,mistery novel.,ミステリー | 小説を | 読みました,misuteri- | shousetsu wo | yomi mashita,mystery | novel | read(past)(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),ミステリー小説を読みました,Mistery novel.,ミステリー | 小説を | 読みました,misuteri- | shousetsu wo | yomi mashita,mystery | novel | read(past)(polite)
 ,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),明日も本を読みますか？,Will you read a book tomorrow too?,明日も | 本を | 読みます | か？,ashita mo | hon wo | yomi masu | ka？,tomorrow too | a book | read(polite) | ？
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),はい、読みます,"Yes, I will.",はい、| 読みます,hai | yomi masu,yes | read(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),明日は読みません,"Tomorrow, I won't.",明日は | 読みません,ashita wa | yomi masen,tomorrow | not read(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),はい、読みます,Yes. I will.,はい、| 読みます,hai | yomi masu,yes | read(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),明日は読みません,Tomorrow I won''t.,明日は | 読みません,ashita wa | yomi masen,tomorrow | not read(polite)
 ,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),まだわかりません,I don''t know yet.,まだ | わかりません,mada | wakari masen,yet | not know(polite)
 ,English,Japanese,Beginner1,Verb,,,,,,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),yournameさんは、よく映画を見ますか？,"yourname, do you often watch a movie?",yournameさんは、| よく | 映画を | 見ます | か？,yourname san wa | yoku | eiga wo | mi masu | ka？,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),はい、よく見ます,"Yes, I often do.",はい、| よく | 見ます,hai | yoku | mi masu,1
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),yournameさんは、よく映画を見ますか？,yourname. Do you often watch a movie?,yournameさんは、| よく | 映画を | 見ます | か？,yourname san wa | yoku | eiga wo | mi masu | ka？,1
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),はい、よく見ます,Yes. I often do.,はい、| よく | 見ます,hai | yoku | mi masu,1
 ,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),たまに見ます,I sometimes do.,たまに | 見ます,tamani | mi masu,1
 ,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),週に2回くらい見ます,I do about twice a week.,週に | 2回 | くらい | 見ます,shuu ni | ni kai | kurai | mi masu,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),いいえ、あまり見ません,"No, I don''t much.",いいえ、| あまり | 見ません,iie | amari | mi masen,1
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),いいえ、あまり見ません,No. I don''t much.,いいえ、| あまり | 見ません,iie | amari | mi masen,1
 ,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),私はほとんど映画を見ません,I rarely watch a movie.,私は | ほとんど | 映画を | 見ません,watashi wa | hotondo | eiga wo | mi masen,1
 ,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),最近はどうですか？,How about recenlty?,最近は | どう | です | か？,saikin wa | dou | desu | ka？,1
 ,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),最近は毎日何か見ています,I am always watching something recently.,最近は | 毎日 | 何か | 見ています,saikin wa | mainichi | nanika | mite imasu,1
@@ -45,14 +45,14 @@ id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyak
 ,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),週に3回くらい見ています,About 3 times a week.,週に | 3回 | くらい | 見ています,shuu ni | san kai | kurai | mite imasu,1
 ,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),普段はどんな映画を見ていますか？,What kind of movie do you usually watch?,普段は | どんな | 映画を | 見ています | か？,fudan wa | donna | eiga wo | mite imasu | ka？,1
 ,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),ホラー映画を見ています,Horror movies.,ホラー映画を | 見ています,hora- eiga wo | mite imasu,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),ちなみに今週はもう映画を見ましたか？,"By the way, have you already watch a movie this week?",ちなみに | 今週は | もう | 映画を | 見ました | か？,chinamini | konshuu wa | mou | eiga wo | mi mashita | ka？,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),はい、見ました,"Yes, I have.",はい、| 見ました,hai | mi mashita,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),いいえ、まだ見ていません,"No, I haven''t yet.",いいえ、| まだ | 見ていません,iie | mada | mite imasen,1
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),ちなみに今週はもう映画を見ましたか？,By the way. Have you already watch a movie this week?,ちなみに | 今週は | もう | 映画を | 見ました | か？,chinamini | konshuu wa | mou | eiga wo | mi mashita | ka？,1
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),はい、見ました,Yes. I have.,はい、| 見ました,hai | mi mashita,1
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),いいえ、まだ見ていません,No. I haven''t yet.,いいえ、| まだ | 見ていません,iie | mada | mite imasen,1
 ,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),何を見ましたか？,What did you watch?,何を | 見ました | か？,nani wo | mi mashita | ka？,1
 ,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),SF映画を見ました,SF movies.,SF映画を | 見ました,SF eiga wo | mi mashita,1
 ,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),来週も映画を見ますか？,Will you watch a movie next week too?,来週も | 映画を | 見ます | か？,raishuu mo | eiga wo | mi masu | ka？,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),はい、見ます,"Yes, I will.",はい、| 見ます,hai | mi masu,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),来週は見ません,"Next week, I won't.",来週は | 見ません,raishuu wa | mi masen,1
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),はい、見ます,Yes. I will.,はい、| 見ます,hai | mi masu,1
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),来週は見ません,Next week I won''t.,来週は | 見ません,raishuu wa | mi masen,1
 ,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),まだわかりません,I don''t know yet.,まだ | わかりません,mada | wakari masen,1
 ,English,Japanese,Beginner1,Verb,,,,,,1
 ,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),yournameさんは、よくニュースをチェックしますか？,,,,1

@@ -65,7 +65,7 @@ public class DatabaseManager {
         DatabaseObject.execSQL(createTable);
 
         // csvからのデータの書き込み
-        //writeToDatabase("jap_verb_b1.csv");
+        writeToDatabase("jap_verb_b1.csv");
         //writeToDatabase("jap_adjective_b1.csv");
         writeToDatabase("eng_verb_b1.csv");
         writeToDatabase("jap_frag_b1.csv");
