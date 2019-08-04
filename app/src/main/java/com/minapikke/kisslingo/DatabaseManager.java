@@ -12,6 +12,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import io.reactivex.*;
+import io.reactivex.schedulers.Schedulers;
 
 enum DbObjectType{
     Y_LANG      ,
@@ -63,6 +65,13 @@ public class DatabaseManager {
         DatabaseObject.execSQL(dropTable);
         // テーブルを作成
         DatabaseObject.execSQL(createTable);
+
+//        Flowable.fromCallable(()->{
+//
+//            return null;
+//        }).subscribeOn(Schedulers.computation())
+//                .observeOn(Schedulers.single())
+//                .subscribe();
 
         // csvからのデータの書き込み
         writeToDatabase("jap_verb_b1.csv");
