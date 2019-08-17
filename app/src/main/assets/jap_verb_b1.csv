@@ -1,343 +1,397 @@
 id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),yournameさんは、よく本を読みますか？,yourname. Do you often read a book?,yournameさんは、| よく | 本を | 読みます | か？,yourname san wa | yoku | hon wo | yomi masu | ka？,yourname | often | a book | read(polite) | ？
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),はい、よく読みます,Yes. I often do.,はい、| よく | 読みます,hai | yoku | yomi masu,yes | often | read(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),たまに読みます,I sometimes do.,たまに | 読みます,tamani | yomi masu,sometimes | read(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),週に2回くらい読みます,I do about twice a week.,週に | 2回 | くらい | 読みます,shuu ni | ni kai | kurai | yomi masu,a week | twice | about | read(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),いいえ、あまり読みません,No. I don''t much.,いいえ、| あまり | 読みません,iie | amari | yomi masen,no | not much | not read(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),私はほとんど本を読みません,I rarely read a book.,私は | ほとんど | 本を | 読みません,watashi wa | hotondo | hon wo | yomi masen,I | almost not | a book | not read(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),最近はどうですか？,How about recenlty?,最近は | どう | です | か？,saikin wa | dou | desu | ka？,recently | how | is(polite) | ？
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),最近はいつも何か読んでいます,I am always reading something recently.,最近は | いつも | 何か | 読んでいます,saikin wa | itsumo | nanika | yonde imasu,recently | always | something | reading(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),最近は全然本を読んでいません,I haven''t read a book at all recently.,最近は | 全然 | 本を | 読んでいません,saikin wa | zenzen | hon wo | yonde imasen,recently | at all | a book | not reading(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),普段はいつ本を読んでいますか？,When do you usually read a book?,普段は | いつ | 本を | 読んでいます | か？,fudan wa | itsu | hon wo | yonde imasu | ka？,recently | itsu | a book | reading(polite) | ?
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),寝る前に読んでいます,Before I go to bed.,寝る | 前に | 読んでいます,neru | mae ni | yonde imasu,go to bed | before | reading(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),普段はどこで本を読んでいますか？,Where do you usually read a book?,普段は | どこで | 本を | 読んでいます | か？,fudan wa | doko de | hon wo | yonde imasu | ka？,usually | where | a book | reading(polite) | ？
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),自分の部屋で読んでいます,In my room.,自分の | 部屋で | 読んでいます,jibun no | heya de | yonde imasu,own | in room | reading(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),普段はどれくらい本を読んでいますか？,How long do you usually read a book?,普段は | どれくらい | 本を | 読んでいます | か？,fudan wa | dorekurai | hon wo | yonde imasu | ka？,usually | how long | a book | reading(polite) | ？
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),1日2時間くらい読んでいます,About 2 hours a day.,1日 | 2時間 | くらい | 読んでいます,ichi nichi | ni jikan | kurai | yonde imasu,a day | two hours | about | reading(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),普段はどんな本を読んでいますか？,What kind of book do you usually read?,普段は | どんな | 本を | 読んでいます | か？,fudan wa | donna | hon wo | yonde imasu | ka？,usually | what kind of | a book | reading(polite) | ？
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),小説を読んでいます,Novels.,小説を | 読んでいます,shousetsu wo | yonde imasu,novel | reading(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),ちなみに今日はもう本を読みましたか？,By the way. Have you already read a book today?,ちなみに | 今日は | もう | 本を | 読みました | か？,chinamini | kyou wa | mou | hon wo | yomi mashita | ka？,by the way | today | already | a book | read(past)(polite) | ？
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),はい、読みました,Yes. I have.,はい、| 読みました,hai | yomi mashita,yes | read(past)(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),いいえ、まだ読んでいません,No. I haven''t yet.,いいえ、| まだ | 読んでいません,iie | mada | yonde imasen,no | yet | not reading(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),何を読みましたか？,What did you read?,何を | 読みました | か？,nani wo | yomi mashita | ka？,what | read(past)(polite) | ？
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),ミステリー小説を読みました,Mistery novel.,ミステリー | 小説を | 読みました,misuteri- | shousetsu wo | yomi mashita,mystery | novel | read(past)(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),明日も本を読みますか？,Will you read a book tomorrow too?,明日も | 本を | 読みます | か？,ashita mo | hon wo | yomi masu | ka？,tomorrow too | a book | read(polite) | ？
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),はい、読みます,Yes. I will.,はい、| 読みます,hai | yomi masu,yes | read(polite)
-,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),明日は読みません,Tomorrow I won''t.,明日は | 読みません,ashita wa | yomi masen,tomorrow | not read(polite)
+tips here,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),yournameさんは本を読みますか？,yourname...do you read a book?,yournameさんは | 本を | 読みます | か？,yourname san wa | hon wo | yomi masu | ka？,yourname | book | read(polite) | ？
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),はい、よく読みます,Yes...often.,はい、| よく | 読みます,hai | yoku | yomi masu,yes | often | read(polite)
+日本語は,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),はい、たまに読みます,Yes...sometimes.,はい、| たまに | 読みます,hai | tamani | yomi masu,yes | sometimes | read(polite)
+未来は現在形,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),はい、週に2回くらい読みます,Yes...about twice a week.,はい、| 週に | 2回 | くらい | 読みます,hai | shuu ni | ni kai | kurai | yomi masu,yes | a week | twice | about | read(polite)
+習慣は現在進行形,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),いいえ、あまり読みません,No...not much.,いいえ、| あまり | 読みません,i-e | amari | yomi masen,no | not much | not read(polite)
+でいける,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),いいえ、ほとんど読みません,No...rarely.,いいえ、| ほとんど | 読みません,i-e | hotondo | yomi masen,no | almost | not read(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),普段はいつ本を読みますか？,When do you usually read a book?,普段は | いつ | 本を | 読みます | か？,fudan wa | itsu | hon wo | yomi masu | ka？,usually | when | book | read(polite) | ?
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),寝る前に読みます,Before I go to bed.,寝る | 前に | 読みます,neru | mae ni | yomi masu,go to bed | before | read(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),普段はどこで本を読みますか？,Where do you usually read a book?,普段は | どこで | 本を | 読みます | か？,fudan wa | doko de | hon wo | yomi masu | ka？,usually | where | book | read(polite) | ？
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),自分の部屋で読みます,In my room.,自分の | 部屋で | 読みます,jibun no | heya de | yomi masu,own | in the room | read(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),普段はどれくらい本を読みますか？,How long do you usually read a book?,普段は | どれくらい | 本を | 読みます | か？,fudan wa | dorekurai | hon wo | yomi masu | ka？,usually | how long | book | read(polite) | ？
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),1日2時間くらい読みます,About 2 hours a day.,1日 | 2時間 | くらい | 読みます,ichi nichi | ni jikan | kurai | yomi masu,a day | two hours | about | read(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),普段はどんな本を読みますか？,What kind of book do you usually read?,普段は | どんな | 本を | 読みます | か？,fudan wa | donna | hon wo | yomi masu | ka？,usually | what kind of | book | read(polite) | ？
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),小説を読みます,Novels.,小説を | 読みます,sho-setsu wo | yomi masu,novel | read(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),最近は本を読んでいますか？,Are you reading a book recently?,最近は | 本を | 読んでいます | か？,saikin wa | hon wo | yonde imasu | ka?,recently | book | reading(polite) | ？
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),最近はいつも本を読んでいます,I am always reading a book recently.,最近は | いつも | 本を | 読んでいます,saikin wa | itsumo | hon wo | yonde i masu,recently | always | book | reading(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),最近は全然本を読んでいません,I am not reading a book at all recently.,最近は | 全然 | 本を | 読んでいません,saikin wa | zenzen | hon wo | yonde i masen,recently | at all | book | not reading(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),昨日は本を読みましたか？,Did you read a book yesterday?,昨日は | 本を | 読みました | か？,kino- wa | hon wo | yomi mashita | ka?,yesterday | book | read(past)(polite) | ?
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),はい、読みました,Yes...I did.,はい、| 読みました,hai | yomi mashita,yes | read(past)(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),いいえ、読みませんでした,No...I didn''t.,いいえ、| 読みませんでした,i-e | yomi masen deshita,no | not read(past)(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),今日はもう本を読みましたか？,Have you already read a book today?,今日は | もう | 本を | 読みました | か？,kyo- wa | mo- | hon wo | yomi mashita | ka?,today | already | book | read(past)(polite) | ?
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),はい、もう読みました,Yes...I already have.,はい、| もう | 読みました,hai | mo- | yomi mashita,yes | already | read(past)(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),いいえ、まだ読んでいません,No...not yet.,いいえ、| まだ | 読んでいません,i-e | mada | yonde i masen,no | yet | not reading(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),何を読みましたか？,What did you read?,何を | 読みました | か？,nani wo | yomi mashita | ka？,what | read(past)(polite) | ?
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),ミステリー小説を読みました,Mistery novels.,ミステリー小説を | 読みました,misuteri- sho-setsu wo | yomi mashita,mistery novel | read(past)(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),明日も本を読みますか？,Will you read a book tomorrow too?,明日も | 本を | 読みます | か？,ashita mo | hon wo | yomi masu | ka？,tomorrow too | book | read(polite) | ？
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),はい、読みます,Yes...I will.,はい、| 読みます,hai | yomi masu,yes | read(polite)
+,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),いいえ、読みません,No...I won''t.,いいえ、| 読みません,i-e | yomi masen ,no | not read(polite)
 ,English,Japanese,Beginner1,Verb,本を読む / read a book ( 1 ),まだわかりません,I don''t know yet.,まだ | わかりません,mada | wakari masen,yet | not know(polite)
-,English,Japanese,Beginner1,Verb,,,,,,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),yournameさんは、よく映画を見ますか？,yourname. Do you often watch a movie?,yournameさんは、| よく | 映画を | 見ます | か？,yourname san wa | yoku | eiga wo | mi masu | ka？,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),はい、よく見ます,Yes. I often do.,はい、| よく | 見ます,hai | yoku | mi masu,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),たまに見ます,I sometimes do.,たまに | 見ます,tamani | mi masu,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),週に2回くらい見ます,I do about twice a week.,週に | 2回 | くらい | 見ます,shuu ni | ni kai | kurai | mi masu,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),いいえ、あまり見ません,No. I don''t much.,いいえ、| あまり | 見ません,iie | amari | mi masen,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),私はほとんど映画を見ません,I rarely watch a movie.,私は | ほとんど | 映画を | 見ません,watashi wa | hotondo | eiga wo | mi masen,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),最近はどうですか？,How about recenlty?,最近は | どう | です | か？,saikin wa | dou | desu | ka？,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),最近は毎日何か見ています,I am always watching something recently.,最近は | 毎日 | 何か | 見ています,saikin wa | mainichi | nanika | mite imasu,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),最近は全然映画を見ていません,I haven''t watched a movie at all recently.,最近は | 全然 | 映画を | 見ていません,saikin wa | zenzen | eiga wo | mite imasen,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),普段はいつ映画を見ていますか？,When do you usually watch a movie?,普段は | いつ | 映画を | 見ています | か？,fudan wa | itsu | eiga wo | mite imasu | ka？,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),休みの日に見ています,On my days off.,休みの日に | 見ています,yasumi no hi ni | mite imasu,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),普段はどこで映画を見ていますか？,Where do you usually watch a movie?,普段は | どこで | 映画を | 見ています | か？,fudan wa | doko de | eiga wo | mite imasu | ka？,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),映画館で見ています,At the movie theater.,映画館で | 見ています,eigakan de | mite imasu,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),普段は誰と映画を見ていますか？,Who do you usually watch a movie with?,普段は | 誰と | 映画を | 見ています | か？,fudan wa | dare to | eiga wo | mite imasu | ka?,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),1人で見ています,By myself.,1人で | 見ています,hitori de | mite imasu,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),普段はどれくらい映画を見ていますか？,How long do you usually watch a movie?,普段は | どれくらい | 映画を | 見ています | か？,fudan wa | dorekurai | eiga wo | mite imasu | ka？,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),週に3回くらい見ています,About 3 times a week.,週に | 3回 | くらい | 見ています,shuu ni | san kai | kurai | mite imasu,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),普段はどんな映画を見ていますか？,What kind of movie do you usually watch?,普段は | どんな | 映画を | 見ています | か？,fudan wa | donna | eiga wo | mite imasu | ka？,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),ホラー映画を見ています,Horror movies.,ホラー映画を | 見ています,hora- eiga wo | mite imasu,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),ちなみに今週はもう映画を見ましたか？,By the way. Have you already watch a movie this week?,ちなみに | 今週は | もう | 映画を | 見ました | か？,chinamini | konshuu wa | mou | eiga wo | mi mashita | ka？,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),はい、見ました,Yes. I have.,はい、| 見ました,hai | mi mashita,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),いいえ、まだ見ていません,No. I haven''t yet.,いいえ、| まだ | 見ていません,iie | mada | mite imasen,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),何を見ましたか？,What did you watch?,何を | 見ました | か？,nani wo | mi mashita | ka？,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),SF映画を見ました,SF movies.,SF映画を | 見ました,SF eiga wo | mi mashita,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),来週も映画を見ますか？,Will you watch a movie next week too?,来週も | 映画を | 見ます | か？,raishuu mo | eiga wo | mi masu | ka？,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),はい、見ます,Yes. I will.,はい、| 見ます,hai | mi masu,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),来週は見ません,Next week I won''t.,来週は | 見ません,raishuu wa | mi masen,1
-,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),まだわかりません,I don''t know yet.,まだ | わかりません,mada | wakari masen,1
-,English,Japanese,Beginner1,Verb,,,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),yournameさんは、よくニュースをチェックしますか？,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),はい、よくチェックします,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),たまにチェックします,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),週に2回くらいチェックします,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),いいえ、あまりチェックしません,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),私はほとんどニュースをチェックしません,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),最近はどうですか？,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),最近は毎日ニュースをチェックしています,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),最近は全然ニュースをチェックしていません,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),普段はいつニュースをチェックしていますか？,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),朝チェックしています,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),普段はどこでニュースをチェックしていますか？,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),電車の中でチェックしています,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),普段はどれくらいニュースをチェックしていますか？,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),1日10回くらいチェックしています,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),普段はどんなニュースをチェックしていますか？,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),天気のニュースをチェックしています,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),ちなみに今日はもうニュースをチェックしましたか？,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),はい、しました,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),いいえ、まだしていません,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),どんなニュースをチェックしましたか？,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),国内ニュースをチェックしました,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),明日もニュースをチェックしますか？,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),はい、します,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),明日はしません,,,,1
-,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),まだわかりません,,,,1
-,English,Japanese,Beginner1,Verb,,,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),yournameさんは、よくテレビを見ますか？,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),はい、よく見ます,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),たまに見ます,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),1日1時間くらい見ます,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),いいえ、あまり見ません,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),私はほとんどテレビを見ません,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),最近はどうですか？,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),最近はいつも何か見ています,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),最近は全然テレビを見ていません,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),普段はいつテレビを見ていますか？,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),夕食の後に見ています,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),普段はどこでテレビを見ていますか？,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),居間で見ています,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),普段は誰とテレビを見ていますか？,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),家族と見ています,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),普段はどれくらいテレビを見ていますか？,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),1日30分くらい見ています,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),普段はどんなテレビを見ていますか？,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),アニメを見ています,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),ちなみに今日はもうテレビを見ましたか？,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),はい、見ました,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),いいえ、まだ見ていません,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),何を見ましたか？,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),ドラマを見ました,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),明日もテレビを見ますか？,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),はい、見ます,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),明日は見ません,,,,1
-,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),まだわかりません,,,,1
-,English,Japanese,Beginner1,Verb,,,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),yournameさんは、よく音楽をききますか？,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),はい、よくききます,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),たまにききます,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),1日1時間くらいききます,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),いいえ、あまりききません,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),私はほとんど音楽をききません,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),最近はどうですか？,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),最近はいつも何かきいています,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),最近は全然音楽をきいていません,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),普段はいつ音楽をきいていますか？,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),ジョギングの時にきいています,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),普段はどこで音楽をきいていますか？,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),外できいています,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),普段は誰と音楽をきいていますか？,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),友達ときいています,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),普段はどれくらい音楽をきいていますか？,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),1日3時間以上きいています,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),普段はどんな音楽をきいていますか？,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),外国のロックをきいています,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),ちなみに今日はもう音楽をききましたか？,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),はい、ききました,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),いいえ、まだきいていません,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),何をききましたか？,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),クラシックをききました,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),明日も音楽をききますか？,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),はい、ききます,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),明日はききません,,,,1
-,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),まだわかりません,,,,1
-,English,Japanese,Beginner1,Verb,,,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),yournameさんは、よく絵を描きますか？,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),はい、よく描きます,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),たまに描きます,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),1日3枚くらい描きます,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),いいえ、あまり描きません,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),私はほとんど絵を描きません,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),最近はどうですか？,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),最近はいつも何か描いています,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),最近は全然絵を描いていません,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),普段はいつ絵を描いていますか？,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),暇な時にずっと描いています,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),普段はどこで絵を描いていますか？,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),学校で描いています,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),普段は誰と絵を描いていますか？,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),友達と描いています,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),普段はどれくらい絵を描いていますか？,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),1日5時間以上描いています,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),普段はどんな絵を描いていますか？,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),アニメのイラストを描いています,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),ちなみに今日はもう絵を描きましたか？,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),はい、描きました,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),いいえ、まだ描いていません,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),何を描きましたか？,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),猫の絵を描きました,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),明日も絵を描きますか？,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),はい、描きます,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),明日は描きません,,,,1
-,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),まだわかりません,,,,1
-,English,Japanese,Beginner1,Verb,,,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),yournameさんは、いつから日本語を勉強していますか？,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),1年前から勉強しています,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),最近は勉強していますか？,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),最近は毎日日本語を勉強しています,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),最近はあまり日本語を勉強していません,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),普段はいつ日本語を勉強していますか？,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),時間がある時に勉強しています,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),普段はどこで日本語を勉強していますか？,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),家か学校で勉強しています,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),普段は誰と日本語を勉強していますか？,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),クラスメートと勉強しています,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),普段はどれくらい日本語を勉強していますか？,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),1日2、3時間です,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),普段はどんな勉強をしていますか？,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),漢字や文法の勉強です,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),ちなみに今日はもう日本語を勉強しましたか？,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),はい、しました,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),いいえ、まだしていません,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),何を勉強しましたか？,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),N3の試験の勉強をしました,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),明日も日本語を勉強しますか？,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),はい、します,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),明日はしません,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),まだわかりません,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),何か目標はありますか？,,,,1
-,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),はい、N1試験に合格することです,,,,1
-,English,Japanese,Beginner1,Verb,,,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),yournameさんは、よく買い物に行きますか？,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),はい、よく行きます,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),たまに行きます,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),週3、4回行きます,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),いいえ、あまり行きません,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),私はほとんど買い物に行きません,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),最近はどうですか？,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),最近は毎日どこかに買い物に行っています,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),最近は全然買い物に行っていません,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),普段はいつ買い物に行っていますか？,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),週末に行っています,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),普段はどこに買い物に行っていますか？,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),近くのスーパーに行っています,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),普段は誰と買い物に行っていますか？,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),両親と行っています,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),普段はどれくらいスーパーに行っていますか？,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),最低月4、5回行っています,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),普段はどうやって買い物に行っていますか？,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),車で行っています,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),ちなみに今週はもう買い物に行きましたか？,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),はい、行きました,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),いいえ、まだ行っていません,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),どこに行きましたか？,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),駅の近くのデパートに行きました,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),来週も買い物に行きますか？,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),はい、行きます,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),来週は行きません,,,,1
-,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),まだわかりません,,,,1
-,English,Japanese,Beginner1,Verb,,,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),yournameさんは、よくゲームをしますか？,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),はい、よくします,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),たまにします,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),1日10時間くらいします,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),いいえ、あまりしません,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),私はほとんどゲームをしません,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),最近はどうですか？,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),最近は1日中ゲームをしています,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),最近は週2、3時間しかゲームをしていません,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),普段はいつゲームをしていますか？,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),夕食の前にしています,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),普段はどこでゲームをしていますか？,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),自分の部屋でしています,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),普段はどれくらいゲームをしていますか？,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),週2、3時間くらいしています,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),普段はどんなゲームをしていますか？,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),PUBGをしています,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),ちなみに今日はもうゲームをしましたか？,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),はい、しました,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),いいえ、まだしていません,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),どんなゲームをしましたか？,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),RPGゲームをしました,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),明日もゲームをしますか？,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),はい、します,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),明日はしません,,,,1
-,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),まだわかりません,,,,1
-,English,Japanese,Beginner1,Verb,,,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),yournameさんは、よく魚を食べますか？,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),はい、よく食べます,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),たまに食べます,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),1日3匹くらい食べます,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),いいえ、あまり食べません,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),私はほとんど魚を食べません,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),最近はどうですか？,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),最近は毎食魚を食べています,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),最近は全然魚を食べていません,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),普段はいつ魚を食べていますか？,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),夕食の時に食べています,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),普段はどこで魚を食べていますか？,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),台所で食べています,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),普段は誰と魚を食べていますか？,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),近所の知り合いと食べています,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),普段はどれくらい魚を食べていますか？,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),最低1日5匹は食べています,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),普段はどんな魚を食べていますか？,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),おいしい魚を食べています,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),ちなみに今日はもう魚を食べましたか？,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),はい、食べました,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),いいえ、まだ食べていません,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),何の魚を食べましたか？,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),サーモンを食べました,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),明日も魚を食べますか？,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),はい、食べます,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),明日は食べません,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),まだわかりません,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),yournameさんは、猫ですか？,,,,1
-,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),え、ばれちゃった！？,,,,1
-,English,Japanese,Beginner1,Verb,,,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),yournameさんは、よくお酒を飲みますか？,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),はい、よく飲みます,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),たまに飲みます,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),週1、2回くらいなら飲みます,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),いいえ、あまり飲みません,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),私はほとんどお酒を飲みません,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),最近はどうですか？,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),最近は毎日お酒を飲んでいます,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),最近は全然お酒を飲んでいません,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),普段はいつお酒を飲んでいますか？,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),仕事の後に飲んでいます,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),普段はどこでお酒を飲んでいますか？,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),バーで飲んでいます,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),普段は誰とお酒を飲んでいますか？,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),同僚や上司と飲んでいます,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),普段はどれくらいお酒を飲んでいますか？,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),ビール3杯くらいです,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),普段はどんなお酒を飲んでいますか？,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),主にワインかビールを飲んでいます,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),ちなみに今日はもうお酒を飲みましたか？,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),はい、飲みました,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),いいえ、まだ飲んでいません,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),何のお酒を飲みましたか？,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),ウイスキーを飲みました,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),明日もお酒を飲みますか？,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),はい、飲みます,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),明日は飲みません,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),まだわかりません,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),yournameさんは、お酒が強いですか？,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),はい、強いです,,,,1
-,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),いいえ、弱いです,,,,1
-,English,Japanese,Beginner1,Verb,,,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),yournameさんは、よくジムに行きますか？,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),はい、よく行きます,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),たまに行きます,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),月1、2回くらいなら行きます,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),いいえ、あまり行きません,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),私はほとんどジムに行きません,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),最近はどうですか？,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),最近はいつもジムに行っています,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),最近は全然ジムに行っていません,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),普段はいつジムに行っていますか？,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),朝、仕事に行く前に行っています,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),普段はどこのジムに行っていますか？,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),家の近くのジムに行っています,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),普段は誰とジムに行っていますか？,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),妻と一緒に行っています,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),普段はどれくらいジムに行っていますか？,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),毎日行っています,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),普段はどうやってジムに行っていますか？,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),自転車で行っています,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),ちなみに今日はもうジムには行きましたか？,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),はい、行きました,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),いいえ、まだ行っていません,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),明日もジムに行きますか？,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),はい、行きます,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),明日は行きません,,,,1
-,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),まだわかりません,,,,1
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),yournameさんは映画を見ますか？,yourname...do you watch a movie?,yournameさんは | 映画を | 見ます | か？,yourname san wa | e-ga wo | mi masu | ka？,yourname | movie | watch(polite) | ？
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),はい、よく見ます,Yes...often.,はい、| よく | 見ます,hai | yoku | mi masu,yes | often | watch(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),はい、たまに見ます,Yes...sometimes.,はい、| たまに | 見ます,hai | tamani | mi masu,yes | sometimes | watch(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),はい、週に2回くらい見ます,Yes...about twice a week.,はい、| 週に | 2回 | くらい | 見ます,hai | shuu ni | ni kai | kurai | mi masu,yes | a week | twice | about | watch(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),いいえ、あまり見ません,No...not much.,いいえ、| あまり | 見ません,i-e | amari | mi masen,no | not much | not watch(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),いいえ、ほとんど見ません,No...rarely.,いいえ、| ほとんど | 見ません,i-e | hotondo | mi masen,no | almost | not watch(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),普段はいつ映画を見ますか？,When do you usually watch a movie?,普段は | いつ | 映画を | 見ます | か？,fudan wa | itsu | e-ga wo | mi masu | ka？,usually | when | movie | watch(polite) | ?
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),休みの日に見ます,On my days off.,休みの日に | 見ます,yasumi no hi ni | mi masu,on days off | read(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),普段はどこで映画を見ますか？,Where do you usually watch a movie?,普段は | どこで | 映画を | 見ます | か？,fudan wa | doko de | e-ga wo | mi masu | ka？,usually | where | movie | watch(polite) | ？
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),映画館で見ます,At the movie theater.,映画館で | 見ます,e-ga kan de | mi masu,at the movie theater | watch(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),普段は誰と映画を見ますか？,Who do you usually watch a movie with?,普段は | 誰と | 映画を | 見ます | か？,fudan wa | dare to | e-ga wo | mi masu | ka？,usually | with who | movie | watch(polite) | ？
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),1人で見ます,By myself.,1人で | 見ます,hitori de | mi masu,alone | watch(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),普段はどれくらい映画を見ますか？,How often do you usually watch a movie?,普段は | どれくらい | 映画を | 見ます | か？,fudan wa | dorekurai | e-ga wo | mi masu | ka？,usually | how often | movie | watch(polite) | ？
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),週に3回くらい見ます,About 3 times a week.,週に | 3回 | くらい | 見ます,shu- ni | san kai | kurai | mi masu,a week | three times | about | watch(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),普段はどんな映画を見ますか？,What kind of movie do you usually watch?,普段は | どんな | 映画を | 見ます | か？,fudan wa | donna | e-ga wo | mi masu | ka？,usually | what kind of | movie | watch(polite) | ？
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),ホラー映画を見ます,Horror movies.,ホラー映画を | 見ます,hora- e-ga wo | mi masu,horror movie | watch(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),最近は映画を見ていますか？,Are you watching movies recently?,最近は | 映画を | 見ています | か？,saikin wa | e-ga wo | mite imasu | ka?,recently | movie | watching(polite) | ？
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),最近は毎日映画を見ています,I am watching movies every day recently.,最近は | 毎日 | 映画を | 見ています,saikin wa | mainichi | e-ga wo | mite i masu,recently | every day | movie | watching(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),最近は全然映画を見ていません,I am not watching movies at all recently.,最近は | 全然 | 映画を | 見ていません,saikin wa | zenzen | e-ga wo | mite i masen,recently | at all | movie | not watching(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),昨日は映画を見ましたか？,Did you watch a movie yesterday?,昨日は | 映画を | 見ました | か？,kino- wa | e-ga wo | mi mashita | ka?,yesterday | movie | watched(polite) | ?
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),はい、見ました,Yes...I did.,はい、| 見ました,hai | mi mashita,yes | watched(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),いいえ、見ませんでした,No...I didn''t.,いいえ、| 見ませんでした,i-e | mi masen deshita,no | not watched(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),今日はもう映画を見ましたか？,Have you already watched a movie today?,今日は | もう | 映画を | 見ました | か？,kyo- wa | mo- | e-ga wo | mi mashita | ka?,today | already | movie | watched(polite) | ?
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),はい、もう見ました,Yes...I already have.,はい、| もう | 見ました,hai | mo- | mi mashita,yes | already | watched(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),いいえ、まだ見ていません,No...not yet.,いいえ、| まだ | 見ていません,i-e | mada | mite i masen,no | yet | not watching(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),何を見ましたか？,What did you watch?,何を | 見ました | か？,nani wo | mi mashita | ka？,what | watched(polite) | ?
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),SF映画を見ました,SF movie.,SF映画を | 見ました,esuefu e-ga wo | mi mashita,SF movie | watched(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),明日も映画を見ますか？,Will you watch a movie tomorrow too?,明日も | 映画を | 見ます | か？,ashita mo | e-ga wo | mi masu | ka？,tomorrow too | movie | watch(polite) | ？
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),はい、見ます,Yes...I will.,はい、| 見ます,hai | mi masu,yes | watch(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),いいえ、見ません,No...I won''t.,いいえ、| 見ません,i-e | mi masen,no | not watch(polite)
+,English,Japanese,Beginner1,Verb,映画を見る / watch a movie ( 2 ),まだわかりません,I don''t know yet.,まだ | わかりません,mada | wakari masen,yet | not know(polite)
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),yournameさんはニュースをチェックしますか？,yourname...do you check news?,yournameさんは | ニュースを | チェックします | か？,yourname san wa | nyu-su wo | chekku shi masu | ka？,yourname | news | check(polite) | ？
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),はい、よくします,Yes...often.,はい、| よく | します,hai | yoku | shi masu,yes | often | do(polite)
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),はい、たまにします,Yes...sometimes.,はい、| たまに | します,hai | tamani | shi masu,yes | sometimes | do(polite)
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),はい、週に2回くらいします,Yes...about twice a week.,はい、| 週に | 2回 | くらい | します,hai | shuu ni | ni kai | kurai | shi masu,yes | a week | twice | about | do(polite)
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),いいえ、あまりしません,No...not much.,いいえ、| あまり | しません,i-e | amari | shi masen,no | not much | not do(polite)
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),いいえ、ほとんどしません,No...rarely.,いいえ、 | ほとんど | しません,i-e | hotondo | shi masen,no | almost | not do(polite)
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),普段はいつニュースをチェックしますか？,When do you usually check news?,普段は | いつ | ニュースを | チェックします | か？,fudan wa | itsu | nyu-su wo | chekku shi masu | ka？,usually | when | news | check(polite) | ?
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),朝します,In the morning.,朝 | します,asa | shi masu,in the morning | do(polite)
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),普段はどこでニュースをチェックしますか？,Where do you usually check news?,普段は | どこで | ニュースを | チェックします | か？,fudan wa | doko de | nyu-su wo | chekku shi masu | ka？,usually | where | news | check(polite) | ？
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),電車の中でします,On the train.,電車の中で | します,densha no naka de | shi masu,on the train | do(polite)
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),普段はどれくらいニュースをチェックしますか？,How often do you usually check news?,普段は | どれくらい | ニュースを | チェックします | か？,fudan wa | dorekurai | nyu-su wo | chekku shi masu | ka？,usually | how often | news | check(polite) | ？
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),1日10回くらいします,About 10 times a day.,1日 | 10回 | くらい | します,ichi nichi | jukkai | kurai | shi masu,a day | ten times | about | do(polite)
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),普段はどんなニュースをチェックしますか？,What kind of news do you usually check?,普段は | どんな | ニュースを | チェックします | か？,fudan wa | donna | nyu-su wo | chekku shi masu | ka？,usually | what kind of | news | check(polite) | ？
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),天気のニュースをチェックします,Weather news.,天気のニュースを | チェックします,tenki no nyu-su wo | chekku shi masu,weather news | check(polite)
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),最近はニュースをチェックしていますか？,Are you checking news recently?,最近は | ニュースを | チェックしています | か？,saikin wa | nyu-su wo | chekku shite imasu | ka？,recently | news | checking(polite) | ？
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),最近は毎日ニュースをチェックしています,I am checking news every day recently.,最近は | 毎日 | ニュースを | チェックしています,saikin wa | mainichi | nyu-su wo | chekku shite i masu,recently | every day | news | checking(polite)
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),最近は全然ニュースをチェックしていません,I am not checking news at all recently.,最近は | 全然 | ニュースを | チェックしていません,saikin wa | zenzen | nyu-su wo | chekku shite i masen,recently | at all | news | not checking(polite)
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),昨日はニュースをチェックしましたか？,Did you check news yesterday?,昨日は | ニュースを | チェックしました | か？,kino- wa | nyu-su wo | chekku shi mashita | ka?,yesterday | news | checked(polite) | ?
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),はい、しました,Yes...I did.,はい、| しました,hai | shi mashita,yes | did(polite)
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),いいえ、しませんでした,No...I didn''t.,いいえ、| しませんでした,i-e | shi masen deshita,no | not did(polite)
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),今日はもうニュースをチェックしましたか？,Have you already checked news today?,今日は | もう | ニュースを | チェックしました | か？,kyo- wa | mo- | nyu-su wo | chekku shi mashita | ka?,today | already | news | checked(polite) | ?
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),はい、もうしました,Yes...I already have.,はい、| もう | しました,hai | mo- | shi mashita,yes | already | did(polite)
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),いいえ、まだしていません,No...not yet.,いいえ、| まだ | していません,i-e | mada | shite i masen,no | yet | not doing(polite)
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),何をチェックしましたか？,What did you check?,何を | チェックしました | か？,nani wo | chekku shi mashita | ka?,what | checked(polite) | ?
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),国内ニュースをチェックしました,Domestic news.,国内ニュースを | チェックしました,kokunai nyu-su wo | chekku shi mashita,domestic news | checked(polite)
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),明日もニュースをチェックしますか？,Will you check news tomorrow too?,明日も | ニュースを | チェックします | か？,ashita mo | nyu-su wo | chekku shi masu | ka？,tomorrow too | news | check(polite) | ？
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),はい、します,Yes...I will.,はい、| します,hai | shi masu,yes | do(polite)
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),いいえ、しません,No...I won''t.,いいえ、| しません,i-e | shi masen,no | not do(polite)
+,English,Japanese,Beginner1,Verb,ニュースをチェックする / check news ( 3 ),まだわかりません,I don''t know yet.,まだ | わかりません,mada | wakari masen,yet | not know(polite)
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),yournameさんはテレビを見ますか？,yourname...do you watch TV?,yournameさんは | テレビを | 見ます | か？,yourname san wa | terebi wo | mi masu | ka？,yourname | TV | watch(polite) | ？
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),はい、よく見ます,Yes...often.,はい、| よく | 見ます,hai | yoku | mi masu,yes | often | watch(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),はい、たまに見ます,Yes...sometimes.,はい、| たまに | 見ます,hai | tamani | mi masu,yes | sometimes | watch(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),はい、1日1時間くらい見ます,Yes...about an hour a day.,はい、| 1日 | 1時間 | くらい | 見ます,hai | ichi nichi | ichi jikan | kurai | mi masu,yes | a day | an hour | about | watch(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),いいえ、あまり見ません,No...not much.,いいえ、| あまり | 見ません,i-e | amari | mi masen,no | not much | not watch(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),いいえ、ほとんど見ません,No...rarely.,いいえ、| ほとんど | 見ません,i-e | hotondo | mi masen,no | almost | not watch(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),普段はいつテレビを見ますか？,When do you usually watch TV?,普段は | いつ | テレビを | 見ます | か？,fudan wa | itsu | terebi wo | mi masu | ka？,usually | when | TV | watch(polite) | ?
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),夕食の後に見ます,After dinner.,夕食の | 後に | 見ます,yu-shoku no | ato ni | mi masu,dinner | after | watch(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),普段はどこでテレビを見ますか？,Where do you usually watch TV?,普段は | どこで | テレビを | 見ます | か？,fudan wa | doko de | terebi wo | mi masu | ka？,usually | where | TV | watch(polite) | ？
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),リビングで見ます,In the living room.,リビングで | 見ます,ribingu de | mi masu,in the living room | watch(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),普段は誰とテレビを見ますか？,Who do you usually watch TV with?,普段は | 誰と | テレビを | 見ます | か？,fudan wa | dare to | terebi wo | mi masu | ka？,usually | with who | TV | watch(polite) | ？
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),家族と見ます,With my family.,家族と | 見ます,kazoku to | mi masu,with family | watch(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),普段はどれくらいテレビを見ますか？,How long do you usually watch TV?,普段は | どれくらい | テレビを | 見ます | か？,fudan wa | dorekurai | terebi wo | mi masu | ka？,usually | how long | TV | watch(polite) | ？
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),1日30分くらい見ます,About 30 minutes a day.,1日 | 30分 | くらい | 見ます,ichi nichi | sanjuppun | kurai | mi masu,a day | thirty minutes | about | watch(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),普段はどんなテレビ番組を見ますか？,What kind of TV program do you usually watch?,普段は | どんな | テレビ番組を | 見ます | か？,fudan wa | donna | terebi bangumi wo | mi masu | ka？,usually | what kind of | TV program | watch(polite) | ？
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),アニメを見ます,Anime.,アニメを | 見ます,anime wo | mi masu,anime | watch(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),最近はテレビを見ていますか？,Are you watching TV recently?,最近は | テレビを | 見ています | か？,saikin wa | terebi wo | mite imasu | ka?,recently | TV | watching(polite) | ？
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),最近は毎日テレビを見ています,I am watching TV every day recently.,最近は | 毎日 | テレビを | 見ています,saikin wa | mainichi | terebi wo | mite i masu,recently | every day | TV | watching(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),最近は全然テレビを見ていません,I am not watching TV at all recently.,最近は | 全然 | テレビを | 見ていません,saikin wa | zenzen | terebi wo | mite i masen,recently | at all | TV | not watching(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),昨日はテレビを見ましたか？,Did you watch TV yesterday?,昨日は | テレビを | 見ました | か？,kino- wa | terebi wo | mi mashita | ka?,yesterday | TV | watched(polite) | ?
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),はい、見ました,Yes...I did.,はい、| 見ました,hai | mi mashita,yes | watched(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),いいえ、見ませんでした,No...I didn''t.,いいえ、| 見ませんでした,i-e | mi masen deshita,no | not watched(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),今日はもうテレビを見ましたか？,Have you already watched TV today?,今日は | もう | テレビを | 見ました | か？,kyo- wa | mo- | terebi wo | mi mashita | ka?,today | already | TV | watched(polite) | ?
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),はい、もう見ました,Yes...I already have.,はい、| もう | 見ました,hai | mo- | mi mashita,yes | already | watched(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),いいえ、まだ見ていません,No...not yet.,いいえ、| まだ | 見ていません,i-e | mada | mite i masen,no | yet | not watching(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),何を見ましたか？,What did you watch?,何を | 見ました | か？,nani wo | mi mashita | ka？,what | watched(polite) | ?
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),ドラマを見ました,dramas.,ドラマを | 見ました,dorama wo | mi mashita,dramas | watched(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),明日をテレビを見ますか？,Will you watch TV tomorrow too?,明日を | テレビを | 見ます | か？,ashita mo | terebi wo | mi masu | ka？,tomorrow too | TV | watch(polite) | ？
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),はい、見ます,Yes...I will.,はい、| 見ます,hai | mi masu,yes | watch(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),いいえ、見ません,No...I won''t.,いいえ、| 見ません,i-e | mi masen,no | not watch(polite)
+,English,Japanese,Beginner1,Verb,テレビを見る / watch TV ( 4 ),まだわかりません,I don''t know yet.,まだ | わかりません,mada | wakari masen,yet | not know(polite)
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),yournameさんは音楽をききますか？,yourname...do you listen to the music?,yournameさんは | 音楽を | ききます | か？,yourname san wa | ongaku wo | kiki masu | ka？,yourname | music | listen(polite) | ？
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),はい、よくききます,Yes...often.,はい、| よく | ききます,hai | yoku | kiki masu,yes | often | listen(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),はい、たまにききます,Yes...sometimes.,はい、| たまに | ききます,hai | tamani | kiki masu,yes | sometimes | listen(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),はい、1日1時間くらいききます,Yes...about an hour a day.,はい、| 1日 | 1時間 | くらい | ききます,hai | ichi nichi | ichi jikan | kurai | kiki masu,yes | a day | an hour | about | listen(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),いいえ、あまりききません,No...not much.,いいえ、| あまり | ききません,i-e | amari | kiki masen,no | not much | not listen(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),いいえ、ほとんどききません,No...rarely.,いいえ、| ほとんど | ききません,i-e | hotondo | kiki masen,no | almost | not listen(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),普段はいつ音楽をききますか？,When do you usually listen to the music?,普段は | いつ | 音楽を | ききます | か？,fudan wa | itsu | ongaku wo | kiki masu | ka？,usually | when | music | listen(polite) | ?
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),ジョギングの時にききます,When I am jogging.,ジョギングの時に | ききます,jogingu no toki ni | kiki masu,when jogging | listen(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),普段はどこで音楽をききますか？,Where do you usually listen to the music?,普段は | どこで | 音楽を | ききます | か？,fudan wa | doko de | ongaku wo | kiki masu | ka？,usually | where | music | listen(polite) | ？
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),外でききます,outside.,外で | ききます,soto de | kiki masu,outside | listen(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),普段は誰と音楽をききますか？,Who do you usually listen to the music with?,普段は | 誰と | 音楽を | ききます | か？,fudan wa | dare to | ongaku wo | kiki masu | ka？,usually | with who | music | listen(polite) | ？
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),友達とききます,With my friends.,友達と | ききます,tomodachi to | kiki masu,with friends | listen(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),普段はどれくらい音楽をききますか？,How long do you usually listen to the music?,普段は | どれくらい | 音楽を | ききます | か？,fudan wa | dorekurai | ongaku wo | kiki masu | ka？,usually | how long | music | listen(polite) | ？
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),1日3時間以上ききます,More than 3 hours a day.,1日 | 3時間 | 以上 | ききます,ichi nichi | san jikan | ijo- | kiki masu,a day | three hours | more than | listen(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),普段はどんな音楽をききますか？,What kind of music do you usually listen to?,普段は | どんな | 音楽を | ききます | か？,fudan wa | donna | ongaku wo | kiki masu | ka？,usually | what kind of | music | listen(polite) | ？
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),外国のロックをききます,Foreign rock music.,外国のロックを | ききます,gaikoku no rokku wo | kiki masu,foreign rock music | listen(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),最近は音楽をきいていますか？,Are you listening to the music recenlty?,最近は | 音楽を | きいています | か？,saikin wa | ongaku wo | ki-te i masu | ka?,recently | music | listening(polite) | ？
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),最近はいつも音楽をきいています,I am always listening to the music recently.,最近は | いつも | 音楽を | きいています,saikin wa | itsumo | ongaku wo | ki-te i masu,recently | always | music | listening(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),最近は全然音楽をきいていません,I am not listening to the music at all recently.,最近は | 全然 | 音楽を | きいていません,saikin wa | zenzen | ongaku wo | ki-te i masen,recently | at all | music | not listening(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),昨日は音楽をききましたか？,Did you listen to the music yesterday?,昨日は | 音楽を | ききました | か？,kino- wa | ongaku wo | kiki mashita | ka?,yesterday | music | listened(polite) | ?
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),はい、ききました,Yes...I did.,はい、| ききました,hai | kiki mashita,yes | listened(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),いいえ、ききませんでした,No...I didn''t.,いいえ、| ききませんでした,i-e | kiki masen deshita,no | not listened(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),今日はもう音楽をききましたか？,Have you already listened to the music today?,今日は | もう | 音楽を | ききました | か？,kyo- wa | mo- | ongaku wo | kiki mashita | ka?,today | already | music | listened(polite) | ?
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),はい、もうききました,Yes...I already have.,はい、| もう | ききました,hai | mo- | kiki mashita,yes | already | listened(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),いいえ、まだきいていません,No...not yet.,いいえ、| まだ | きいていません,i-e | mada | ki-te i masen,no | yet | not listening(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),何をききましたか？,What did you listen?,何を | ききました | か？,nani wo | kiki mashita | ka？,what | listened(polite) | ?
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),クラシックをききました,Classical music.,クラシックを | ききました,kurashikku wo | kiki mashita,classical music | listened(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),明日も音楽をききますか？,Will you listen to the music tomorrow too?,明日も | 音楽を | ききます | か？,ashita mo | ongaku wo | kiki masu | ka？,tomorrow too | music | listen(polite) | ？
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),はい、ききます,Yes...I will.,はい、| ききます,hai | kiki masu,yes | listen(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),いいえ、ききません,No...I won''t.,いいえ、 | ききません,i-e | kiki masen,no | not listen(polite)
+,English,Japanese,Beginner1,Verb,音楽をきく / listen to the music ( 5 ),まだわかりません,I don''t know yet.,まだ | わかりません,mada | wakari masen,yet | not know(polite)
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),yournameさんは絵を描きますか？,yourname...do you draw a picture?,yournameさんは | 絵を | 描きます | か？,yourname san wa | e wo | kaki masu | ka？,yourname | picture | draw(polite) | ？
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),はい、よく描きます,Yes...often.,はい、| よく | 描きます,hai | yoku | kaki masu,yes | often | draw(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),はい、たまに描きます,Yes...sometimes.,はい、| たまに | 描きます,hai | tamani | kaki masu,yes | sometimes | draw(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),はい、1日3枚くらい描きます,Yes...about three pictures a day.,はい、| 1日 | 3枚 | くらい | 描きます,hai | ichi nichi | san mai | kurai | kaki masu,yes | a day | three pics | about | draw(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),いいえ、あまり描きません,No...not much.,いいえ、| あまり | 描きません,i-e | amari | kaki masen,no | not much | not draw(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),いいえ、ほとんど描きません,No...rarely.,いいえ、| ほとんど | 描きません,i-e | hotondo | kaki masen,no | almost | not draw(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),普段はいつ絵を描きますか？,When do you usually draw a picture?,普段は | いつ | 絵を | 描きます | か？,fudan wa | itsu | e wo | kaki masu | ka？,usually | when | picture | draw(polite) | ?
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),暇なときに描きます,When I am bored.,暇な時に | 描きます,hima na toki ni | kaki masu,when bored | draw(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),普段はどこで絵を描きますか？,Where do you usually draw a picture?,普段は | どこで | 絵を | 描きます | か？,fudan wa | doko de | e wo | kaki masu | ka？,usually | where | picture | draw(polite) | ？
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),学校で描きます,At school.,学校で | 描きます,gakko- de | kaki masu,at school | draw(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),普段は誰と絵を描きますか？,Who do you usually draw a picture with?,普段は | 誰と | 絵を | 描きます | か？,fudan wa | dare to | e wo | kaki masu | ka？,usually | with who | picture | draw(polite) | ？
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),友達と描きます,With my friends.,友達と | 描きます,tomodachi to | kaki masu,with friends | draw(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),普段はどれくらい絵を描きますか？,How long do you usually draw a picture?,普段は | どれくらい | 絵を | 描きます | か？,fudan wa | dorekurai | ongaku wo | kiki masu | ka？,usually | how long | picture | draw(polite) | ？
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),1日5時間以上描きます,More than 5 hours a day.,1日 | 5時間 | 以上 | 描きます,ichi nichi | go jikan | ijo- | kaki masu,a day | five hours | more than | draw(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),普段はどんな絵を描きますか？,What kind of picture do you usually draw?,普段は | どんな | 絵を | 描きます | か？,fudan wa | donna | e wo | kaki masu | ka？,usually | what kind of | picture | draw(polite) | ？
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),アニメのイラストを描きます,Anime illustration.,アニメのイラストを | 描きます,anime no irasuto wo | kaki masu,anime illustration | draw(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),最近は絵を描いていますか？,Are you drawing pictures recently?,最近は | 絵を | 描いています | か？,saikin wa | e wo | kaite i masu | ka?,recently | picture | drawing(polite) | ？
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),最近はいつも絵を描いています,I am always drawing pictures recently.,最近は | いつも | 絵を | 描いています,saikin wa | itsumo | e wo | kaite i masu,recently | always | picture | drawing(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),最近は全然絵を描いていません,I am not drawing pictures at all recently.,最近は | 全然 | 絵を | 描いていません,saikin wa | zenzen | e wo | kaite i masen,recently | at all | picture | not drawing(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),昨日は絵を描きましたか？,Did you draw a picture yesterday?,昨日は | 絵を | 描きました | か？,kino- wa | e wo | kaki mashita | ka?,yesterday | picture | drew(polite) | ?
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),はい、描きました,Yes...I did.,はい、| 描きました,hai | kaki mashita,yes | drew(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),いいえ、描きませんでした,No...I didn''t.,いいえ、| 描きませんでした,i-e | kaki masen deshita,no | not drew(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),今日はもう絵を描きましたか？,Have you already drawn a picture today?,今日は | もう | 絵を | 描きました | か？,kyo- wa | mo- | e wo | kaki mashita | ka?,today | already | picture | drew(polite) | ?
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),はい、もう描きました,Yes...I already have.,はい、| もう | 描きました,hai | mo- | kaki mashita,yes | already | drew(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),いいえ、まだ描いていません,No...not yet.,いいえ、 | まだ | 描いていません,i-e | mada | kaite i masen,no | yet | not drawing(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),何を描きましたか？,What did you draw?,何を | 描きました | か？,nani wo | kaki mashita | ka？,what | drew(polite) | ?
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),猫の絵を描きました,A cat picture.,猫の絵を | 描きました,neko no e wo | kaki mashita,cat picture | drew(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),明日も絵を描きますか？,Will you draw a picture tomorrow too?,明日も | 絵を | 描きます | か？,ashita mo | e wo | kaki masu | ka？,tomorrow too | picture | draw(polite) | ？
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),はい、描きます,Yes...I will.,はい、| 描きます,hai | kaki masu,yes | draw(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),いいえ、描きません,No...I won''t.,いいえ、| 描きません,i-e | kaki masen,no | not draw(polite)
+,English,Japanese,Beginner1,Verb,絵を描く / draw a picture ( 6 ),まだわかりません,I don''t know yet.,まだ | わかりません,mada | wakari masen,yet | not know(polite)
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),yournameさんは日本語を勉強していますか？,yourname...do you study Japanese?,yournameさんは | 日本語を | 勉強しています | か？,yourname san wa | nihongo wo | benkyo- shite i masu | ka？,yourname | Japanese | studying(polite) | ?
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),はい、しています,Yes...I do.,はい、| しています,hai | shite i masu,yes | doing(polite)
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),いいえ、していません,No...I don''t.,いいえ、| していません,i-e | shite i masen,no | not doing(polite)
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),いつから日本語を勉強していますか？,Since when have you been studying Japanese?,いつ | から | 日本語を | 勉強しています | か？,itsu | kara | nihongo wo | benkyo- shite i masu | ka？,when | since | Japanese | studying(polite) | ?
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),1年前から勉強しています,Since about a year ago.,1年前 | から | しています,ichi nen mae | kara | shite i masu,a year ago | since | doing(polite)
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),最近は日本語を勉強していますか？,Are you studying Japanese recently?,最近は | 日本語を | 勉強しています | か？,saikin wa | nihongo wo | benkyo- shite i masu | ka?,recently | Japanese | studying(polite) | ？
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),最近は毎日日本語を勉強しています,I am studying Japanese every day recently.,最近は | 毎日 | 日本語を | 勉強しています,saikin wa | mainichi | nihongo wo | benkyo- shite i masu,recently | every day | Japanese | studying(polite)
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),最近はあまり日本語を勉強していません,I am not studying Japanese much recently.,最近は | あまり | 日本語を | 勉強していません,saikin wa | amari | nihongo wo | benkyo- shite i masen,recently | not much | Japanese | not studying(polite)
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),普段はいつ日本語を勉強しますか？,When do you usually study Japanese?,普段は | いつ | 日本語を | 勉強します | か？,fudan wa | itsu | nihongo wo | benkyo- shi masu | ka？,usually | when | Japanese | study(polite) | ?
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),時間がある時に勉強します,When I have time.,時間が | ある | 時に | します,jikan ga | aru | toki ni | shi masu,time | there is | when(tk) | do(polite)
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),普段はどこで日本語を勉強しますか？,Where do you usually study Japanese?,普段は | どこで | 日本語を | 勉強します | か？,fudan wa | doko de | nihongo wo | benkyo- shi masu | ka？,usually | where | Japanese | study(polite) | ？
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),家か学校で勉強します,At home or school.,家か | 学校で | します,ie ka | gakko- de | shi masu,home or | at shool | do(polite)
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),普段は誰と日本語を勉強しますか？,Who do you usually study Japanese with?,普段は | 誰と | 日本語を | 勉強します | か？,fudan wa | dare to | nihongo wo | benkyo- shi masu | ka？,usually | with who | Japanese | study(polite) | ？
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),クラスメートと勉強します,With my classmates.,クラスメートと | します,kurasu me-to to | shi masu,with classmates | do(polite)
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),普段はどれくらい日本語を勉強しますか？,How long do you usually study Japanese?,普段は | どれくらい | 日本語を | 勉強します | か？,fudan wa | dorekurai | nihongo wo | benkyo- shi masu | ka？,usually | how long | Japanese | study(polite) | ？
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),1日2、3時間勉強します,About a few hours a day.,1日 | 2、3時間 | します,ichi nichi | ni san jikan | shi masu,a day | a few hours | do(polite)
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),普段は何を勉強しますか？,What do you usually study?,普段は | 何を | 勉強します | か？,fudan wa | nani wo | benkyo- shi masu | ka？,usually | what | study(polite) | ？
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),漢字か文法を勉強します,Kanji or grammar.,漢字か | 文法を | 勉強します ,kanji ka | bunpo- wo | benkyo- shi masu,kanji or | grammar | study(polite)
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),昨日は日本語を勉強しましたか？,Did you study Japanese yesterday?,昨日は | 日本語を | 勉強しました | か？,kino- wa | nihongo wo | benkyo- shi mashita | ka?,yesterday | Japanese | studied(polite) | ?
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),はい、しました,Yes...I did.,はい、| しました,hai | shi mashita,yes | did(polite)
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),いいえ、しませんでした,No...I didn''t.,いいえ、| しませんでした,i-e | shi masen deshita,no | not did(polite)
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),今日はもう日本語を勉強しましたか？,Have you already studied Japanese today?,今日は | もう | 日本語を | 勉強しました | か？,kyo- wa | mo- | nihongo wo | benkyo- shi mashita | ka?,today | already | Japanese | studied(polite) | ?
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),はい、もうしました,Yes...I already have.,はい、| もう | しました,hai | mo- | shi mashita,yes | already | did(polite)
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),いいえ、まだしていません,No...not yet.,いいえ、| まだ | していません,i-e | mada | shite i masen,no | yet | not doing(polite)
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),何を勉強しましたか？,What did you study?,何を | 勉強しました | か？,nani wo | benkyo- shi mashita | ka？,what | studied(polite) | ?
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),N3の試験を勉強しました,N3 exam.,N3の試験を | 勉強しました,enu san no shiken wo | benkyo- shi mashita,N3 exam | studied(polite)
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),明日も日本語を勉強しますか？,Will you study Japanese tomorrow too?,明日も | 日本語を | 勉強します | か？,ashita mo | nihongo wo | benkyo- shi masu | ka？,tomorrow too | Japanese | study(polite) | ？
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),はい、します,Yes...I will.,はい、| します,hai | shi masu,yes | do(polite)
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),いいえ、しません,No...I won''t.,いいえ、| しません,i-e | shi masen,no | not do(polite)
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),まだわかりません,I don''t know yet.,まだ | わかりません,mada | wakari masen,yet | not know(polite)
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),何か目標はありますか？,Do you have any goal?,何か | 目標は | あります | か？,nanika | mokuhyo- wa | ari masu | ka？,something | goal | there is(polite) | ?
+,English,Japanese,Beginner1,Verb,日本語を勉強する / study Japanese ( 7 ),はい、N1試験に合格することです,Yes...to pass N1 exam.,はい、| N1試験 | に合格する | こと | です,hai | enu wan shiken | ni go-kaku suru | koto | desu,yes | N1 exam | pass | thing(ko) | is(polite)
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),yournameさんはよく買い物に行きますか？,yourname...do you often go to shopping?,yournameさんは | よく | 買い物に | 行きます | か？,yourname san wa | yoku | kaimono ni | iki masu | ka？,yourname | often | to shopping | go(polite) | ？
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),はい、よく行きます,Yes...I often do.,はい、| よく | 行きます,hai | yoku | iki masu,yes | often | go(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),たまに行きます,I sometimes do.,たまに | 行きます,tamani | iki masu,yes | sometimes | go(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),週3、4回行きます,About 3...4 times a week.,週 | 3、4回 | 行きます,shu- | san yon kai | iki masu,a week | three or four times | go(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),いいえ、あまり行きません,No...I don''t much.,いいえ、| あまり | 行きません,i-e | amari | iki masen,no | not much | not go(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),いいえ、ほとんど行きません,I rarely go to shopping.,いいえ、| ほとんど | 行きません,i-e | hotondo | iki masen,no | almost | not go(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),普段はいつ買い物に行きますか？,When do you usually go to shopping?,普段は | いつ | 買い物に | 行きます | か？,fudan wa | itsu | kaimono ni | iki masu | ka？,usually | when | to shopping | go(polite) | ?
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),週末に行きます,On weekends.,週末に | 行きます,shu-matsu ni | iki masu,on weekends | go(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),普段はどこに買い物に行きますか？,Where do you usually go for shopping?,普段は | どこに | 買い物に | 行きます | か？,fudan wa | doko ni | kaimono ni | iki masu | ka？,usually | where | to shopping | go(polite) | ？
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),近くのスーパーに行きます,The supermarket nearby.,近くの | スーパーに | 行きます,chikaku no | su-pa- ni | iki masu,near | to supermarket | go(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),普段は誰と買い物に行きますか？,Who do you usually go to shopping with?,普段は | 誰と | 買い物に | 行きます | か？,fudan wa | dare to | kaimono ni | iki masu | ka？,usually | with who | to shopping | go(polite) | ？
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),両親と行きます,With my parents.,両親と | 行きます,ryo-shin to | iki masu,with parents | go(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),普段はどれくらい買い物に行きますか？,How often do you usually go to shopping?,普段は | どれくらい | 買い物に | 行きます | か？,fudan wa | dorekurai | kaimono ni | iki masu | ka？,usually | how often | to shopping | go(polite) | ？
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),最低月4、5回行きます,4...5 times a month at least.,最低 | 月 | 4、5回 | 行きます,saite- | tsuki | shi go kai | iki masu,at least | a month | four five times | go(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),普段はどうやって買い物に行きますか？,How do you usually go to shopping?,普段は | どうやって | 買い物に | 行きます | か？,fudan wa | duyatte | kaimono ni | iki masu | ka？,usually | how | to shopping | go(polite) | ？
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),車で行きます,By car.,車で | 行きます,kuruma de | iki masu,by car | go(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),最近は買い物に行っていますか？,Do you go to shopping recently?,最近は | 買い物に | 行っています | か？,saikin wa | kaimono ni | itte i masu | ka?,recently | to shopping | going(polite) | ？
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),最近は毎日どこかに買い物に行っています,I go somewhere for shopping every day recently.,最近は | 毎日 | どこかに | 買い物に | 行っています,saikin wa | mainichi | dokoka ni | kaimono ni | itte i masu,recently | every day | to somewhere | to shopping | going(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),最近は全然買い物に行っていません,I don''t go to shopping at all recently.,最近は | 全然 | 買い物に | 行っていません,saikin wa | zenzen | kaimono ni | itte i masen,recently | at all | to shopping | not going(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),昨日は買い物に行きましたか？,Did you go to shopping yesterday?,昨日は | 買い物に | 行きました | か？,kino- wa | kaimono ni | iki mashita | ka?,yesterday | to shopping | went(polite) | ?
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),はい、行きました,Yes...I did.,はい、| 行きました,hai | iki mashita,yes | went(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),いいえ、行きませんでした,No...I didn''t.,いいえ、| 行きませんでした,i-e | iki masen deshita,no | not went(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),今週はもう買い物に行きましたか？,Have you already gone to shopping this week?,今週は | もう | 買い物に | 行きました | か？,konshu- wa | mo- | kaimono ni | iki mashita | ka?,this week | already | to shopping | went(polite) | ?
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),はい、もう行きました,Yes...I already have.,はい、| もう | 行きました,hai | mo- | iki mashita,yes | already | went(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),いいえ、まだ行っていません,No...not yet.,いいえ、| まだ | 行っていません,i-e | mada | itte i masen,no | yet | not going(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),どこに行きましたか？,Where did you go?,どこに | 行きました | か？,doko ni | iki mashita | ka？,where | went(polite) | ?
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),駅の近くのデパートに行きました,The department store near the station.,駅の近くの | デパートに | 行きました,eki no chikaku no | depa-to ni | iki mashita,near the station | to department store | went(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),来週も買い物に行きますか？,Will you go to shopping next week too?,来週も | 買い物に | 行きます | か？,raishu- mo | kaimono ni | iki masu | ka？,next week too | to shopping | go(polite) | ？
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),はい、行きます,Yes...I will.,はい、| 行きます,hai | iki masu,yes | go(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),いいえ、行きません,No...I won''t.,いいえ、| 行きません,i-e | iki masen,no | not go(polite)
+,English,Japanese,Beginner1,Verb,買い物に行く / go to shopping ( 8 ),まだわかりません,I don''t know yet.,まだ | わかりません,mada | wakari masen,yet | not know(polite)
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),yournameさんはゲームをしますか？,yourname...do you play a game?,yournameさんは | ゲームを | します | か？,yourname san wa | ge-mu wo | shi masu | ka？,yourname | game | do(polite) | ？
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),はい、よくします,Yes...often.,はい、| よく | します,hai | yoku | shi masu,yes | often | do(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),はい、たまにします,Yes...sometimes.,はい、| たまに | します,hai | tamani | shi masu,yes | sometimes | do(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),はい、1日10時間くらいします,Yes...about 10 hours a day.,はい、| 1日 | 10時間 | くらい | します,hai | ichi nichi | ju- jikan | kurai | shi masu,yes | a day | ten hours | about | do(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),いいえ、あまりしません,No...not much.,いいえ、| あまり | しません,i-e | amari | shi masen,no | not much | not do(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),いいえ、ほとんどしません,No...rarely.,いいえ、| ほとんど | しません,i-e | hotondo | shi masen,no | almost | not do(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),普段はいつゲームをしますか？,When do you usually play a game?,普段は | いつ | ゲームを | します | か？,fudan wa | itsu | ge-mu wo | shi masu | ka？,usually | when | game | do(polite) | ?
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),夕食の前にします,Before the dinner.,夕食の前に | します,yu-shoku no mae ni | shi masu,before dinner | do(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),普段はどこでゲームをしますか？,Where do you usually play a game?,普段は | どこで | ゲームを | します | か？,fudan wa | doko de | ge-mu wo | shi masu | ka？,usually | where | game | do(polite) | ？
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),自分の部屋でします,In my room.,自分の部屋で | します,jibun no heya de | shi masu,in my own room | do(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),普段は誰とゲームをしますか？,Who do you usually play a game with?,普段は | 誰と | ゲームを | します | か？,fudan wa | dare to | ge-mu wo | shi masu | ka？,usually | with who | game | do(polite) | ？
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),姉とします,With my big sister.,姉と | します,ane to | shi masu,with big sister | do(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),普段はどれくらいゲームをしますか？,How long do you usually play a game?,普段は | どれくらい | ゲームを | します | か？,fudan wa | dorekurai | ge-mu wo | shi masu | ka？,usually | how long | game | do(polite) | ？
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),1日10時間以上します,More than 10 hours a day.,1日 | 10時間 | 以上 | します,ichi nichi | ju- jikan | ijo- | shi masu,a day | ten hours | more than | do(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),普段はどんなゲームをしますか？,What kind of game do you usually play?,普段は | どんな | ゲームを | します | か？,fudan wa | donna | ge-mu wo | shi masu | ka？,usually | what kind of | game | do(polite) | ？
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),PUBGをします,PUBG.,PUBGを | します,pabuji- wo | shi masu,PUBG | do(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),最近はゲームをしていますか？,Are you playing games recently?,最近は | ゲームを | しています | か？,saikin wa | ge-mu wo | shite i masu | ka?,recently | game | doing(polite) | ？
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),最近はいつもゲームをしています,I am always playing games recently.,最近は | いつも | ゲームを | しています,saikin wa | itsumo | ge-mu wo | shite i masu,recently | always | game | doing(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),最近は全然ゲームをしていません,I am not playing games at all recently.,最近は | 全然 | ゲームを | していません,saikin wa | zenzen | ge-mu wo | shite i masen,recently | at all | game | not doing(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),昨日はゲームをしましたか？,Did you play a game yesterday?,昨日は | ゲームを | しました | か？,kino- wa | ge-mu wo | shi mashita | ka?,yesterday | game | did(polite) | ?
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),はい、しました,Yes...I did.,はい、| しました,hai | shi mashita,yes | did(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),いいえ、しませんでした,No...I didn''t.,いいえ、| しませんでした,i-e | shi masen deshita,no | not did(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),今日はもうゲームをしましたか？,Have you already played a game today?,今日は | もう | ゲームを | しました | か？,kyo- wa | mo- | ge-mu wo | shi mashita | ka?,today | already | game | did(polite) | ?
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),はい、もうしました,Yes...I already have.,はい、| もう | しました,hai | mo- | shi mashita,yes | already | did(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),いいえ、まだしていません,No...not yet.,いいえ、| まだ | していません,i-e | mada | shite i masen,no | yet | not doing(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),何のゲームをしましたか？,What did you play?,何の | ゲームを | しました | か？,nan no | ge-mu wo | shi mashita | ka？,what | game | did(polite) | ?
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),RPGをしました,RPG.,RPGを | しました,a-ru pi- ji- wo | shi mashita,RPG | did(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),明日もゲームをしますか？,Will you play a game tomorrow too?,明日も | ゲームを | します | か？,ashita mo | ge-mu wo | shi masu | ka？,tomorrow too | game | do(polite) | ？
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),はい、します,Yes...I will.,はい、| します,hai | shi masu,yes | do(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),いいえ、しません,No...I won''t.,いいえ、| しません,i-e | shi masen,no | not do(polite)
+,English,Japanese,Beginner1,Verb,ゲームをする / play games ( 9 ),まだわかりません,I don''t know yet.,まだ | わかりません,mada | wakari masen,yet | not know(polite)
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),yournameさんは魚を食べますか？,yourname...do you eat fish?,yournameさんは | 魚を | 食べます | か？,yourname san wa | sakana wo | tabe masu | ka？,yourname | fish | eat(polite) | ？
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),はい、よく食べます,Yes...often.,はい、| よく | 食べます,hai | yoku | tabe masu,yes | often | eat(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),はい、たまに食べます,Yes...sometimes.,はい、| たまに | 食べます,hai | tamani | tabe masu,yes | sometimes | eat(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),はい、1日3匹くらい食べます,Yes...about 3 fish a day.,はい、| 1日 | 3匹 | くらい | 食べます,hai | ichi nichi | san hiki | kurai | tabe masu,yes | a day | three fish | about | eat(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),いいえ、あまり食べません,No...not much.,いいえ、| あまり | 食べません,i-e | amari | tabe masen,no | not much | not eat(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),いいえ、ほとんど食べません,No...rarely.,いいえ、| ほとんど | 食べません,i-e | hotondo | tabe masen,no | almost | not eat(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),普段はいつ魚を食べますか？,When do you usually eat fish?,普段は | いつ | 魚を | 食べます | か？,fudan wa | itsu | sakana wo | tabe masu | ka？,usually | when | fish | eat(polite) | ?
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),朝食べます,In the morning.,朝 | 食べます,asa | tabe masu,in the morning | eat(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),普段はどこで魚を食べますか？,Where do you usually eat fish?,普段は | どこで | 魚を | 食べます | か？,fudan wa | doko de | sakana wo | tabe masu | ka？,usually | where | fish | eat(polite) | ？
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),台所で食べます,In the kitchen.,台所で | 食べます,daidokoro de | tabe masu,in the kitchen | eat(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),普段は誰と魚を食べますか？,Who do you usually eat fish with?,普段は | 誰と | 魚を | 食べます | か？,fudan wa | dare to | sakana wo | tabe masu | ka？,usually | with who | fish | eat(polite) | ？
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),弟と食べます,With my little brother.,弟と | 食べます,oto-to to | tabe masu,with little brother | eat(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),普段はどれくらい魚を食べますか？,How many fish do you usually eat?,普段は | どれくらい | 魚を | 食べます | か？,fudan wa | dorekurai | sakana wo | tabe masu | ka？,usually | how many | fish | eat(polite) | ？
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),1日5匹以上食べます,More than 5 fish a day.,1日 | 5匹 | 以上 | 食べます,ichi nichi | go hiki | ijo- | tabe masu,a day | 5 fish | more than | eat(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),普段はどんな魚を食べますか？,What kind of fish do you usually eat?,普段は | どんな | 魚を | 食べます | か？,fudan wa | donna | sakana wo | tabe masu | ka？,usually | what kind of | fish | eat(polite) | ？
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),新鮮な魚を食べます,Fresh fish.,新鮮な | 魚を | 食べます,shinsen na | sakana wo | tabe masu,fresh | fish | eat(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),最近は魚を食べていますか？,Are you eating fish recently?,最近は | 魚を | 食べています | か？,saikin wa | sakana wo | tabete i masu | ka?,recently | fish | eating(polite) | ？
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),最近は毎日魚を食べています,I am always eating fish recently.,最近は | 毎日 | 魚を | 食べています,saikin wa | mainichi | sakana wo | tabete i masu,recently | every day | fish | eating(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),最近は全然魚を食べていません,I am not eating fish at all recently.,最近は | 全然 | 魚を | 食べていません,saikin wa | zenzen | sakana wo | tabete i masen,recently | at all | fish | not eating(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),昨日は魚を食べましたか？,Did you eat fish yesterday?,昨日は | 魚を | 食べました | か？,kino- wa | sakana wo | tabe mashita | ka?,yesterday | fish | ate(polite) | ?
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),はい、食べました,Yes...I did.,はい、| 食べました,hai | tabe mashita,yes | ate(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),いいえ、食べませんでした,No...I didn''t.,いいえ、| 食べませんでした,i-e | tabe masen deshita,no | not ate(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),今日はもう魚を食べましたか？,Have you already eaten fish today?,今日は | もう | 魚を |食べました | か？,kyo- wa | mo- | sakana wo | tabe mashita | ka?,today | already | fish | ate(polite) | ?
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),はい、もう食べました,Yes...I already have.,はい、| もう | 食べました,hai | mo- | tabe mashita,yes | already | ate(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),いいえ、まだ食べていません,No...not yet.,いいえ、| まだ | 食べていません,i-e | mada | tabete i masen,no | yet | not eating(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),何の魚を食べましたか？,Which fish did you eat?,何の | 魚を | 食べました | か？,nan no | sakana wo | tabe mashita | ka？,what | fish | ate(polite) | ?
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),サーモンを食べました,Salmon.,サーモンを | 食べました,sa-mon wo | tabe mashita,salmon | ate(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),明日も魚を食べますか？,Will you eat fish tomorrow too?,明日も | 魚を | 食べます | か？,ashita mo | sakana wo | tabe masu | ka？,tomorrow too | fish | eat(polite) | ？
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),はい、食べます,Yes...I will.,はい、| 食べます,hai | tabe masu,yes | eat(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),いいえ、食べません,No...I won''t.,いいえ、| 食べません,i-e | tabe masen,no | not eat(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),まだわかりません,I don''t know yet.,まだ | わかりません,mada | wakari masen,yet | not know(polite)
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),yournameさんは猫ですか？,yourname...are you a cat?,yournameさんは | 猫 | です | か？,yourname san wa | neko | desu | ka?,yourname | cat | is(polite) | ?
+,English,Japanese,Beginner1,Verb,魚を食べる / eat fish ( 10 ),はい、猫です,Yes...I am.,はい、| 猫 | です,hai | neko | desu,yes | cat | is(polite)
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),yournameさんはお酒を飲みますか？,yourname...do you drink alcohol?,yournameさんは | お酒を | 飲みます | か？,yourname san wa | osake wo | nomi masu | ka？,yourname | alcohol | drink(polite) | ？
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),はい、よく飲みます,Yes...often.,はい、| よく | 飲みます,hai | yoku | nomi masu,yes | often | drink(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),はい、たまに飲みます,Yes...sometimes.,はい、| たまに | 飲みます,hai | tamani | nomi masu,yes | sometimes | drink(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),はい、週2、3回飲みます,Yes...a few times a week.,はい、| 週 | 2、3回 | 飲みます,hai | shu- | ni san kai | nomi masu,yes | a week | two or three times | about | drink(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),いいえ、あまり飲みません,No...not much.,いいえ、| あまり | 飲みません,i-e | amari | nomi masen,no | not much | not drink(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),いいえ、ほとんど飲みません,No...rarely.,いいえ、| ほとんど | 飲みません,i-e | hotondo | nomi masen,no | almost | not drink(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),普段はいつお酒を飲みますか？,When do you usually drink alcohol?,普段は | いつ | お酒を | 飲みます | か？,fudan wa | itsu | osake wo | nomi masu | ka？,usually | when | alcohol | drink(polite) | ?
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),仕事の後に飲みます,After work.,仕事の後に | 飲みます,shigoto no ato ni | nomi masu,after work | drink(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),普段はどこでお酒を飲みますか？,Where do you usually drink alcohol?,普段は | どこで | お酒を | 飲みます | か？,fudan wa | doko de | osake wo | nomi masu | ka？,usually | where | alcohol | drink(polite) | ？
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),バーで飲みます,At the bar.,バーで | 飲みます,ba- de | nomi masu,at the bar | drink(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),普段は誰とお酒を飲みますか？,Who do you usually drink alcohol with?,普段は | 誰と | お酒を | 飲みます | か？,fudan wa | dare to | osake wo | nomi masu | ka？,usually | with who | alcohol | drink(polite) | ？
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),同僚か上司と飲みます,With my colleagues or boss.,同僚か | 上司と | 飲みます,do-ryo- ka | jo-shi to | nomi masu,colleague or | with boss | drink(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),普段はどれくらいお酒を飲みますか？,How much alcohol do you usually drink?,普段は | どれくらい | お酒を | 飲みます | か？,fudan wa | dorekurai | osake wo | nomi masu | ka？,usually | how much | alcohol | drink(polite) | ？
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),ビールを3杯くらい飲みます,About 3 glasses of beer.,ビールを | 3杯 | くらい | 飲みます,bi-ru wo | san bai | kurai | nomi masu,beer | 3 glasses | about | drink(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),普段はどんなお酒を飲みますか？,What kind of alcohol do you usually drink?,普段は | どんな | お酒を | 飲みます | か？,fudan wa | donna | osake wo | nomi masu | ka？,usually | what kind of | alcohol | drink(polite) | ？
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),主にワインかビールを飲みます,Mainly wine or beer.,主に | ワインか | ビールを | 飲みます,omoni | wain ka | bi-ru wo | nomi masu,mainly | wine or | beer | drink(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),最近はお酒を飲んでいますか？,Are you drinking alcohol recently?,最近は | お酒を | 飲んでいます | か？,saikin wa | osake wo | nonde i masu | ka?,recently | alcohol | drinking(polite) | ？
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),最近は毎日お酒を飲んでいます,I am drinking alcohol every day recently.,最近は | 毎日 | お酒を | 飲んでいます,saikin wa | mainichi | osake wo | nonde i masu,recently | every day | alcohol | drinking(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),最近は全然お酒を飲んでいません,I am not drinking alcohol at all recently.,最近は | 全然 | お酒を | 飲んでいません,saikin wa | zenzen | osake wo | nonde i masen,recently | at all | alcohol | not drinking(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),昨日はお酒を飲みましたか？,Did you drink alcohol yesterday?,昨日は | お酒を | 飲みました | か？,kino- wa | osake wo | nomi mashita | ka?,yesterday | alcohol | drank(polite) | ?
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),はい、飲みました,Yes...I did.,はい、| 飲みました,hai | nomi mashita,yes | drank(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),いいえ、飲みませんでした,No...I didn''t.,いいえ、| 飲みませんでした,i-e | nomi masen deshita,no | not drank(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),今日はもうお酒を飲みましたか？,Have you already drunk alcohol today?,今日は | もう | お酒を | 飲みました | か？,kyo- wa | mo- | osake wo | nomi mashita | ka?,today | already | alcohol | drank(polite) | ?
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),はい、もう飲みました,Yes...I already have.,はい、| もう | 飲みました,hai | mo- | nomi mashita,yes | already | drank(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),いいえ、まだ飲んでいません,No...not yet.,いいえ、| まだ | 飲んでいません,i-e | mada | nonde i masen,no | yet | not drinking(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),何のお酒を飲みましたか？,What did you drink?,何の | お酒を | 飲みました | か？,nan no | osake wo | nomi mashita | ka？,what | alcohol | drank(polite) | ?
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),ウイスキーを飲みました,Whisky.,ウイスキーを | 飲みました,uisuki- wo | nomi mashita,whisky | drank(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),明日もお酒を飲みますか？,Will you drink alcohol tomorrow too?,明日も | お酒を | 飲みます | か？,ashita mo | osake wo | nomi masu | ka？,tomorrow too | alcohol | drink(polite) | ？
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),はい、飲みます,Yes...I will.,はい、| 飲みます,hai | nomi masu,yes | drink(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),いいえ、飲みません,No...I won''t.,いいえ、| 飲みません,i-e | nomi masen,no | not drink(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),まだわかりません,I don''t know yet.,まだ | わかりません,mada | wakari masen,yet | not know(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),yournameさん、お酒は強いですか？,yourname...can you hold your liquor?,yournameさん、| お酒は | 強いです | か？,yourname san | osake wa | tsuyoi desu | ka？,yourname | alcohol | strong(polite) | ?
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),はい、強いです,Yes...I can.,はい、| 強いです,hai | tsuyoi desu,yes | strong(polite)
+,English,Japanese,Beginner1,Verb,お酒を飲む / drink alcohol ( 11 ),いいえ、弱いです,No...I can''t.,いいえ、| 弱いです,i-e | yowai desu,no | weak(polite)
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),yournameさんはジムに行きますか？,yourname...do you go to gym?,yournameさんは | ジムに | 行きます | か？,yourname san wa | jimu ni | iki masu | ka？,yourname | to gym | go(polite) | ？
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),はい、よく行きます,Yes...often.,はい、| よく | 行きます,hai | yoku | iki masu,yes | often | go(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),はい、たまに行きます,Yes...sometimes.,はい、| たまに | 行きます,hai | tamani | iki masu,yes | sometimes | go(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),はい、月1、2回行きます,Yes...once or twice a month.,はい、| 月 | 1、2回 | 行きます,hai | ichi nichi | ichi ni kai | iki masu,yes | a month | once or twice | go(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),いいえ、あまり行きません,No...not much.,いいえ、| あまり | 行きません,i-e | amari | iki masen,no | not much | not go(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),いいえ、ほとんど行きません,No...rarely.,いいえ、| ほとんど | 行きません,i-e | hotondo | iki masen,no | almost | not go(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),普段はいつジムに行きますか？,When do you usually go to gym?,普段は | いつ | ジムに | 行きます | か？,fudan wa | itsu | jimu ni | iki masu | ka？,usually | when | to gym | go(polite) | ?
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),朝、仕事に行く前に行きます,Before I go to work in the morning.,朝、| 仕事に行く | 前に | 行きます,asa | shigoto ni iku | mae ni | iki masu,in the morning | go to work | before | go(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),普段はどこのジムに行きますか？,Which gym do you usually go?,普段は | どこのジムに | 行きます | か？,fudan wa | doko no jimu ni | iki masu | ka？,usually | to which gym | go(polite) | ？
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),家の近くのジムに行きます,The one near my house.,家の近くの | ジムに | 行きます,ie no chikaku no | jimu ni | iki masu,near house | to gym | go(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),普段は誰とジムに行きますか？,Who do you usually go to gym with?,普段は | 誰と | ジムに | 行きます | か？,fudan wa | dare to | jimu ni | iki masu | ka？,usually | with who | to gym | go(polite) | ？
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),妻と一緒に行きます,With my wife.,妻と | 一緒に | 行きます,tsuma to | issho ni | iki masu,with wife | together | go(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),普段はどれくらいジムに行きますか？,How often do you usually go to gym?,普段は | どれくらい | ジムに | 行きます | か？,fudan wa | dorekurai | jimu ni | iki masu | ka？,usually | how often | to gym | go(polite) | ？
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),毎日行きます,Every day.,毎日 | 行きます,mainichi | iki masu,every day | go(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),普段はどうやってジムに行きますか？,How do you usually go to gym?,普段は | どうやって | ジムに | 行きます | か？,fudan wa | duyatte | jimu ni | iki masu | ka？,usually | how | to gym | go(polite) | ？
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),自転車で行きます,By bike.,自転車で | 行きます,jitensha de | iki masu,by bike | go(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),最近はジムに行っていますか？,Do you go to gym recently?,最近は | ジムに | 行っています | か？,saikin wa | jimu ni | itte i masu | ka?,recently | to gym | going(polite) | ？
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),最近は毎日ジムに行っています,I go to gym every day recently.,最近は | 毎日 | ジムに | 行っています,saikin wa | mainichi | jimu ni | itte i masu,recently | every day | to gym | going(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),最近は全然ジムに行っていません,I don''t go to gym at all recently.,最近は | 全然 | ジムに | 行っていません,saikin wa | zenzen | jimu ni | itte i masen,recently | at all | to gym | not going(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),昨日はジムに行きましたか？,Did you go to gym yesterday?,昨日は | ジムに | 行きました | か？,kino- wa | jimu ni | iki mashita | ka?,yesterday | to gym | went(polite) | ?
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),はい、行きました,Yes...I did.,はい、| 行きました,hai | iki mashita,yes | went(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),いいえ、行きませんでした,No...I didn''t.,いいえ、| 行きませんでした,i-e | iki masen deshita,no | not went(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),今日はもうジムに行きましたか？,Have you already gone to gym today?,今日は | もう | ジムに | 行きました | か？,kyo- wa | mo- | jimu ni | iki mashita | ka?,today | already | to gym | went(polite) | ?
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),はい、もう行きました,Yes...I already have.,はい、| もう | 行きました,hai | mo- | iki mashita,yes | already | went(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),いいえ、まだ行っていません,No...not yet.,いいえ、| まだ | 行っていません,i-e | mada | itte i masen,no | yet | not going(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),どこのジムに行きましたか？,Which gym did you go?,どこのジムに | 行きました | か？,doko no jimu ni | iki mashita | ka？,to which gym | went(polite) | ?
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),駅前のジムに行きました,The one in front of the station.,駅前の | ジムに | 行きました,eki mae no | jimu ni | iki mashita,in front of the station | to gym | went(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),明日もジムに行きますか？,Will you go to gym tomorrow too?,明日も | ジムに | 行きます | か？,ashita mo | jimu ni | iki masu | ka？,tomorrow too | to gym | go(polite) | ？
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),はい、行きます,Yes...I will.,はい、| 行きます,hai | iki masu,yes | go(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),いいえ、行きません,No...I won''t.,いいえ、| 行きません,i-e | iki masen,no | not go(polite)
+,English,Japanese,Beginner1,Verb,ジムに行く / go to gym ( 12 ),まだわかりません,I don''t know yet.,まだ | わかりません,mada | wakari masen,yet | not know(polite)

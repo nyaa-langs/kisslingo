@@ -75,11 +75,13 @@ public class DatabaseManager {
 
         // csvからのデータの書き込み
         writeToDatabase("jap_verb_b1.csv");
+        writeToDatabase("jap_frg_b1.csv");
         writeToDatabase("jap_adjective_b1.csv");
         writeToDatabase("eng_verb_b1.csv");
-        writeToDatabase("jap_frag_b1.csv");
         writeToDatabase("jap_sentence_ad.csv");
         writeToDatabase("jap_noun_b1.csv");
+        writeToDatabase("jap_verb_b3.csv");
+        writeToDatabase("jap_frg_b3.csv");
         initializeArrays();
     }
 
