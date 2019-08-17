@@ -67,13 +67,16 @@ public class DatabaseManager {
         // csvからのデータの書き込み
         DatabaseObject.beginTransaction();                  // - start - loads all the csv files at the same time
         writeToDatabase("jap_verb_b1.csv");
+        writeToDatabase("jap_verb_b3.csv");
+        writeToDatabase("jap_frg_b1.csv");
+        writeToDatabase("jap_frg_b3.csv");
         writeToDatabase("jap_adjective_b1.csv");
-        writeToDatabase("eng_verb_b1.csv");
-        writeToDatabase("jap_frag_b1.csv");
         writeToDatabase("jap_sentence_ad.csv");
         writeToDatabase("jap_noun_b1.csv");
+        writeToDatabase("eng_verb_b1.csv");
         DatabaseObject.setTransactionSuccessful();
         DatabaseObject.endTransaction();                    //- end - loads all the csv files at the same time
+
         initializeArrays();
     }
 
@@ -316,5 +319,6 @@ public class DatabaseManager {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
     }
 }
