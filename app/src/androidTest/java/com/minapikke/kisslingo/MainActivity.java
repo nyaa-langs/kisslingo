@@ -69,11 +69,11 @@ public class MainActivity extends AppCompatActivity {
 
 
         // ▼spinner　onItemSelected設定▼
-        final Spinner spinner1 = (Spinner) findViewById(R.id.spinner1);
-        final Spinner spinner2 = (Spinner) findViewById(R.id.spinner2);
-        final Spinner spinner3 = (Spinner) findViewById(R.id.spinner3);
-        final Spinner spinner4 = (Spinner) findViewById(R.id.spinner4);
-        final Spinner spinner5 = (Spinner) findViewById(R.id.spinner5);
+        final Spinner spinner1 = (Spinner) findViewById(R.id.yLang);
+        final Spinner spinner2 = (Spinner) findViewById(R.id.tLang);
+        final Spinner spinner3 = (Spinner) findViewById(R.id.level);
+        final Spinner spinner4 = (Spinner) findViewById(R.id.wclass);
+        final Spinner spinner5 = (Spinner) findViewById(R.id.type);
 
         ArrayAdapter<String> adapter1
                 = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, getResources().getStringArray(R.array.YL));

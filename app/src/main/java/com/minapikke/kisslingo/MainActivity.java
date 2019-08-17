@@ -28,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
     //private SQLiteDatabase preDatabaseObject;
 
     private String ylangStr;
-    //TODO: add database filters for target langauges and level
     private String tlangStr;
     private String levelStr;
     private String wClassStr;
@@ -54,11 +53,11 @@ public class MainActivity extends AppCompatActivity {
     //▼initializeSpinners method設定▼
     private void initializeSpinners(){
         // ▼spinner　onItemSelected設定▼
-        spinners.add((Spinner)findViewById(R.id.spinner1));
-        spinners.add((Spinner)findViewById(R.id.spinner2));
-        spinners.add((Spinner)findViewById(R.id.spinner3));
-        spinners.add((Spinner)findViewById(R.id.spinner4));
-        spinners.add((Spinner)findViewById(R.id.spinner5));
+        spinners.add((Spinner)findViewById(R.id.yLang));
+        spinners.add((Spinner)findViewById(R.id.tLang));
+        spinners.add((Spinner)findViewById(R.id.level));
+        spinners.add((Spinner)findViewById(R.id.wclass));
+        spinners.add((Spinner)findViewById(R.id.type));
 
         adapters.add(new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, DatabaseManager.getInstance().GetDbArray(DbObjectType.Y_LANG)));
         adapters.add(new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, DatabaseManager.getInstance().GetDbArray(DbObjectType.T_LANG)));
@@ -90,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
                     Spinner spinner = (Spinner)parent;
                     System.out.println("Spinner changed!");
                     switch (spinner.getId()){
-                        case R.id.spinner1:
+                        case R.id.yLang:
                             ylangStr = (String)spinner.getSelectedItem();
                             DatabaseManager.getInstance().UpdateYourLanguage(ylangStr);
 
@@ -106,24 +105,24 @@ public class MainActivity extends AppCompatActivity {
                                 ((Button)findViewById(R.id.button)).setText(R.string.study_button_jp);
                             }
                             break;
-                        case R.id.spinner2:
+                        case R.id.tLang:
                             tlangStr = (String)spinner.getSelectedItem();
                             DatabaseManager.getInstance().UpdateYourLanguage(ylangStr);
                             setSpinner(spinners.get(2), DatabaseManager.getInstance().GetDbArray(DbObjectType.LEVEL));
                             setSpinner(spinners.get(3), DatabaseManager.getInstance().GetDbArray(DbObjectType.CLASS));
                             setSpinner(spinners.get(4), DatabaseManager.getInstance().GetDbArray(DbObjectType.TYPE));
                             break;
-                        case R.id.spinner3:
+                        case R.id.level:
                             levelStr = (String)spinner.getSelectedItem();
                             DatabaseManager.getInstance().UpdateLevelType(levelStr);
                             setSpinner(spinners.get(3), DatabaseManager.getInstance().GetDbArray(DbObjectType.CLASS));
                             break;
-                        case R.id.spinner4:
+                        case R.id.wclass:
                             wClassStr = (String)spinner.getSelectedItem();
                             DatabaseManager.getInstance().UpdateClassType(wClassStr);
                             setSpinner(spinners.get(4), DatabaseManager.getInstance().GetDbArray(DbObjectType.TYPE));
                             break;
-                        case R.id.spinner5:
+                        case R.id.type:
                             typeStr = (String)spinner.getSelectedItem();
                             break;
                     }

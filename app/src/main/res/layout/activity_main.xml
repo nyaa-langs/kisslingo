@@ -21,7 +21,7 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <Spinner
-            android:id="@+id/spinner1"
+            android:id="@+id/yLang"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:scrollbarTrackVertical="@null"
@@ -30,7 +30,7 @@
             android:textAlignment="center" />
 
         <Spinner
-            android:id="@+id/spinner2"
+            android:id="@+id/tLang"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:scrollbarTrackVertical="@null"
@@ -39,7 +39,7 @@
             android:textAlignment="center" />
 
         <Spinner
-            android:id="@+id/spinner3"
+            android:id="@+id/level"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:scrollbarTrackVertical="@null"
@@ -48,7 +48,7 @@
             android:textAlignment="center" />
 
         <Spinner
-            android:id="@+id/spinner4"
+            android:id="@+id/wclass"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:scrollbarTrackVertical="@null"
@@ -57,7 +57,7 @@
             android:textAlignment="center" />
 
         <Spinner
-            android:id="@+id/spinner5"
+            android:id="@+id/type"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:scrollbarTrackVertical="@null"
@@ -82,16 +82,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="vertical" >
-
-                <!--Button
-                    android:id="@+id/ExamplesButton"
-                    style="@android:style/Widget.DeviceDefault.Light.Button.Inset"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-
-                    android:stateListAnimator="@null"
-                    android:text="Empty~"
-                    android:textAppearance="@style/TextAppearance.AppCompat.Medium" /-->
             </LinearLayout>
         </ScrollView>
 

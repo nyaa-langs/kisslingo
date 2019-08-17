@@ -12,8 +12,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-import io.reactivex.*;
-import io.reactivex.schedulers.Schedulers;
 
 enum DbObjectType{
     Y_LANG      ,
@@ -66,20 +64,16 @@ public class DatabaseManager {
         // テーブルを作成
         DatabaseObject.execSQL(createTable);
 
-//        Flowable.fromCallable(()->{
-//
-//            return null;
-//        }).subscribeOn(Schedulers.computation())
-//                .observeOn(Schedulers.single())
-//                .subscribe();
-
         // csvからのデータの書き込み
+        DatabaseObject.beginTransaction();                  // - start - loads all the csv files at the same time
         writeToDatabase("jap_verb_b1.csv");
         writeToDatabase("jap_adjective_b1.csv");
         writeToDatabase("eng_verb_b1.csv");
         writeToDatabase("jap_frag_b1.csv");
         writeToDatabase("jap_sentence_ad.csv");
         writeToDatabase("jap_noun_b1.csv");
+        DatabaseObject.setTransactionSuccessful();
+        DatabaseObject.endTransaction();                    //- end - loads all the csv files at the same time
         initializeArrays();
     }
 
@@ -317,8 +311,8 @@ public class DatabaseManager {
                         "INSERT INTO " + DB_TABLE + "(ylang, tlang, level, wclass, type, tlang_ex, ylang_ex, tlang_exf, furigana, chikugoyaku) VALUES ('" + arrr[1] + "','" + arrr[2] + "','" + arrr[3] + "','" + arrr[4] + "','" + arrr[5] + "','" + arrr[6] + "','" + arrr[7] + "','" + arrr[8] + "','" + arrr[9] + "','" + arrr[10] + "')";
 
                 DatabaseObject.execSQL(Insertarrr);
-
             }
+
         } catch (IOException e) {
             e.printStackTrace();
         }
