@@ -189,14 +189,6 @@ public class MainActivity extends AppCompatActivity {
         view.setTextColor(Color.rgb(100,0,255));
         pLayout.addView(view);
     }
-    //Returns a random item from a HashMap. Currently used to return example sentences.
-    private String getRandomStringFromList(DualHashBidiMap<String, String> pList){
-        String[] yExamples = pList.keySet().toArray(new String[pList.size()]);
-
-        if (pList.size()>0)
-            return yExamples[randomGenerator.nextInt(pList.size())];
-        else return "List is Empty!";
-    }
     //▼flashcardButton onClick method終了▼
 
     //▼animatedFlashcard onClick method設定▼

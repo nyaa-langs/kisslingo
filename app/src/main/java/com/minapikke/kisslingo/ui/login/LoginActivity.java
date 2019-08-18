@@ -20,22 +20,19 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.minapikke.kisslingo.DatabaseManager;
-import com.minapikke.kisslingo.MainActivity;
+import com.minapikke.kisslingo.GlobalApplication;
+import com.minapikke.kisslingo.MenuActivity;
 import com.minapikke.kisslingo.R;
-import com.minapikke.kisslingo.ui.login.LoginViewModel;
-import com.minapikke.kisslingo.ui.login.LoginViewModelFactory;
 
 public class LoginActivity extends AppCompatActivity {
 
     private LoginViewModel loginViewModel;
-    private Intent startMainActivity;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         DatabaseManager.getInstance();
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        startMainActivity = new Intent(getApplicationContext(), MainActivity.class);
         loginViewModel = ViewModelProviders.of(this, new LoginViewModelFactory())
                 .get(LoginViewModel.class);
 
@@ -127,7 +124,7 @@ public class LoginActivity extends AppCompatActivity {
         String welcome = getString(R.string.welcome) + model.getDisplayName();
         // TODO : initiate successful logged in experience
         Toast.makeText(getApplicationContext(), welcome, Toast.LENGTH_LONG).show();
-        startActivity(startMainActivity);
+        GlobalApplication.LoadActivity(MenuActivity.class);
 
     }
 

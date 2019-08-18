@@ -6,4 +6,33 @@
     android:layout_height="match_parent"
     tools:context=".MenuActivity">
 
+    <ImageView
+        android:id="@+id/jp_menu_background"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleX="1.02"
+        android:scaleY="1.02"
+        tools:ignore="contentDescription"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/menu_background_jp1"
+        />
+
+    <Button
+        android:id="@+id/btn_Study"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorAccentRed"
+        android:text="Study"
+        android:textColor="@color/colorWhite"
+        android:textColorHighlight="@color/colorAccent"
+        app:layout_constraintBottom_toBottomOf="@+id/jp_menu_background"
+        app:layout_constraintEnd_toEndOf="@+id/jp_menu_background"
+        app:layout_constraintHorizontal_bias="0.98"
+        app:layout_constraintStart_toStartOf="@+id/jp_menu_background"
+        app:layout_constraintTop_toTopOf="@+id/jp_menu_background"
+        app:layout_constraintVertical_bias="0.86" />
+
 </android.support.constraint.ConstraintLayout>
