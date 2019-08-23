@@ -10,15 +10,15 @@
         android:id="@+id/jp_menu_background"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:scaleX="1.02"
-        android:scaleY="1.02"
-        tools:ignore="contentDescription"
+        android:scaleType="fitXY"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/menu_background_jp1"
-        />
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@raw/menu_background_jp1"
+        tools:ignore="contentDescription" />
 
     <Button
         android:id="@+id/btn_Study"
@@ -26,13 +26,15 @@
         android:layout_height="wrap_content"
         android:backgroundTint="@color/colorAccentRed"
         android:text="Study"
+        android:textAllCaps="false"
         android:textColor="@color/colorWhite"
         android:textColorHighlight="@color/colorAccent"
+        android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="@+id/jp_menu_background"
         app:layout_constraintEnd_toEndOf="@+id/jp_menu_background"
-        app:layout_constraintHorizontal_bias="0.98"
+        app:layout_constraintHorizontal_bias="0.978"
         app:layout_constraintStart_toStartOf="@+id/jp_menu_background"
         app:layout_constraintTop_toTopOf="@+id/jp_menu_background"
-        app:layout_constraintVertical_bias="0.86" />
+        app:layout_constraintVertical_bias="0.887" />
 
 </android.support.constraint.ConstraintLayout>

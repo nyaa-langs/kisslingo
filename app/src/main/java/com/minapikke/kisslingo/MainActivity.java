@@ -20,7 +20,6 @@ import org.apache.commons.collections4.bidimap.DualHashBidiMap;
 
 import java.lang.String;
 import java.util.ArrayList;
-import java.util.Random;
 
 //▼MainActivity class開始▼
 public class MainActivity extends AppCompatActivity {
@@ -35,8 +34,6 @@ public class MainActivity extends AppCompatActivity {
 
     private ArrayList<Spinner> spinners = new ArrayList<>();
     private ArrayList<ArrayAdapter<String>> adapters = new ArrayList<>();
-    //Random generator has a global scope so the seed doesn't change every time we execute a function with random.
-    private java.util.Random randomGenerator = new Random();
 
     @Override
     //▼onCreate method設定▼
