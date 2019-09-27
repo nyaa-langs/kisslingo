@@ -1,0 +1,60 @@
+id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku
+られる（受け身）,English,Japanese,Verb2,be V-ed (passive),財布を盗む / steal the wallet,財布を盗まれました,,財布を盗まれました,,1
+ちゃったんですね,English,Japanese,Verb2,be V-ed (passive),財布を盗む / steal the wallet,盗まれちゃったんですか、かわいそう,,盗まれちゃったんですか、かわいそう,,1
+ようにする,English,Japanese,Verb2,be V-ed (passive),財布を盗む / steal the wallet,盗まれないようにするにはどうすればいいですか？,,盗まれないようにするにはどうすればいいですか？,,1
+にはどうすればいいですか？,English,Japanese,Verb2,be V-ed (passive),財布を盗む / steal the wallet,しっかり持っていたら盗まれませんよ,,しっかり持っていたら盗まれませんよ,,1
+,,,,,,,,,,1
+,English,Japanese,Verb2,be V-ed (passive),弟がチョコを食べる / little brother eats chocolate,弟にチョコを食べられました,,弟にチョコを食べられました,,1
+,English,Japanese,Verb2,be V-ed (passive),弟がチョコを食べる / little brother eats chocolate,食べられちゃったんですか、かわいそう,,食べられちゃったんですか、かわいそう,,1
+,English,Japanese,Verb2,be V-ed (passive),弟がチョコを食べる / little brother eats chocolate,食べられないようにするにはどうすればいいですか？,,食べられないようにするにはどうすればいいですか？,,1
+,English,Japanese,Verb2,be V-ed (passive),弟がチョコを食べる / little brother eats chocolate,しっかり見ていたら食べられませんよ,,しっかり見ていたら食べられませんよ,,1
+,,,,,,,,,,1
+type1,English,Japanese,Verb2,be V-ed (passive),母さんが起こす / mom wakes someone up,昨日の朝、母さんに起こされました,,昨日の朝、母さんに起こされました,,1
+食べさせる,English,Japanese,Verb2,be V-ed (passive),母さんが起こす / mom wakes someone up,起こされちゃったんですね、ドンマイです,,起こされちゃったんですね、ドンマイです,,1
+食べさせられる,English,Japanese,Verb2,be V-ed (passive),母さんが起こす / mom wakes someone up,起こされないようにするにはどうすればいいですか？,,起こされないようにするにはどうすればいいですか？,,1
+この2つは後でやる,English,Japanese,Verb2,be V-ed (passive),母さんが起こす / mom wakes someone up,自分で起きたら起こされませんよ,,自分で起きたら起こされませんよ,,1
+,,,,,,,,,,1
+食べる,English,Japanese,Verb2,be V-ed (passive),クラスの皆が笑う / everyone in the class laughs,昨日クラスの皆に笑われました,,昨日クラスの皆に笑われました,,1
+食べられる,English,Japanese,Verb2,be V-ed (passive),クラスの皆が笑う / everyone in the class laughs,笑われちゃったんですね、ドンマイです,,笑われちゃったんですね、ドンマイです,,1
+,English,Japanese,Verb2,be V-ed (passive),クラスの皆が笑う / everyone in the class laughs,笑われないようにするにはどうすればいいですか？,,笑われないようにするにはどうすればいいですか？,,1
+type2,English,Japanese,Verb2,be V-ed (passive),クラスの皆が笑う / everyone in the class laughs,ちゃんと授業中に起きていたら笑われませんよ,,ちゃんと授業中に起きていたら笑われませんよ,,1
+起こさせる,,,,,,,,,,1
+起こさせられる,English,Japanese,Verb2,be V-ed (passive),先生がしかる / the teacher scolds,昨日学校で先生ににしかられました,,昨日学校で先生ににしかられました,,1
+起こす,English,Japanese,Verb2,be V-ed (passive),先生がしかる / the teacher scolds,しかられちゃったんですね、ドンマイです,,しかられちゃったんですね、ドンマイです,,1
+起こされる,English,Japanese,Verb2,be V-ed (passive),先生がしかる / the teacher scolds,しかられないようにするにはどうすればいいですか？,,しかられないようにするにはどうすればいいですか？,,1
+起きる（自動詞）,English,Japanese,Verb2,be V-ed (passive),先生がしかる / the teacher scolds,授業に集中していたらしかられませんよ,,授業に集中していたらしかられませんよ,,1
+,,,,,,,,,,1
+,English,Japanese,Verb2,be V-ed (passive),先輩がいじめる / my senior teases,先輩にいじめられました,,先輩にいじめられました,,1
+壊れる,English,Japanese,Verb2,be V-ed (passive),先輩がいじめる / my senior teases,いじめられちゃったんですね、ドンマイです,,いじめられちゃったんですね、ドンマイです,,1
+開く,English,Japanese,Verb2,be V-ed (passive),先輩がいじめる / my senior teases,いじめられないようにするにはどうすればいいですか？,,いじめられないようにするにはどうすればいいですか？,,1
+閉じる,English,Japanese,Verb2,be V-ed (passive),先輩がいじめる / my senior teases,堂々としていたらいじめられませんよ,,堂々としていたらいじめられませんよ,,1
+消える,,,,,,,,,,1
+つく,,,,,,,,,,1
+落ちる,,,,,,,,,,1
+上がる,,,,,,,,,,1
+下がる,,,,,,,,,,1
+入る,,,,,,,,,,1
+出る,,,,,,,,,,1
+入れさせる,,,,,,,,,,1
+入れさせられる,,,,,,,,,,1
+入れる,,,,,,,,,,1
+入れられる,,,,,,,,,,1
+入る,,,,,,,,,,1
+,,,,,,,,,,1
+行くようになる / go more,,,,,,,,,,1
+行くようにする / will go next time,,,,,,,,,,1
+行かないようになる,,,,,,,,,,1
+行かなくなる / go less,,,,,,,,,,1
+行かないようにする / will not go next time,,,,,,,,,,1
+行かなくする,,,,,,,,,,1
+,,,,,,,,,,1
+行こうとする / try to go,,,,,,,,,,1
+行くまいとする / try not to go,,,,,,,,,,1
+,,,,,,,,,,1
+試しに行ってみる / try going,,,,,,,,,,1
+試しに行かないでみる / try not going,,,,,,,,,,1
+,,,,,,,,,,1
+最近は授業をサボってしまいがちだ,,,,,,,,,,1
+,,,,,,,,,,1
+ていく、てくる,,,,,,,,,,1
+てみる、ておく,,,,,,,,,,1

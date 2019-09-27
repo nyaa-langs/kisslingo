@@ -1,0 +1,69 @@
+id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku
+てください,English,Japanese,Verb,please V,座る / sit down,ここに座ってもいいですか？,Can I sit here?,ここに座ってもいいですか？,,1
+ないでください,English,Japanese,Verb,please V,座る / sit down,そこに座ってはいけません,You can''t sit there.,そこに座ってはいけません,,1
+てはいけません,English,Japanese,Verb,please V,座る / sit down,どこならいいですか？,Where can I sit then?,どこならいいですか？,,1
+てもいいですか？,English,Japanese,Verb,please V,座る / sit down,ここならいいです,You can sit here.,ここならいいです,,1
+,English,Japanese,Verb,please V,座る / sit down,あ、やはり座らないでください,Wait...on second thought don''t sit please.,あ、やはり座らないでください,,1
+てしまいました,English,Japanese,Verb,please V,座る / sit down,どっちなんですか？,So which?,どっちなんですか？,,1
+ないようにしないと,English,Japanese,Verb,please V,座る / sit down,どうぞ、座ってください,Please sit down.,どうぞ、座ってください,,1
+ないように気を付けないと,,,,,,,,,,1
+するときはしますよ,English,Japanese,Verb,please V,見る / take a look,見てもいいですか？,,見てもいいですか？,,1
+,English,Japanese,Verb,please V,見る / take a look,まだ見てはいけません,,まだ見てはいけません,,1
+てほしいです,English,Japanese,Verb,please V,見る / take a look,いつならいいですか？,,いつならいいですか？,,1
+ないでほしいです,English,Japanese,Verb,please V,見る / take a look,後でならいいです,,後でならいいです,,1
+,English,Japanese,Verb,please V,見る / take a look,あ、やはり見ないでください,,あ、やはり見ないでください,,1
+,English,Japanese,Verb,please V,見る / take a look,どっちなんですか？,,どっちなんですか？,,1
+,English,Japanese,Verb,please V,見る / take a look,どうぞ、見てください,,どうぞ、見てください,,1
+,,,,,,,,,,1
+,English,Japanese,Verb,please V,目を開ける / open eyes,目を開けてもいいですか？,,目を開けてもいいですか？,,1
+,English,Japanese,Verb,please V,目を開ける / open eyes,まだ目を開けてはいけません,,まだ目を開けてはいけません,,1
+,English,Japanese,Verb,please V,目を開ける / open eyes,いつならいいですか？,,いつならいいですか？,,1
+,English,Japanese,Verb,please V,目を開ける / open eyes,後でならいいです,,後でならいいです,,1
+,English,Japanese,Verb,please V,目を開ける / open eyes,あ、やはり目を開けないでください,,あ、やはり目を開けないでください,,1
+,English,Japanese,Verb,please V,目を開ける / open eyes,どっちなんですか？,,どっちなんですか？,,1
+,English,Japanese,Verb,please V,目を開ける / open eyes,どうぞ、目を開けてください,,どうぞ、目を開けてください,,1
+,,,,,,,,,,1
+,,,,,,,,,,1
+買ってしまった,English,Japanese,Verb,end up V-ing,寝過ごす / oversleep,寝過ごしてしまいました,,寝過ごしてしまいました,,1
+寝過ごしてしまった,English,Japanese,Verb,end up V-ing,寝過ごす / oversleep,寝過ごさないように気を付けないと,,寝過ごさないように気を付けないと,,1
+,English,Japanese,Verb,end up V-ing,寝過ごす / oversleep,寝過ごす時は寝過ごしますよ,,寝過ごす時は寝過ごしますよ,,1
+,,,,,,,,,,1
+飲みすぎてしまった,English,Japanese,Verb,end up V-ing,be late / 遅刻する,遅刻してしまいました,,遅刻してしまいました,,1
+,English,Japanese,Verb,end up V-ing,be late / 遅刻する,遅刻しないように気を付けないと,,遅刻しないように気を付けないと,,1
+,English,Japanese,Verb,end up V-ing,be late / 遅刻する,遅刻するときは遅刻しますよ,,遅刻するときは遅刻しますよ,,1
+,,,,,,,,,,1
+複合動詞,English,Japanese,Verb,end up V-ing,信号にひっかかる / get stopped at the stoplight,たくさん信号にひっかかってしまいました,,たくさん信号にひっかかってしまいました,,1
+,English,Japanese,Verb,end up V-ing,信号にひっかかる / get stopped at the stoplight,ひっかからないように運転しないと,,ひっかからないように運転しないと,,1
+食べ損なう,English,Japanese,Verb,end up V-ing,信号にひっかかる / get stopped at the stoplight,ひっかかるときはひっかかりますよ,,ひっかかるときはひっかかりますよ,,1
+降り損なう,,,,,,,,,,1
+もらい損なう,English,Japanese,Verb,end up V-ing,渋滞に巻き込まれる / get involved in a jam,渋滞に巻き込まれてしまいました,,渋滞に巻き込まれてしまいました,,1
+,English,Japanese,Verb,end up V-ing,渋滞に巻き込まれる / get involved in a jam,巻き込まれないように運転しないと,,巻き込まれないように運転しないと,,1
+食べ続ける,English,Japanese,Verb,end up V-ing,渋滞に巻き込まれる / get involved in a jam,巻き込まれるときは巻き込まれますよ,,巻き込まれるときは巻き込まれますよ,,1
+寝続ける,,,,,,,,,,1
+,English,Japanese,Verb,end up V-ing,風邪を引く / catch a cold,風を引いてしまいました,,風を引いてしまいました,,1
+食べ始める,English,Japanese,Verb,end up V-ing,風邪を引く / catch a cold,引かないように体調管理しないと,,引かないように体調管理しないと,,1
+食べ終わる,English,Japanese,Verb,end up V-ing,風邪を引く / catch a cold,引くときは引きますよ,,引くときは引きますよ,,1
+,,,,,,,,,,1
+やり過ごす,,,,,,,,,,1
+寝過ごす,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Verb,want someone to V,スピードを出す / speed up,あまりスピードを出さないで欲しいです,,あまりスピードを出さないで欲しいです,,1
+食べて欲しい,English,Japanese,Verb,want someone to V,スピードを出す / speed up,これくらいでどうですか？,,これくらいでどうですか？,,1
+（食べて欲しくない）,English,Japanese,Verb,want someone to V,スピードを出す / speed up,今度はちょっと遅いです,,今度はちょっと遅いです,,1
+食べないで欲しい,English,Japanese,Verb,want someone to V,スピードを出す / speed up,もっとスピードを出して欲しいです,,もっとスピードを出して欲しいです,,1
+食べて欲しかった,English,Japanese,Verb,want someone to V,スピードを出す / speed up,これくらいでどうですか？,,これくらいでどうですか？,,1
+（食べて欲しくなかった）,English,Japanese,Verb,want someone to V,スピードを出す / speed up,ちょうどいいです、ありがとう,,ちょうどいいです、ありがとう,,1
+食べないで欲しかった,,,,,,,,,,1
+,English,Japanese,Verb,want someone to V,強く押す / push hard,あまり強く押さないで欲しいです,,あまり強く押さないで欲しいです,,1
+,English,Japanese,Verb,want someone to V,強く押す / push hard,これくらいでどうですか？,,これくらいでどうですか？,,1
+,English,Japanese,Verb,want someone to V,強く押す / push hard,今度はちょっと弱いです,,今度はちょっと弱いです,,1
+,English,Japanese,Verb,want someone to V,強く押す / push hard,もっと強く押して欲しいです,,もっと強く押して欲しいです,,1
+,English,Japanese,Verb,want someone to V,強く押す / push hard,これくらいでどうですか？,,これくらいでどうですか？,,1
+,English,Japanese,Verb,want someone to V,強く押す / push hard,ちょうどいいです、ありがとう,,ちょうどいいです、ありがとう,,1
+,,,,,,,,,,1
+,English,Japanese,Verb,want someone to V,寒くする / set the temperature lower,あまり寒くしないで欲しいです,,あまり寒くしないで欲しいです,,1
+,English,Japanese,Verb,want someone to V,寒くする / set the temperature lower,これくらいでどうですか？,,これくらいでどうですか？,,1
+,English,Japanese,Verb,want someone to V,寒くする / set the temperature lower,今度はちょっと暑いです,,今度はちょっと暑いです,,1
+,English,Japanese,Verb,want someone to V,寒くする / set the temperature lower,もっと寒くして欲しいです,,もっと寒くして欲しいです,,1
+,English,Japanese,Verb,want someone to V,寒くする / set the temperature lower,これくらいでどうですか？,,これくらいでどうですか？,,1
+,English,Japanese,Verb,want someone to V,寒くする / set the temperature lower,ちょうどいいです、ありがとう,,ちょうどいいです、ありがとう,,1

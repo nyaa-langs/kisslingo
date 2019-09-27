@@ -66,14 +66,31 @@ public class DatabaseManager {
 
         // csvからのデータの書き込み
         DatabaseObject.beginTransaction();                  // - start - loads all the csv files at the same time
-        writeToDatabase("jap_verb_b1.csv");
-        writeToDatabase("jap_verb_b3.csv");
-        writeToDatabase("jap_frg_b1.csv");
-        writeToDatabase("jap_frg_b3.csv");
-        writeToDatabase("jap_adjective_b1.csv");
-        writeToDatabase("jap_sentence_ad.csv");
-        writeToDatabase("jap_noun_b1.csv");
-        writeToDatabase("eng_verb_b1.csv");
+        writeToDatabase("ej_verb_v.csv");
+        writeToDatabase("ej_verb_iruaru.csv");
+        writeToDatabase("ej_verb_teiru.csv");
+        writeToDatabase("ej_verb_tekudasai.csv");
+        writeToDatabase("ej_verb_keshiki.csv");
+        writeToDatabase("ej_verb_wantcan.csv");
+        writeToDatabase("ej_verb2_passive.csv");
+        writeToDatabase("ej_verb2_ndesu.csv");
+        writeToDatabase("ej_verb2_ndakedo.csv");
+        writeToDatabase("ej_verb2_if4.csv");
+        writeToDatabase("ej_verb2_iroiro.csv");
+        writeToDatabase("ej_verb3_nedetonoyo.csv");
+        writeToDatabase("ej_verb3_agemorai.csv");
+        writeToDatabase("ej_adjective_i.csv");
+        writeToDatabase("ej_adjective_na.csv");
+        writeToDatabase("ej_adjective_teiru.csv");
+        writeToDatabase("ej_adjective_arunai.csv");
+        writeToDatabase("ej_adjective2_looksouda.csv");
+        writeToDatabase("ej_adjective2_getnaru.csv");
+        writeToDatabase("ej_adjective2_noga.csv");
+        writeToDatabase("ej_adjective2_think.csv");
+        writeToDatabase("ej_adjective3_nodekedo.csv");
+        writeToDatabase("ej_noun_basic.csv");
+        writeToDatabase("ej_frg_1.csv");
+        writeToDatabase("ej_frg_2.csv");
         DatabaseObject.setTransactionSuccessful();
         DatabaseObject.endTransaction();                    //- end - loads all the csv files at the same time
 

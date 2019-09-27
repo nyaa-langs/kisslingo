@@ -1,0 +1,82 @@
+id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku
+,English,Japanese,Fragment2,words,Verb+Object ,本を読む,read a book,本を | 読む,hon wo | yomu,book | read
+tips here,English,Japanese,Fragment2,words,Verb+Object ,映画を見る,watch a movie,映画を | 見る,e-ga wo | miru,movie | watch
+,English,Japanese,Fragment2,words,Verb+Object ,音楽をきく,listen to the music,音楽を | きく,ongaku wo | kiku,music | listen
+,English,Japanese,Fragment2,words,Verb+Object ,寿司を食べる,eat sushi,寿司を | 食べる,sushi wo | taberu,sushi | eat
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Fragment2,conjugation,読む,読みたい,want to read,読みたい,yomi tai,want to read
+,English,Japanese,Fragment2,conjugation,読む,読みたくない,not want to read,読みたくない,yomi taku nai,not want to read
+,English,Japanese,Fragment2,conjugation,読む,読みたかった,wanted to read,読みたかった,yomi takatta,wanted to read
+,English,Japanese,Fragment2,conjugation,読む,読みたくなかった,not wanted to read,読みたくなかった,yomi taku nakatta,not wanted to read
+,English,Japanese,Fragment2,conjugation,読む,読みたいです,want to read(p),読みたいです,yomi tai desu,want to read(p)
+,English,Japanese,Fragment2,conjugation,読む,読みたくないです,not want to read(p),読みたくないです,yomi taku nai desu,not want to read(p)
+,English,Japanese,Fragment2,conjugation,読む,読みたかったです,wanted to read(p),読みたかったです,yomi takatta desu,wanted to read(p)
+,English,Japanese,Fragment2,conjugation,読む,読みたくなかったです,not wanted to read(p),読みたくなかったです,yomi taku nakatta desu,not wanted to read(p)
+,English,Japanese,Fragment2,conjugation,読む,読める,can read,読める,yome ru,can read
+,English,Japanese,Fragment2,conjugation,読む,読めない,can not read,読めない,yome nai,can not read
+,English,Japanese,Fragment2,conjugation,読む,読めた,could read,読めた,yome ta,could read
+,English,Japanese,Fragment2,conjugation,読む,読めなかった,could not read,読めなかった,yome nakatta,could not read
+,English,Japanese,Fragment2,conjugation,読む,読めます,can read(p),読めます,yome masu,can read(p)
+,English,Japanese,Fragment2,conjugation,読む,読めません,can not read(p),読めません,yome masen,can not read(p)
+,English,Japanese,Fragment2,conjugation,読む,読めました,could read(p),読めました,yome mashita,could read(p)
+,English,Japanese,Fragment2,conjugation,読む,読めませんでした,could not read(p),読めませんでした,yome masen deshita,could not read(p)
+,English,Japanese,Fragment2,conjugation,読む,読んだことがある,have read before,読んだ | ことが | ある,yonda | koto ga | aru,read(past)(p) | thing(ko) | there is
+,English,Japanese,Fragment2,conjugation,読む,読んだことがない,have not read before,読んだ | ことが | ない,yonda | koto ga | nai,read(past)(p) | thing(ko) | there is not
+,,,,,,,,,,1
+,English,Japanese,Fragment2,conjugation,見る,見たい,want to see,見たい,mi tai,want to see
+,English,Japanese,Fragment2,conjugation,見る,見たくない,not want to see,見たくない,mita taku nai,not want to see
+,English,Japanese,Fragment2,conjugation,見る,見たかった,wanted to see,見たかった,mi takatta,wanted to see
+,English,Japanese,Fragment2,conjugation,見る,見たくなかった,not wanted to see,見たくなかった,mi taku nakatta,not wanted to see
+,English,Japanese,Fragment2,conjugation,見る,見たいです,want to see(p),見たいです,mi tai desu,want to see(p)
+,English,Japanese,Fragment2,conjugation,見る,見たくないです,not want to see(p),見たくないです,mi taku nai desu,not want to see(p)
+,English,Japanese,Fragment2,conjugation,見る,見たかったです,wanted to see(p),見たかったです,mi takatta desu,wanted to see(p)
+,English,Japanese,Fragment2,conjugation,見る,見たくなかったです,not wanted to see(p),見たくなかったです,mi taku nakatta desu,not wanted to see(p)
+,English,Japanese,Fragment2,conjugation,見る,見れる,can see,見れる,mire ru,can see
+,English,Japanese,Fragment2,conjugation,見る,見れない,can not see,見れない,mire nai,can not see
+,English,Japanese,Fragment2,conjugation,見る,見れた,could see,見れた,mire ta,could see
+,English,Japanese,Fragment2,conjugation,見る,見れなかった,could not see,見れなかった,mire nakatta,could not see
+,English,Japanese,Fragment2,conjugation,見る,見れます,can see(p),見れます,mire masu,can see(p)
+,English,Japanese,Fragment2,conjugation,見る,見れません,can not see(p),見れません,mire masen,can not see(p)
+,English,Japanese,Fragment2,conjugation,見る,見れました,could see(p),見れました,mire mashita,could see(p)
+,English,Japanese,Fragment2,conjugation,見る,見れませんでした,could not see(p),見れませんでした,mire masen deshita,could not see(p)
+,English,Japanese,Fragment2,conjugation,見る,見たことがある,have seen before,見た | ことが | ある,mita | koto ga | aru,saw | thing(ko) | there is
+,English,Japanese,Fragment2,conjugation,見る,見たことがない,have not seen before,見た | ことが | ない,mita | koto ga | nai,saw | thing(ko) | there is not
+,,,,,,,,,,1
+,English,Japanese,Fragment2,conjugation,きく,,,,,1
+,English,Japanese,Fragment2,conjugation,きく,,,,,1
+,English,Japanese,Fragment2,conjugation,きく,,,,,1
+,English,Japanese,Fragment2,conjugation,きく,,,,,1
+,English,Japanese,Fragment2,conjugation,きく,,,,,1
+,English,Japanese,Fragment2,conjugation,きく,,,,,1
+,English,Japanese,Fragment2,conjugation,きく,,,,,1
+,English,Japanese,Fragment2,conjugation,きく,,,,,1
+,English,Japanese,Fragment2,conjugation,きく,,,,,1
+,English,Japanese,Fragment2,conjugation,きく,,,,,1
+,English,Japanese,Fragment2,conjugation,きく,,,,,1
+,English,Japanese,Fragment2,conjugation,きく,,,,,1
+,English,Japanese,Fragment2,conjugation,きく,,,,,1
+,English,Japanese,Fragment2,conjugation,きく,,,,,1
+,English,Japanese,Fragment2,conjugation,きく,,,,,1
+,English,Japanese,Fragment2,conjugation,きく,,,,,1
+,English,Japanese,Fragment2,conjugation,きく,,,,,1
+,English,Japanese,Fragment2,conjugation,きく,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Fragment2,conjugation,食べる,,,,,1
+,English,Japanese,Fragment2,conjugation,食べる,,,,,1
+,English,Japanese,Fragment2,conjugation,食べる,,,,,1
+,English,Japanese,Fragment2,conjugation,食べる,,,,,1
+,English,Japanese,Fragment2,conjugation,食べる,,,,,1
+,English,Japanese,Fragment2,conjugation,食べる,,,,,1
+,English,Japanese,Fragment2,conjugation,食べる,,,,,1
+,English,Japanese,Fragment2,conjugation,食べる,,,,,1
+,English,Japanese,Fragment2,conjugation,食べる,,,,,1
+,English,Japanese,Fragment2,conjugation,食べる,,,,,1
+,English,Japanese,Fragment2,conjugation,食べる,,,,,1
+,English,Japanese,Fragment2,conjugation,食べる,,,,,1
+,English,Japanese,Fragment2,conjugation,食べる,,,,,1
+,English,Japanese,Fragment2,conjugation,食べる,,,,,1
+,English,Japanese,Fragment2,conjugation,食べる,,,,,1
+,English,Japanese,Fragment2,conjugation,食べる,,,,,1
+,English,Japanese,Fragment2,conjugation,食べる,,,,,1
+,English,Japanese,Fragment2,conjugation,食べる,,,,,1

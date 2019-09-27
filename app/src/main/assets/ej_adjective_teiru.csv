@@ -1,0 +1,86 @@
+id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku
+,English,Japanese,Adjective,teiru-Adjective,酔っている / drunk,酔っていますか？,,酔っていますか？,,1
+ている形容詞,English,Japanese,Adjective,teiru-Adjective,酔っている / drunk,はい、酔っています,,はい、酔っています,,1
+,English,Japanese,Adjective,teiru-Adjective,酔っている / drunk,いいえ、酔っていません,,いいえ、酔っていません,,1
+,,,,,,,,,,1
+私に似ている人,English,Japanese,Adjective,teiru-Adjective past,酔っている / drunk,昨日は少し酔っていましたか？,,昨日は少し酔っていましたか？,,1
+私に似た人,English,Japanese,Adjective,teiru-Adjective past,酔っている / drunk,はい、酔っていました,,はい、酔っていました,,1
+酔っている,English,Japanese,Adjective,teiru-Adjective past,酔っている / drunk,いいえ、酔っていませんでした,,いいえ、酔っていませんでした,,1
+,,,,,,,,,,1
+酔った人,English,Japanese,Adjective,teiru-Adjective + のは( nowa ),酔っている / drunk,昨日1番酔っていたのは誰ですか？,,昨日1番酔っていたのは誰ですか？,,1
+など一部は過去形に,English,Japanese,Adjective,teiru-Adjective + のは( nowa ),酔っている / drunk,私です,,私です,,1
+,,,,,,,,,,1
+変換可能,English,Japanese,Adjective,teiru-Adjective + noun,酔っている / drunk,酔っている時と酔っていない時はどっちが多いですか？,,酔っている時と酔っていない時はどっちが多いですか？,,1
+ただし、例外も多い,English,Japanese,Adjective,teiru-Adjective + noun,酔っている / drunk,酔っている時のほうが多いです,,酔っている時のほうが多いです,,1
+,,,,,,,,,,1
+,,,,,,,,,,1
+似合っている2パターン,English,Japanese,Adjective,teiru-Adjective,私に似合っている / looks good on me,この服は私に似合っていますか？,,この服は私に似合っていますか？,,1
+AはBに似合っている,English,Japanese,Adjective,teiru-Adjective,私に似合っている / looks good on me,はい、似合っています,,はい、似合っています,,1
+Cが似合っている,English,Japanese,Adjective,teiru-Adjective,私に似合っている / looks good on me,いいえ、似合っていません,,いいえ、似合っていません,,1
+,,,,,,,,,,1
+髪型が似合っている,English,Japanese,Adjective,teiru-Adjective past,私に似合っている / looks good on me,ウェディングドレスは私に似合っていましたか？,,ウェディングドレスは私に似合っていましたか？,,1
+現状の髪型,English,Japanese,Adjective,teiru-Adjective past,私に似合っている / looks good on me,はい、似合っていました,,はい、似合っていました,,1
+,English,Japanese,Adjective,teiru-Adjective past,私に似合っている / looks good on me,いいえ、似合っていませんでした,,いいえ、似合っていませんでした,,1
+ツインテールが似合う,,,,,,,,,,1
+まだツインテールにしていない,English,Japanese,Adjective,teiru-Adjective + のは( nowa ),私に似合っている / looks good on me,この中で1番私に似合っているのはどの服ですか？,,この中で1番私に似合っているのはどの服ですか？,,1
+,English,Japanese,Adjective,teiru-Adjective + のは( nowa ),私に似合っている / looks good on me,この服です,,この服です,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,teiru-Adjective + noun,髪型が似合っている / hair style looks good ,クラスの中で髪形が似合っている人は何人くらいいますか？,,クラスの中で髪形が似合っている人は何人くらいいますか？,,1
+,English,Japanese,Adjective,teiru-Adjective + noun,髪型が似合っている / hair style looks good ,あまり多くないです,,あまり多くないです,,1
+,,,,,,,,,,1
+,,,,,,,,,,1
+AとBが似ている,English,Japanese,Adjective,teiru-Adjective,性格が似ている / personality is similar,彼は、私と性格が似ていますか？,,彼は、私と性格が似ていますか？,,1
+,English,Japanese,Adjective,teiru-Adjective,性格が似ている / personality is similar,はい、似ています,,はい、似ています,,1
+,English,Japanese,Adjective,teiru-Adjective,性格が似ている / personality is similar,いいえ、似ていません,,いいえ、似ていません,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,teiru-Adjective past,顔が似ている / face looks similar ,彼女は、私と顔が似ていましたか？,,彼女は、私と顔が似ていましたか？,,1
+,English,Japanese,Adjective,teiru-Adjective past,顔が似ている / face looks similar ,はい、似ていました,,はい、似ていました,,1
+,English,Japanese,Adjective,teiru-Adjective past,顔が似ている / face looks similar ,いいえ、似ていませんでした,,いいえ、似ていませんでした,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,teiru-Adjective + のは( nowa ),雰囲気が似ている / atmosphere is similar,1番彼女と雰囲気が似ているのは誰ですか？,,1番彼女と雰囲気が似ているのは誰ですか？,,1
+,English,Japanese,Adjective,teiru-Adjective + のは( nowa ),雰囲気が似ている / atmosphere is similar,yournameさんです,,yournameさんです,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,teiru-Adjective + noun,趣味が似ている / hobby is similar ,クラスの中で私と趣味が似ている人は何人くらいいますか？,,クラスの中で私と趣味が似ている人は何人くらいいますか？,,1
+,English,Japanese,Adjective,teiru-Adjective + noun,趣味が似ている / hobby is similar ,ほとんどいません,,ほとんどいません,,1
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,teiru-Adjective,合っている / correct,この答えは合っていますか？,,この答えは合っていますか？,,1
+,English,Japanese,Adjective,teiru-Adjective,合っている / correct,はい、合っています,,はい、合っています,,1
+,English,Japanese,Adjective,teiru-Adjective,合っている / correct,いいえ、間違っています,,いいえ、間違っています,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,teiru-Adjective past,合っている / correct,さっきの答えは合っていましたか？,,さっきの答えは合っていましたか？,,1
+,English,Japanese,Adjective,teiru-Adjective past,合っている / correct,はい、合っていました,,はい、合っていました,,1
+,English,Japanese,Adjective,teiru-Adjective past,合っている / correct,いいえ、間違っていました,,いいえ、間違っていました,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,teiru-Adjective + のは( nowa ),合っている / correct,この中で合っているのは全部でいくつですか？,,この中で合っているのは全部でいくつですか？,,1
+,English,Japanese,Adjective,teiru-Adjective + のは( nowa ),合っている / correct,全部で3つです,,全部で3つです,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,teiru-Adjective + noun,合っている / correct,この中で合っている答えと間違っている答えはどっちが多いですか？,,この中で合っている答えと間違っている答えはどっちが多いですか？,,1
+,English,Japanese,Adjective,teiru-Adjective + noun,合っている / correct,合っている答えのほうが多いです,,合っている答えのほうが多いです,,1
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,teiru-Adjective,間違っている / wrong,この答えは間違っていますか？,,この答えは間違っていますか？,,1
+,English,Japanese,Adjective,teiru-Adjective,間違っている / wrong,はい、間違っています,,はい、間違っています,,1
+,English,Japanese,Adjective,teiru-Adjective,間違っている / wrong,いいえ、合っています,,いいえ、合っています,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,teiru-Adjective past,間違っている / wrong,さっきの答えは間違っていましたか？,,さっきの答えは間違っていましたか？,,1
+,English,Japanese,Adjective,teiru-Adjective past,間違っている / wrong,はい、間違っていました,,はい、間違っていました,,1
+,English,Japanese,Adjective,teiru-Adjective past,間違っている / wrong,いいえ、合っていました,,いいえ、合っていました,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,teiru-Adjective + のは( nowa ),間違っている / wrong,この中で間違っているのは全部でいくつですか？,,この中で間違っているのは全部でいくつですか？,,1
+,English,Japanese,Adjective,teiru-Adjective + のは( nowa ),間違っている / wrong,全部で5つです,,全部で5つです,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,teiru-Adjective + noun,間違っている / wrong,この中で合っている答えと間違っている答えはどっちが多いですか？,,この中で合っている答えと間違っている答えはどっちが多いですか？,,1
+,English,Japanese,Adjective,teiru-Adjective + noun,間違っている / wrong,間違っている答えのほうが多いです,,間違っている答えのほうが多いです,,1
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,teiru-Adjective,年を取っている / old,,,,,1
+,English,Japanese,Adjective,teiru-Adjective,年を取っている / old,,,,,1
+,English,Japanese,Adjective,teiru-Adjective,年を取っている / old,,,,,1
+,English,Japanese,Adjective,teiru-Adjective,年を取っている / old,,,,,1
+,English,Japanese,Adjective,teiru-Adjective,年を取っている / old,,,,,1
+,English,Japanese,Adjective,teiru-Adjective,年を取っている / old,,,,,1
+,English,Japanese,Adjective,teiru-Adjective,年を取っている / old,,,,,1
+,English,Japanese,Adjective,teiru-Adjective,年を取っている / old,,,,,1
+,English,Japanese,Adjective,teiru-Adjective,年を取っている / old,,,,,1
+,English,Japanese,Adjective,teiru-Adjective,年を取っている / old,,,,,1

@@ -1,0 +1,35 @@
+id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku
+ね,English,Japanese,Verb3,ね、で、と、の、よ,行く( いく ) / go,そろそろ行くね,I am going soon.,そろそろ | 行く | ね,sorosoro | iku | ne,soon | go | (alert ne)
+ないで,English,Japanese,Verb3,ね、で、と、の、よ,行く( いく ) / go,まだ行かないで,Don''t go yet.,まだ行かないで,mada | ika nai de,yet | not go(te)
+ないと,English,Japanese,Verb3,ね、で、と、の、よ,行く( いく ) / go,もう行かないと,I have to go already.,もう | 行かない | と,mo- | ika nai | to,already | not go | if so(to)
+の？,English,Japanese,Verb3,ね、で、と、の、よ,行く( いく ) / go,本当に行くの？,Are you sure?,本当に | 行く | の？,honto- ni | iku | no？,really | go | (confirmation)?
+よ,English,Japanese,Verb3,ね、で、と、の、よ,行く( いく ) / go,行くよ,I am going.,行く | よ,iku | yo,go | (alert yo)
+,,,,,,,,,,1
+,English,Japanese,Verb3,ね、で、と、の、よ,寝る( ねる ) / go to bed,そろそろ寝るね,I am going to bed soon.,そろそろ寝るね,,1
+,English,Japanese,Verb3,ね、で、と、の、よ,寝る( ねる ) / go to bed,まだ寝ないで,Don''t go to bed yet.,まだ寝ないで,,1
+行くよ,English,Japanese,Verb3,ね、で、と、の、よ,寝る( ねる ) / go to bed,もう寝ないと,I have to go to bed already.,もう寝ないと,,1
+行くぜ,English,Japanese,Verb3,ね、で、と、の、よ,寝る( ねる ) / go to bed,本当に寝るの？,Are you sure?,本当に寝るの？,,1
+行くね,English,Japanese,Verb3,ね、で、と、の、よ,寝る( ねる ) / go to bed,寝るよ,I am going to bed.,寝るよ,,1
+行くわ,,,,,,,,,,1
+行くの？,English,Japanese,Verb3,ね、で、と、の、よ,店を開ける( みせをあける ) / open the store,そろそろ店を開けるね,I am going to open the store soon.,そろそろ店を開けるね,,1
+行くさ,English,Japanese,Verb3,ね、で、と、の、よ,店を開ける( みせをあける ) / open the store,まだ開けないで,Don''t open yet.,まだ開けないで,,1
+行くと～,English,Japanese,Verb3,ね、で、と、の、よ,店を開ける( みせをあける ) / open the store,もう開けないと,I have to open it already.,もう開けないと,,1
+行くか？,English,Japanese,Verb3,ね、で、と、の、よ,店を開ける( みせをあける ) / open the store,本当に開けるの？,Are you sure?,本当に開けるの？,,1
+行くな,English,Japanese,Verb3,ね、で、と、の、よ,店を開ける( みせをあける ) / open the store,開けるよ,I am going to open it.,開けるよ,,1
+,,,,,,,,,,1
+行くかな,English,Japanese,Verb3,ね、で、と、の、よ,店を閉める( みせをしめる ) / close the store,そろそろ店を閉めるね,I am going to close the store soon.,そろそろ店を閉めるね,,1
+行くかな？,English,Japanese,Verb3,ね、で、と、の、よ,店を閉める( みせをしめる ) / close the store,まだ閉めないで,Don''t close yet.,まだ閉めないで,,1
+行こうかな,English,Japanese,Verb3,ね、で、と、の、よ,店を閉める( みせをしめる ) / close the store,もう閉めないと,I have to close it already.,もう閉めないと,,1
+行くよね,English,Japanese,Verb3,ね、で、と、の、よ,店を閉める( みせをしめる ) / close the store,本当に閉めるの？,Are you sure?,本当に閉めるの？,,1
+働くなあ,English,Japanese,Verb3,ね、で、と、の、よ,店を閉める( みせをしめる ) / close the store,閉めるよ,I am going to close it.,閉めるよ,,1
+働くかあ,,,,,,,,,,1
+食べるねえ,English,Japanese,Verb3,ね、で、と、の、よ,電気を消す( でんきをけす ) / turn off the light,そろそろ電気を消すね,I am going to turn off the light soon.,そろそろ電気を消すね,,1
+,English,Japanese,Verb3,ね、で、と、の、よ,電気を消す( でんきをけす ) / turn off the light,まだ消さないで,Don''t turn it off yet.,まだ消さないで,,1
+行こう,English,Japanese,Verb3,ね、で、と、の、よ,電気を消す( でんきをけす ) / turn off the light,もう消さないと,I have to turn it off already.,もう消さないと,,1
+行こうとする,English,Japanese,Verb3,ね、で、と、の、よ,電気を消す( でんきをけす ) / turn off the light,本当に消すの？,Are you sure?,本当に消すの？,,1
+行こうと思う,English,Japanese,Verb3,ね、で、と、の、よ,電気を消す( でんきをけす ) / turn off the light,消すよ,I am going to turn it off.,消すよ,,1
+,,,,,,,,,,1
+,,,,,,,,,,1
+,,,,,,,,,,1
+casual,,,,,,,,,,1
+polite,,,,,,,,,,1

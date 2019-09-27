@@ -1,0 +1,42 @@
+id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku
+,English,Japanese,Adjective,aru-nai-Adjective,人気がある / popular,この女優は日本で人気がありますか？,,この女優は日本で人気がありますか？,,1
+あるない形容詞,English,Japanese,Adjective,aru-nai-Adjective,人気がある / popular,はい、あります,,はい、あります,,1
+,English,Japanese,Adjective,aru-nai-Adjective,人気がある / popular,いいえ、ありません,,いいえ、ありません,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,aru-nai-Adjective past,人気がある / popular,この作家は昔、人気がありましたか？,,この作家は昔、人気がありましたか？,,1
+人気のある、ない,English,Japanese,Adjective,aru-nai-Adjective past,人気がある / popular,はい、すごく人気がありました,,はい、すごく人気がありました,,1
+意味のある、ない,English,Japanese,Adjective,aru-nai-Adjective past,人気がある / popular,いいえ、あまり人気がありませんでした,,いいえ、あまり人気がありませんでした,,1
+,,,,,,,,,,1
+魅力のある、ない,English,Japanese,Adjective,aru-nai-Adjective + のは( nowa ),人気がある / popular,日本で1番人気があるのは誰ですか？,,日本で1番人気があるのは誰ですか？,,1
+,English,Japanese,Adjective,aru-nai-Adjective + のは( nowa ),人気がある / popular,yournameさんです,,yournameさんです,,1
+,,,,,,,,,,1
+その他,English,Japanese,Adjective,aru-nai-Adjective + noun,人気がある / popular,人気がある女優と人気がない女優はどっちが多いですか？,,人気がある女優と人気がない女優はどっちが多いですか？,,1
+,English,Japanese,Adjective,aru-nai-Adjective + noun,人気がある / popular,人気がない女優のほうが圧倒的に多いです,,人気がない女優のほうが圧倒的に多いです,,1
+,,,,,,,,,,1
+,,,,,,,,,,1
+違う,English,Japanese,Adjective,other Adjectives,性能が違う / performance is different,このPCは、あのPCと性能が違いますか？,,このPCは、あのPCと性能が違いますか？,,1
+どう違う,English,Japanese,Adjective,other Adjectives,性能が違う / performance is different,はい、違います,,はい、違います,,1
+,English,Japanese,Adjective,other Adjectives,性能が違う / performance is different,いいえ、同じです,,いいえ、同じです,,1
+wrong と different,English,Japanese,Adjective,other Adjectives,性能が違う / performance is different,どう違いますか？,,どう違いますか？,,1
+,English,Japanese,Adjective,other Adjectives,性能が違う / performance is different,CPUが違います,,CPUが違います,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,other Adjectives + のは( nowa ),やる気が違う / passion is different,彼が他の人と1番違うのは何ですか？,,彼が他の人と1番違うのは何ですか？,,1
+,English,Japanese,Adjective,other Adjectives + のは( nowa ),やる気が違う / passion is different,やる気です,,やる気です,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,other Adjectives,違う / not be -,このスマホはyournameさんのですか？,,このスマホはyournameさんのですか？,,1
+～は正しいですか？,English,Japanese,Adjective,other Adjectives,違う / not be -,はい、そうです,,はい、そうです,,1
+正しい,English,Japanese,Adjective,other Adjectives,違う / not be -,いいえ、違います,,いいえ、違います,,1
+合っている,,,,,,,,,,1
+vs,,,,,,,,,,1
+間違っている or,,,,,,,,,,1
+違う,,,,,,,,,,1
+,,,,,,,,,,1
+～は～ですか？,,,,,,,,,,1
+そうだ,,,,,,,,,,1
+vs,,,,,,,,,,1
+違う,,,,,,,,,,1
+,,,,,,,,,,1
+～と～は同じですか？,,,,,,,,,,1
+同じだ,,,,,,,,,,1
+vs,,,,,,,,,,1
+違う,,,,,,,,,,1

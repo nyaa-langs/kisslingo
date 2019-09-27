@@ -1,0 +1,44 @@
+id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku
+ている,English,Japanese,Verb,V-ing ,フランス語を勉強する / study French,今、フランス語を勉強していますか？,,今、フランス語を勉強していますか？,,1
+,English,Japanese,Verb,V-ing ,フランス語を勉強する / study French,はい、しています,,はい、しています,,1
+,English,Japanese,Verb,V-ing ,フランス語を勉強する / study French,いいえ、していません,,いいえ、していません,,1
+,,,,,,,,,,1
+,English,Japanese,Verb,V-ing past,フランス語を勉強する / study French,午前中、フランス語を勉強していましたか？,,午前中、フランス語を勉強していましたか？,,1
+,English,Japanese,Verb,V-ing past,フランス語を勉強する / study French,はい、していました,,はい、していました,,1
+,English,Japanese,Verb,V-ing past,フランス語を勉強する / study French,いいえ、していませんでした,,いいえ、していませんでした,,1
+,,,,,,,,,,1
+持っている、知っている,,,,,,,,,,1
+は例外的,English,Japanese,Verb,V-ing ,寮で寝る / sleep at the dormitory,彼は今、寮で寝ていますか？,,彼は今、寮で寝ていますか？,,1
+,English,Japanese,Verb,V-ing ,寮で寝る / sleep at the dormitory,はい、寝ています,,はい、寝ています,,1
+,English,Japanese,Verb,V-ing ,寮で寝る / sleep at the dormitory,いいえ、寝ていません,,いいえ、寝ていません,,1
+,,,,,,,,,,1
+,English,Japanese,Verb,V-ing past,寮で寝る / sleep at the dormitory,彼はさっき、寮で寝ていましたか？,,彼はさっき、寮で寝ていましたか？,,1
+,English,Japanese,Verb,V-ing past,寮で寝る / sleep at the dormitory,はい、寝ていました,,はい、寝ていました,,1
+例外,English,Japanese,Verb,V-ing past,寮で寝る / sleep at the dormitory,いいえ、寝ていませんでした,,いいえ、寝ていませんでした,,1
+知っています,,,,,,,,,,1
+知りません,,,,,,,,,,1
+知っていました,English,Japanese,Verb,have / know / live,車を持っている / have a car,車を持っていますか？,,車を持っていますか？,,1
+知らなかったです,English,Japanese,Verb,have / know / live,車を持っている / have a car,はい、持っています,,はい、持っています,,1
+,English,Japanese,Verb,have / know / live,車を持っている / have a car,いいえ、持っていません,,いいえ、持っていません,,1
+,,,,,,,,,,1
+,English,Japanese,Verb,have / know / live past,車を持っている / have a car,学生の時、車を持っていましたか？,,学生の時、車を持っていましたか？,,1
+動きがない系動詞,English,Japanese,Verb,have / know / live past,車を持っている / have a car,はい、持っていました,,はい、持っていました,,1
+,English,Japanese,Verb,have / know / live past,車を持っている / have a car,いいえ、持っていませんでした,,いいえ、持っていませんでした,,1
+座っている,,,,,,,,,,1
+立っている,,,,,,,,,,1
+笑っている,English,Japanese,Verb,have / know / live,太陽という人を知っている / know a person named the sun,太陽という人を知っていますか？,,太陽という人を知っていますか？,,1
+泣いている,English,Japanese,Verb,have / know / live,太陽という人を知っている / know a person named the sun,はい、知っています,,はい、知っています,,1
+,English,Japanese,Verb,have / know / live,太陽という人を知っている / know a person named the sun,いいえ、知りません,,いいえ、知りません,,1
+待っている,,,,,,,,,,1
+聞いている,English,Japanese,Verb,have / know / live past,太陽という人を知っている / know a person named the sun,もともと太陽という人を知っていましたか？,,もともと太陽という人を知っていましたか？,,1
+話している,English,Japanese,Verb,have / know / live past,太陽という人を知っている / know a person named the sun,はい、知っていました,,はい、知っていました,,1
+,English,Japanese,Verb,have / know / live past,太陽という人を知っている / know a person named the sun,いいえ、もともとは知りませんでした,,いいえ、もともとは知りませんでした,,1
+,,,,,,,,,,1
+笑ってください,,,,,,,,,,1
+笑わないでください,English,Japanese,Verb,have / know / live,京都に住んでいる / live in Kyoto,京都に住んでいますか？,,京都に住んでいますか？,,1
+笑ったらだめです,English,Japanese,Verb,have / know / live,京都に住んでいる / live in Kyoto,はい、住んでいます,,はい、住んでいます,,1
+など動詞によって相性のよい,English,Japanese,Verb,have / know / live,京都に住んでいる / live in Kyoto,いいえ、住んでいません,,いいえ、住んでいません,,1
+動詞型がある,,,,,,,,,,1
+,English,Japanese,Verb,have / know / live past,京都に住んでいる / live in Kyoto,子供の時、京都に住んでいましたか？,,子供の時、京都に住んでいましたか？,,1
+,English,Japanese,Verb,have / know / live past,京都に住んでいる / live in Kyoto,はい、住んでいました,,はい、住んでいました,,1
+,English,Japanese,Verb,have / know / live past,京都に住んでいる / live in Kyoto,いいえ、住んでいませんでした,,いいえ、住んでいませんでした,,1

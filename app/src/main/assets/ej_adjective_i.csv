@@ -1,0 +1,115 @@
+id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku
+,English,Japanese,Adjective,i-Adjective,忙しい( いそがしい ) / busy,今日は忙しいですか？,Are you busy today?,今日は忙しいですか？,,1
+い形容詞,English,Japanese,Adjective,i-Adjective,忙しい( いそがしい ) / busy,とても忙しいです,Very busy.,とても忙しいです,,1
+,English,Japanese,Adjective,i-Adjective,忙しい( いそがしい ) / busy,忙しいほうです,Relatively busy.,忙しいほうです,,1
+人,English,Japanese,Adjective,i-Adjective,忙しい( いそがしい ) / busy,まあまあ忙しいです,Somewhat busy.,まあまあ忙しいです,,1
+Sはやさしい,English,Japanese,Adjective,i-Adjective,忙しい( いそがしい ) / busy,普通です,Normal.,普通です,,1
+Sは性格が悪い,English,Japanese,Adjective,i-Adjective,忙しい( いそがしい ) / busy,そんなに忙しくないです,Not that busy.,そんなに忙しくないです,,1
+Sは背が高い,English,Japanese,Adjective,i-Adjective,忙しい( いそがしい ) / busy,全然忙しくないです,Not busy at all.,全然忙しくないです,,1
+Sは走るのが速い,English,Japanese,Adjective,i-Adjective,忙しい( いそがしい ) / busy,最近忙しすぎると思います,I think too busy recently.,最近忙しすぎると思います,,1
+,,,,,,,,,,1
+Sはこの意見に反対だ,English,Japanese,Adjective,i-Adjective past,忙しい( いそがしい ) / busy,昨日は忙しかったですか？,Were you busy yesterday?,昨日は忙しかったですか？,,1
+Sは意地悪だ,English,Japanese,Adjective,i-Adjective past,忙しい( いそがしい ) / busy,はい、忙しかったです,Yes...I was.,はい、忙しかったです,,1
+Sは一生懸命だ,English,Japanese,Adjective,i-Adjective past,忙しい( いそがしい ) / busy,いいえ、忙しくなかったです,No...I was not.,いいえ、忙しくなかったです,,1
+,,,,,,,,,,1
+Sは単純だ,English,Japanese,Adjective,i-Adjective + nowa,忙しい( いそがしい ) / busy,1番忙しいのはいつですか？,When is the busiest?,1番忙しいのはいつですか？,,1
+Sは目が不自由だ,English,Japanese,Adjective,i-Adjective + nowa,忙しい( いそがしい ) / busy,夕方です,Evening.,夕方です,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,i-Adjective + nown,忙しい( いそがしい ) / busy,忙しい日と忙しくない日はどっちのほうが多いですか？,Which are there more of...busy day or not busy day?,忙しい日と忙しくない日はどっちのほうが多いですか？,,1
+,English,Japanese,Adjective,i-Adjective + nown,忙しい( いそがしい ) / busy,忙しくない日のほうが多いです,There are more busy days.,忙しくない日のほうが多いです,,1
+,,,,,,,,,,1
+時間,,,,,,,,,,1
+今日は寒い,English,Japanese,Adjective,i-Adjective,背が高い( せがたかい ) / tall ,彼は背が高いですか？,Is he tall?,彼は背が高いですか？,,1
+今日は星がきれいだ,English,Japanese,Adjective,i-Adjective,背が高い( せがたかい ) / tall ,とても高いです,Very tall.,とても高いです,,1
+今日は人が少ない,English,Japanese,Adjective,i-Adjective,背が高い( せがたかい ) / tall ,高いほうです,Relatively tall.,高いほうです,,1
+午後は自由だ,English,Japanese,Adjective,i-Adjective,背が高い( せがたかい ) / tall ,まあまあ背が高いです,Somewhat tall.,まあまあ背が高いです,,1
+,English,Japanese,Adjective,i-Adjective,背が高い( せがたかい ) / tall ,普通です,Normal.,普通です,,1
+場所,English,Japanese,Adjective,i-Adjective,背が高い( せがたかい ) / tall ,そんなに高くないです,Not that tall.,そんなに高くないです,,1
+ここは暑い,English,Japanese,Adjective,i-Adjective,背が高い( せがたかい ) / tall ,全然高くないです,Not tall at all.,全然高くないです,,1
+ここは風が強い,English,Japanese,Adjective,i-Adjective,背が高い( せがたかい ) / tall ,彼は背が高すぎると思います,I think he is too tall.,彼は背が高すぎると思います,,1
+,,,,,,,,,,1
+ここは人が多い,English,Japanese,Adjective,i-Adjective past,背が高い( せがたかい ) / tall ,子供の時、背が高かったですか？,Were you tall when you were a kid?,子供の時、背が高かったですか？,,1
+ここは景色がきれいだ,English,Japanese,Adjective,i-Adjective past,背が高い( せがたかい ) / tall ,はい、高かったです,Yes..I was.,はい、高かったです,,1
+ここは空気が新鮮だ,English,Japanese,Adjective,i-Adjective past,背が高い( せがたかい ) / tall ,いいえ、高くなかったです,No..I was not.,いいえ、高くなかったです,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,i-Adjective + nowa,背が高い( せがたかい ) / tall ,この中で1番背が高いのは誰ですか？,Who here is the tallest?,この中で1番背が高いのは誰ですか？,,1
+物、事,English,Japanese,Adjective,i-Adjective + nowa,背が高い( せがたかい ) / tall ,yournameさんです,yourname.,yournameさんです,,1
+,,,,,,,,,,1
+この本は面白い,English,Japanese,Adjective,i-Adjective + nown,背が高い( せがたかい ) / tall ,背が高い人と背が高くない人はどっちのほうが好きですか？,Which do you like better...tall person or short person?,背が高い人と背が高くない人はどっちのほうが好きですか？,,1
+この映画は音楽がよい,English,Japanese,Adjective,i-Adjective + nown,背が高い( せがたかい ) / tall ,背が高い人のほうが好きです,I like a tall person better.,背が高い人のほうが好きです,,1
+,,,,,,,,,,1
+この情報は確かだ,,,,,,,,,,1
+あの机は邪魔だ,English,Japanese,Adjective,i-Adjective,優しい / kind ,彼女は優しいですか？,Is she kind?,彼女は優しいですか？,,1
+駅はここから近い,English,Japanese,Adjective,i-Adjective,優しい / kind ,とても優しいです,Very kind.,とても優しいです,,1
+太陽は大きい,English,Japanese,Adjective,i-Adjective,優しい / kind ,優しいほうです,Relatively kind.,優しいほうです,,1
+どうするかは自由だ,English,Japanese,Adjective,i-Adjective,優しい / kind ,まあまあ優しいです,Somewhat kind.,まあまあ優しいです,,1
+行先は自由だ,English,Japanese,Adjective,i-Adjective,優しい / kind ,普通です,Normal.,普通です,,1
+今日の会議は重要だ,English,Japanese,Adjective,i-Adjective,優しい / kind ,そんなに優しくないです,Not that kind.,そんなに優しくないです,,1
+遅刻は駄目だ,English,Japanese,Adjective,i-Adjective,優しい / kind ,全然優しくないです,Not kind at all.,全然優しくないです,,1
+いじめは駄目だ,English,Japanese,Adjective,i-Adjective,優しい / kind ,彼女は優しすぎると思います,I think she is too kind.,彼女は優しすぎると思います,,1
+,,,,,,,,,,1
+この車は必要だ,English,Japanese,Adjective,i-Adjective past,優しい / kind ,彼女は子供の時、優しかったですか？,Was she kind when she was a kid?,彼女は子供の時、優しかったですか？,,1
+この魚は新鮮だ,English,Japanese,Adjective,i-Adjective past,優しい / kind ,はい、優しかったです,Yes...she was.,はい、優しかったです,,1
+ここの魚は新鮮だ,English,Japanese,Adjective,i-Adjective past,優しい / kind ,いいえ、優しくなかったです,No...she was not.,いいえ、優しくなかったです,,1
+,,,,,,,,,,1
+この問題は単純だ,English,Japanese,Adjective,i-Adjective + nowa,優しい / kind ,1番優しいのは誰ですか？,Who is the kindest?,1番優しいのは誰ですか？,,1
+その表現はオーバーだ,English,Japanese,Adjective,i-Adjective + nowa,優しい / kind ,yournameさんです,yourname.,yournameさんです,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,i-Adjective + nown,優しい / kind ,優しい人と優しくない人はどっちのほうが好きですか？,Which do you like better...kind person or not kind person?,優しい人と優しくない人はどっちのほうが好きですか？,,1
+ex1,English,Japanese,Adjective,i-Adjective + nown,優しい / kind ,もちろん優しい人のほうが好きです,I like a kind person better of course.,もちろん優しい人のほうが好きです,,1
+,,,,,,,,,,1
+かなしい,,,,,,,,,,1
+さみしい,English,Japanese,Adjective,i-Adjective,面白い / interesting,このゲームは面白いですか？,Is this game interesting?,このゲームは面白いですか？,,1
+うれしい,English,Japanese,Adjective,i-Adjective,面白い / interesting,とても面白いです,Very interesting.,とても面白いです,,1
+つらい,English,Japanese,Adjective,i-Adjective,面白い / interesting,面白いほうです,Relatively interesting.,面白いほうです,,1
+眠い,English,Japanese,Adjective,i-Adjective,面白い / interesting,まあまあ面白いです,Somewhat interesting.,まあまあ面白いです,,1
+Sはうれしそうだ...etc,English,Japanese,Adjective,i-Adjective,面白い / interesting,普通です,Normal.,普通です,,1
+,English,Japanese,Adjective,i-Adjective,面白い / interesting,そんなに面白くないです,Not that interesting.,そんなに面白くないです,,1
+ex2,English,Japanese,Adjective,i-Adjective,面白い / interesting,全然面白くないです,Not interesting at all.,全然面白くないです,,1
+ほしい,English,Japanese,Adjective,i-Adjective,面白い / interesting,面白すぎると思います,I think it''s too interesting.,面白すぎると思います,,1
+,,,,,,,,,,1
+好きだ,English,Japanese,Adjective,i-Adjective past,面白い / interesting,この漫画は面白かったですか？,Was this manga interesting?,この漫画は面白かったですか？,,1
+必要だ,English,Japanese,Adjective,i-Adjective past,面白い / interesting,はい、面白かったです,Yes...it was.,はい、面白かったです,,1
+,English,Japanese,Adjective,i-Adjective past,面白い / interesting,いいえ、面白くなかったです,No...it was not.,いいえ、面白くなかったです,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,i-Adjective + nowa,面白い / interesting,1番面白いのはどの漫画ですか？,Which manga is the most interesting?,1番面白いのはどの漫画ですか？,,1
+look busy-忙しそうです,English,Japanese,Adjective,i-Adjective + nowa,面白い / interesting,これです,This one.,これです,,1
+,,,,,,,,,,1
+heard busy-忙しいそうです,English,Japanese,Adjective,i-Adjective + nown,面白い / interesting,面白いゲームと面白くないゲームはどっちが多いですか？,Which are there more of...interesting game or not interesting game?,面白いゲームと面白くないゲームはどっちが多いですか？,,1
+,English,Japanese,Adjective,i-Adjective + nown,面白い / interesting,面白くないゲームのほうが多いです,There are more not interesting games.,面白くないゲームのほうが多いです,,1
+,,,,,,,,,,1
+,,,,,,,,,,1
+ex3,English,Japanese,Adjective,i-Adjective,風が強い / windy,ここは風が強いですか？,Is it windy here?,ここは風が強いですか？,,1
+...が...かわいそう,English,Japanese,Adjective,i-Adjective,風が強い / windy,とても強いです,Very windy.,とても強いです,,1
+,English,Japanese,Adjective,i-Adjective,風が強い / windy,強いほうです,Relatively windy.,強いほうです,,1
+,English,Japanese,Adjective,i-Adjective,風が強い / windy,まあまあ強いです,Somewhat windy.,まあまあ強いです,,1
+ex4,English,Japanese,Adjective,i-Adjective,風が強い / windy,普通です,Normal.,普通です,,1
+行っても+いい,English,Japanese,Adjective,i-Adjective,風が強い / windy,そんなに強くないです,Not that windy.,そんなに強くないです,,1
+行くのは+いい,English,Japanese,Adjective,i-Adjective,風が強い / windy,全然強くないです,Not windy at all.,全然強くないです,,1
+行ったら+駄目だ,English,Japanese,Adjective,i-Adjective,風が強い / windy,ここは風が強すぎると思います,I think it''s too windy here.,ここは風が強すぎると思います,,1
+,,,,,,,,,,1
+行くのは+駄目だ,English,Japanese,Adjective,i-Adjective past,風が強い / windy,昨日は風が強かったですか？,Was it windy yesterday?,昨日は風が強かったですか？,,1
+（動詞の応用で実装予定）,English,Japanese,Adjective,i-Adjective past,風が強い / windy,はい、強かったです,Yes...it was.,はい、強かったです,,1
+,English,Japanese,Adjective,i-Adjective past,風が強い / windy,いいえ、強くなかったです,No...it was not.,いいえ、強くなかったです,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,i-Adjective + nowa,風が強い / windy,1番風が強いのはどこですか？,Where is the windiest place?,1番風が強いのはどこですか？,,1
+,English,Japanese,Adjective,i-Adjective + nowa,風が強い / windy,山の上です,At the top of the mountain.,山の上です,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,i-Adjective + nown,風が強い / windy,風が強い日と強くない日はどっちが多いですか？,Which are there more of...windy day or not windy day?,風が強い日と強くない日はどっちが多いですか？,,1
+,English,Japanese,Adjective,i-Adjective + nown,風が強い / windy,風が強い日のほうが多いです,There are more windy days.,風が強い日のほうが多いです,,1
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,i-Adjective,正しい / right,この答えは正しいですか？,,この答えは正しいですか？,,1
+,English,Japanese,Adjective,i-Adjective,正しい / right,正しいです,,正しいです,,1
+,English,Japanese,Adjective,i-Adjective,正しい / right,どちらとも言えません,,どちらとも言えません,,1
+,English,Japanese,Adjective,i-Adjective,正しい / right,正しくないです,,正しくないです,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,i-Adjective past,正しい / right,彼の答えは正しかったですか？,,彼の答えは正しかったですか？,,1
+,English,Japanese,Adjective,i-Adjective past,正しい / right,はい、正しかったです,,はい、正しかったです,,1
+,English,Japanese,Adjective,i-Adjective past,正しい / right,いいえ、正しくなかったです,,いいえ、正しくなかったです,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,i-Adjective + nowa,正しい / right,この中で正しいのは誰の答えですか？,,この中で正しいのは誰の答えですか？,,1
+,English,Japanese,Adjective,i-Adjective + nowa,正しい / right,yournameさんの答えです,,yournameさんの答えです,,1
+,,,,,,,,,,1
+,English,Japanese,Adjective,i-Adjective + nown,正しい / right,正しい答えと正しくない答えはどっちが多いですか？,,正しい答えと正しくない答えはどっちが多いですか？,,1
+,English,Japanese,Adjective,i-Adjective + nown,正しい / right,正しい答えのほうが多いです,,正しい答えのほうが多いです,,1

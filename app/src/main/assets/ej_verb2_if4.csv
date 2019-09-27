@@ -1,0 +1,29 @@
+id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku
+,English,Japanese,Verb2,if + V,寝る / go to bed,寝るなら電気を消して寝てください,,寝るなら電気を消して寝てください,,1
+行くなら～,English,Japanese,Verb2,if + V,寝る / go to bed,今寝たら明日の試験に落ちるので寝ません,,今寝たら明日の試験に落ちるので寝ません,,1
+行く前に～する,,,,,,,,,,1
+,English,Japanese,Verb2,if + V,食べる / eat,食べるならTVを消して食べてください,,食べるならTVを消して食べてください,,1
+行ったら～,English,Japanese,Verb2,if + V,食べる / eat,今食べたら夕食を食べれなくなるので食べません,,今食べたら夕食を食べれなくなるので食べません,,1
+行った後に～する,,,,,,,,,,1
+,English,Japanese,Verb2,if + V,たばこを吸う / smoke,たばこを吸うならベランダに行って吸ってください,,たばこを吸うならベランダに行って吸ってください,,1
+,English,Japanese,Verb2,if + V,たばこを吸う / smoke,今吸ったら1年間の禁煙が無駄になるので吸いません,,今吸ったら1年間の禁煙が無駄になるので吸いません,,1
+,,,,,,,,,,1
+,English,Japanese,Verb2,if + V,電話をする / make a phone call,電話をするなら部屋の外に出てしてください,,電話をするなら部屋の外に出てしてください,,1
+,English,Japanese,Verb2,if + V,電話をする / make a phone call,今電話したら上司に怒られるのでしません,,今電話したら上司に怒られるのでしません,,1
+,,,,,,,,,,1
+if3,English,Japanese,Verb2,if + V,本を読む / read a book,本を読むなら電気をつけて読んでください,,本を読むなら電気をつけて読んでください,,1
+するなら,English,Japanese,Verb2,if + V,本を読む / read a book,今読んだら寝れなくなるので読みません,,今読んだら寝れなくなるので読みません,,1
+したら,,,,,,,,,,1
+すれば,English,Japanese,Verb2,if + V,お酒を飲む / drink alcohol,お酒を飲むなら一緒に飲みたいので呼んでください,,お酒を飲むなら一緒に飲みたいので呼んでください,,1
+,English,Japanese,Verb2,if + V,お酒を飲む / drink alcohol,今飲んだら会議に出席できなくなるので飲みません,,今飲んだら会議に出席できなくなるので飲みません,,1
+Nさえすれば,,,,,,,,,,1
+,,,,,,,,,,1
+if do(na)-するなら,,,,,,,,,,1
+if do(ra)-したら,,,,,,,,,,1
+if do(to)-すると,,,,,,,,,,1
+if do(ba)-すれば,,,,,,,,,,1
+,,,,,,,,,,1
+only(sa)-さえ,,,,,,,,,,1
+only(da)-だけ,,,,,,,,,,1
+,,,,,,,,,,1
+if it is-名詞＋なら,,,,,,,,,,1

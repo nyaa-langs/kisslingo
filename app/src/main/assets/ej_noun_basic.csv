@@ -1,0 +1,146 @@
+id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku
+,English,Japanese,Noun,S is ,I / he / she,私は先生です,I am a teacher.,私は | 先生 | です,watashi wa | sensei | desu,I | teacher | is(polite)
+,English,Japanese,Noun,S is ,I / he / she,私はマイケルです,I am Michael.,私は | マイケル | です,watashi wa | maikeru | desu,I | Michael | is(polite)
+,English,Japanese,Noun,S is ,I / he / she,彼は医者です,He is a doctor.,彼は | 医者 | です,kare wa | isha | desu,he | doctor | is(polite)
+,English,Japanese,Noun,S is ,I / he / she,彼女は私の妹です,She is my sister.,彼女は | 私の妹 | です,kanojo wa | watashi no imouto | desu,she | my sister | is(polite)
+,,,,,,,,,,1
+,English,Japanese,Noun,S is ,this / this - / here,これは私の車です,This is my car.,これは | 私の車 | です,kore wa | watashi no kuruma | desu,this | my car | is(polite)
+,English,Japanese,Noun,S is ,this / this - / here,私の車はこれです,My car is this one.,私の車は | これ | です,watashi no kuruma wa | kore | desu,my car | this | is(polite)
+,English,Japanese,Noun,S is ,this / this - / here,私の名前はマイケルです,My name is Michael.,私の名前は | マイケル | です,watashi no namae wa | maikeru | desu,my name | Michael | is(polite)
+,English,Japanese,Noun,S is ,this / this - / here,ここはトイレです,Here is the restroom.,ここは | トイレ | です,koko wa | toire | desu,here | restroom | is(polite)
+,English,Japanese,Noun,S is ,this / this - / here,トイレはここです,The restroom is here.,トイレは | ここ | です,toire wa | koko | desu,restroom | here | is(polite)
+,English,Japanese,Noun,S is ,this / this - / here,この財布は私のです,This wallet is mine.,この財布は | 私の | です,kono saifu wa | watashi no | desu,this wallet | mine | is(polite)
+,,,,,,,,,,1
+,English,Japanese,Noun,S is ,it / the - / there,それは私の荷物です,It is an apple.,それは | 私の荷物 | です,sore wa | watashi no nimotsu | desu,it | my luggage | is(p)
+,English,Japanese,Noun,S is ,it / the - / there,それは彼女の財布です,It is a fridge.,それは | 彼女の財布 | です,sore wa | kanojo no saifu | desu,それは | 彼女の財布 | です
+,English,Japanese,Noun,S is ,it / the - / there,そこは私の部屋です,It is my room.,そこは | 私の部屋 | です,soko wa | watashi no heya | desu,そこは | 私の部屋 | です
+,English,Japanese,Noun,S is ,it / the - / there,私の部屋はそこです,My room is there.,私の部屋は | そこ | です,watashi no heya wa | soko | desu,私の部屋は | そこ | です
+,English,Japanese,Noun,S is ,it / the - / there,その水はミネラルウォーターです,The water is mineral water.,その水は | ミネラルウォーター | です,sono mizu wa | mineraru wootaa | desu,その水は | ミネラルウォーター | です
+,English,Japanese,Noun,S is ,it / the - / there,そのスマホは彼のです,The smartphone is his.,そのスマホは | 彼の | です,sono sumaho wa | kare no | desu,そのスマホは | 彼の | です
+,,,,,,,,,,1
+,English,Japanese,Noun,S is ,that / that - / over there,あれは私の娘です,That is my daughter.,あれは | 私の娘 | です,are wa | watashi no musume | desu,1
+,English,Japanese,Noun,S is ,that / that - / over there,あれは彼女の家です,That is her house.,あれは | 彼女の家 | です,are wa | kanojo no ie | desu,1
+,English,Japanese,Noun,S is ,that / that - / over there,あそこは駅です,That is the station.,あそこは | 駅 | です,asoko wa | eki | desu,1
+,English,Japanese,Noun,S is ,that / that - / over there,駅はあそこです,The station is there.,駅は | あそこ | です,eki wa | asoko | desu,1
+,English,Japanese,Noun,S is ,that / that - / over there,あの建物は教会です,That building is the church.,あの建物は | 教会 | です,ano tatemono wa | kyoukai | desu,1
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Noun,S is not ,I / he / she,私は先生ではありません,I am not a teacher.,私は | 先生 | ではありません,watashi wa | sensei | dewa arimasen,1
+,English,Japanese,Noun,S is not ,I / he / she,彼は医者ではありません,He is not a doctor.,彼は | 医者 | ではありません,kare wa | isha | dewa arimasen,1
+,English,Japanese,Noun,S is not ,I / he / she,彼女は私の妹ではありません,She is not my sister.,彼女は | 私の妹 | ではありません,kanojo wa | watashi no imouto | dewa arimasen,1
+,,,,,,,,,,1
+,English,Japanese,Noun,S is not ,this / this - / here,これは私の車ではありません,This is not my car.,これは | 私の車 | ではありません,kore wa | watashi no kuruma | dewa arimasen,1
+,English,Japanese,Noun,S is not ,this / this - / here,私の車はこれではありません,My car is not this one.,私の車は | これ | ではありません,watashi no kuruma wa | kore | dewa arimasen,1
+,English,Japanese,Noun,S is not ,this / this - / here,ここはトイレではありません,This is not the restroom.,ここは | トイレ | ではありません,koko wa | toire | dewa arimasen,1
+,English,Japanese,Noun,S is not ,this / this - / here,トイレはここではありません,The restroom is not here.,トイレは | ここ | ではありません,toire wa | koko | dewa arimasen,1
+,English,Japanese,Noun,S is not ,this / this - / here,この財布は私のではありません,This wallet is not mine.,この財布は | 私の | ではありません,kono saifu wa | watashi no | dewa arimasen,1
+,,,,,,,,,,1
+,English,Japanese,Noun,S is not ,it / the - / there,それは私の荷物ではありません,It is not my luggage.,それは | 私の荷物 | ではありません,sore wa | watashi no nimotsu | dewa arimasen,1
+,English,Japanese,Noun,S is not ,it / the - / there,それは彼女の財布ではありません,It is not her wallet.,それは | 彼女の財布 | ではありません,sore wa | kanojo no saifu | dewa arimasen,1
+,English,Japanese,Noun,S is not ,it / the - / there,そこは私の部屋ではありません,It is not my room.,そこは | 私の部屋 | ではありません,soko wa | watashi no heya | dewa arimasen,1
+,English,Japanese,Noun,S is not ,it / the - / there,私の部屋はそこではありません,My room is there.,私の部屋は | そこ | ではありません,watashi no heya wa | soko | dewa arimasen,1
+,English,Japanese,Noun,S is not ,it / the - / there,その水はミネラルウォーターではありません,The water is not mineral water.,その水は | ミネラルウォーター | ではありません,sono mizu wa | mineraru wootaa | dewa arimasen,1
+,English,Japanese,Noun,S is not ,it / the - / there,そのスマホは彼のではありません,The smartphone is not his.,そのスマホは | 彼の | ではありません,sono sumaho wa | kare no | dewa arimasen,1
+,,,,,,,,,,1
+,English,Japanese,Noun,S is not ,that / that - / over there,あれは私の車ではありません,That is not my car.,あれは | 私の車 | ではありません,are wa | watashi no kuruma | dewa arimasen,1
+,English,Japanese,Noun,S is not ,that / that - / over there,あれは彼女の家ではありません,That is not her house.,あれは | 彼女の家 | ではありません,are wa | kanojo no ie | dewa arimasen,1
+,English,Japanese,Noun,S is not ,that / that - / over there,あそこは駅ではありません,That is not the station.,あそこは | 駅 | ではありません,asoko wa | eki | dewa arimasen,1
+,English,Japanese,Noun,S is not ,that / that - / over there,駅はあそこではありません,The station is not there.,駅は | あそこ | ではありません,eki wa | asoko | dewa arimasen,1
+,English,Japanese,Noun,S is not ,that / that - / over there,あの建物は教会ではありません,That building is not the church.,あの建物は | 教会 | ではありません,ano tatemono wa | kyoukai | dewa arimasen,1
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Noun,Is S -？,you / he / she,あなたは先生ですか？,Are you a teacher?,あなたは | 先生 | です | か？,anata wa | sensei | desu | ka？,1
+,English,Japanese,Noun,Is S -？,you / he / she,彼は医者ですか？,Is he a doctor?,彼は | 医者 | です | か？,kare wa | isha | desu | ka？,1
+,English,Japanese,Noun,Is S -？,you / he / she,彼女はあなたの妹ですか？,Is she your younger sister?,彼女は | あなたの妹 | です | か？,kanojo wa | anata no imouto | desu | ka？,1
+,,,,,,,,,,1
+,English,Japanese,Noun,Is S -？,this / this - / here,これはあなたの車ですか？,Is this your car?,これは | あなたの車 | です | か？,kore wa | anata no kuruma | desu | ka？,1
+,English,Japanese,Noun,Is S -？,this / this - / here,あなたの車はこれですか？,Is your car this one?,あなたの車は | これ | です | か？,anata no kuruma wa | kore | desu | ka？,1
+,English,Japanese,Noun,Is S -？,this / this - / here,ここはトイレですか？,Is this the restroom?,ここは | トイレ | です | か？,koko wa | toire | desu | ka？,1
+,English,Japanese,Noun,Is S -？,this / this - / here,トイレはここですか？,Is the restroom here?,トイレは | ここ | です | か？,toire wa | koko | desu | ka？,1
+,English,Japanese,Noun,Is S -？,this / this - / here,この財布はあなたのですか？,Is this wallet yours?,この財布は | あなたの | です | か？,kono saifu wa | anata no | desu | ka？,1
+,,,,,,,,,,1
+,English,Japanese,Noun,Is S -？,it / the - / there,それはあなたの荷物ですか？,Is it your luggage?,それは | あなたの荷物 | です | か？,それは | あなたの荷物 | です | か？,1
+,English,Japanese,Noun,Is S -？,it / the - / there,それは彼女の財布ですか？,Is it her wallet?,それは | 彼女の財布 | です | か？,それは | 彼女の財布 | です | か？,1
+,English,Japanese,Noun,Is S -？,it / the - / there,そこはあなたの部屋ですか？,Is it your room?,そこは | あなたの部屋 | です | か？,そこは | あなたの部屋 | です | か？,1
+,English,Japanese,Noun,Is S -？,it / the - / there,あなたの部屋はそこですか？,Is your room there?,あなたの部屋は | そこ | です | か？,あなたの部屋は | そこ | です | か？,1
+,English,Japanese,Noun,Is S -？,it / the - / there,その水はミネラルウォーターですか？,Is the water mineral water?,その水は | ミネラルウォーター | です | か？,その水は | ミネラルウォーター | です | か？,1
+,English,Japanese,Noun,Is S -？,it / the - / there,そのスマホは彼のですか？,Is the smartphone his?,そのスマホは | 彼の | です | か？,そのスマホは | 彼の | です | か？,1
+,,,,,,,,,,1
+,English,Japanese,Noun,Is S -？,that / that - / over there,あれは彼の娘ですか？,Is that his daughter?,あれは | 彼の娘 | です | か？,,1
+,English,Japanese,Noun,Is S -？,that / that - / over there,あれは彼女の家ですか？,Is that her house?,あれは | 彼女の家 | です | か？,,1
+,English,Japanese,Noun,Is S -？,that / that - / over there,あそこは駅ですか？,Is that the station?,あそこは | 駅 | です | か？,,1
+,English,Japanese,Noun,Is S -？,that / that - / over there,駅はあそこですか？,Is the station there?,駅は | あそこ | です | か？,,1
+,English,Japanese,Noun,Is S -？,that / that - / over there,あの建物は教会ですか？,Is that building the church?,あの建物は | 教会 | です | か？,,1
+,,,,,,,,,,1
+,English,Japanese,Noun,Who is S?,you / he / she,あなたは誰ですか？,Who are you?,あなたは | 誰 | です | か？,,1
+,English,Japanese,Noun,Who is S?,you / he / she,彼は誰ですか？,Who is he?,彼は | 誰 | です | か？,,1
+,English,Japanese,Noun,Who is S?,you / he / she,彼女は誰ですか？,Who is she?,彼女は | 誰 | です | か？,,1
+,English,Japanese,Noun,Who is S?,you / he / she,あれは誰ですか？,Who is that?,あれは | 誰 | です | か？,,1
+,,,,,,,,,,1
+,English,Japanese,Noun,Where is S?,your - / here / other things,あなたの車はどこですか？,Where is your car?,あなたの車は | どこ | です | か？,,1
+,English,Japanese,Noun,Where is S?,your - / here / other things,ここはどこですか？,Where is this?,ここは | どこ | です | か？,,1
+,English,Japanese,Noun,Where is S?,your - / here / other things,トイレはどこですか？,Where is the restroom?,トイレは | どこ | です | か？,,1
+,English,Japanese,Noun,Where is S?,your - / here / other things,あなたの部屋はどこですか？,Where is your room?,あなたの部屋は | どこ | です | か？,,1
+,English,Japanese,Noun,Where is S?,your - / here / other things,駅はどこですか？,Where is the station?,駅は | どこ | です | か？,,1
+,,,,,,,,,,1
+,English,Japanese,Noun,What is S?,this / it / that / here / there / over there,これは何ですか？,What is this?,これは | 何 | です | か？,,1
+,English,Japanese,Noun,What is S?,this / it / that / here / there / over there,それは何ですか？,What is it?,それは | 何 | です | か？,,1
+,English,Japanese,Noun,What is S?,this / it / that / here / there / over there,あれは何ですか？,What is that?,あれは | 何 | です | か？,,1
+,English,Japanese,Noun,What is S?,this / it / that / here / there / over there,ここは何ですか？,What is this place?,ここは | 何 | です | か？,,1
+,English,Japanese,Noun,What is S?,this / it / that / here / there / over there,そこは何ですか？,What is the place?,そこは | 何 | です | か？,,1
+,English,Japanese,Noun,What is S?,this / it / that / here / there / over there,あそこは何ですか？,What is that place?,あそこは | 何 | です | か？,,1
+,English,Japanese,Noun,What is S?,this / it / that / here / there / over there,この部屋は何ですか？,What is this room?,この部屋は | 何 | です | か？,,1
+,English,Japanese,Noun,What is S?,this / it / that / here / there / over there,その水は何ですか？,What is the water?,その水は | 何 | です | か？,,1
+,English,Japanese,Noun,What is S?,this / it / that / here / there / over there,あの建物は何ですか？,What is that building?,あの建物は | 何 | です | か？,,1
+,,,,,,,,,,1
+,English,Japanese,Noun,Whose is S?,this - / the - / that -,この財布は誰のですか？,Whose is this wallet?,この財布は | 誰の | です | か？,,1
+,English,Japanese,Noun,Whose is S?,this - / the - / that -,そのスマホは誰のですか？,Whose is the smartphone?,そのスマホは | 誰の | です | か？,,1
+,English,Japanese,Noun,Whose is S?,this - / the - / that -,あの家は誰のですか？,Whose is that house?,あの家は | 誰の | です | か？,,1
+,,,,,,,,,,1
+,,,,,,// 前は 以前は 昔,,,,1
+,English,Japanese,Noun,S was - before,I / he / she,私は前は先生でした,I was a teacher before.,私は | 前は | 先生 | でした,,1
+,English,Japanese,Noun,S was - before,I / he / she,彼は前は医者でした,He was a doctor before.,彼は | 前は | 医者 | でした,,1
+,English,Japanese,Noun,S was - before,I / he / she,彼女は前は私の友達でした,She was my friend before.,彼女は | 前は | 私の友達 | でした,,1
+,,,,,,,,,,1
+,English,Japanese,Noun,S was - before,this / this - / here,これは前は私の車でした,This was my car before.,これは | 前は | 私の車 | でした,,1
+,English,Japanese,Noun,S was - before,this / this - / here,私の車は前はこれでした,My car was this one before.,私の車は | 前は | これ | でした,,1
+,English,Japanese,Noun,S was - before,this / this - / here,ここは前はトイレでした,This was the restroom before.,ここは | 前は | トイレ | でした,,1
+,English,Japanese,Noun,S was - before,this / this - / here,トイレは前はここでした,The restroom was here before.,トイレは | 前は | ここ | でした,,1
+,English,Japanese,Noun,S was - before,this / this - / here,この財布は前は私のでした,This wallet was mine before.,この財布は | 前は | 私の | でした,,1
+,,,,,,,,,,1
+,English,Japanese,Noun,S was - before,it / the - / there,それは前は私の荷物でした,It was my luggage before.,それは | 前は | 私の荷物 | でした,,1
+,English,Japanese,Noun,S was - before,it / the - / there,それは前は彼女の財布でした,It was her wallet before.,それは | 前は | 彼女の財布 | でした,,1
+,English,Japanese,Noun,S was - before,it / the - / there,そこは前は私の部屋でした,It was my room before.,そこは | 前は | 私の部屋 | でした,,1
+,English,Japanese,Noun,S was - before,it / the - / there,私の部屋は前はそこでした,My room was there before.,私の部屋は | 前は | そこ | でした,,1
+,English,Japanese,Noun,S was - before,it / the - / there,その店は前はレストランでした,The shop was a restaurant before.,その店は | 前は | レストラン | でした,,1
+,English,Japanese,Noun,S was - before,it / the - / there,そのスマホは前は彼のでした,The smartphone was his before.,そのスマホは | 前は | 彼の | でした,,1
+,,,,,,,,,,1
+,English,Japanese,Noun,S was - before,that / that - / over there,あれは前は私の車でした,That was my car before.,あれは | 前は | 私の車 | でした,,1
+,English,Japanese,Noun,S was - before,that / that - / over there,あれは前は彼女の家でした,That was her house before.,あれは | 前は | 彼女の家 | でした,,1
+,English,Japanese,Noun,S was - before,that / that - / over there,あそこは前は駅でした,That was the station before.,あそこは | 前は | 駅 | でした,,1
+,English,Japanese,Noun,S was - before,that / that - / over there,駅は前はあそこでした,The station was over there before.,駅は | 前は | あそこ | でした,,1
+,English,Japanese,Noun,S was - before,that / that - / over there,あの建物は前は教会でした,That building was the church before.,あの建物は | 前は | 教会 | でした,,1
+,,,,,,,,,,1
+,,,,,,,,,,1
+,English,Japanese,Noun,S was not - originally,I / he / she,私はもともと先生ではありませんでした,I was not a teacher originally.,私は | もともと | 先生 | ではありませんでした,,1
+,English,Japanese,Noun,S was not - originally,I / he / she,彼はもともと医者ではありませんでした,I was not a doctor originally.,彼は | もともと | 医者 | ではありませんでした,,1
+,English,Japanese,Noun,S was not - originally,I / he / she,彼女はもともと私の妹ではありませんでした,She was not my sister originally.,彼女は | もともと | 私の妹 | ではありませんでした,,1
+,,,,,,,,,,1
+,English,Japanese,Noun,S was not - originally,this / this - / here,これはもともと私の車ではありませんでした,This was not my car originally.,これは | もともと | 私の車 | ではありませんでした,,1
+,English,Japanese,Noun,S was not - originally,this / this - / here,私の車はもともとこれではありませんでした,My car was not this one originally.,私の車はもともとこれではありませんでした,,1
+,English,Japanese,Noun,S was not - originally,this / this - / here,ここはもともとトイレではありませんでした,This was not the restroom originally.,ここは | もともと | トイレ | ではありませんでした,,1
+,English,Japanese,Noun,S was not - originally,this / this - / here,トイレはもともとここではありませんでした,The restroom was not here originally.,トイレは | もともと | ここ | ではありませんでした,,1
+,English,Japanese,Noun,S was not - originally,this / this - / here,この財布はもともと私のではありませんでした,This wallet was not mine originally.,この財布は | もともと | 私の | ではありませんでした,,1
+,,,,,,,,,,1
+,English,Japanese,Noun,S was not - originally,it / the - / there,それはもともと私の荷物ではありませんでした,It was not my luggage originally.,それは | もともと | 私の荷物 | ではありませんでした,,1
+,English,Japanese,Noun,S was not - originally,it / the - / there,それはもともと彼女の財布ではありませんでした,It was not her wallet originally.,それは | もともと | 彼女の財布 | ではありませんでした,,1
+,English,Japanese,Noun,S was not - originally,it / the - / there,そこはもともと私の部屋ではありませんでした,It was not my room originally.,そこは | もともと | 私の部屋 | ではありませんでした,,1
+,English,Japanese,Noun,S was not - originally,it / the - / there,私の部屋はもともとそこではありませんでした,My room was not there originally.,私の部屋は | もともと | そこ | ではありませんでした,,1
+,English,Japanese,Noun,S was not - originally,it / the - / there,そのペンはもともと私のではありませんでした,The restaurant was not mine originally.,そのペンは | もともと | 私の | ではありませんでした,,1
+,English,Japanese,Noun,S was not - originally,it / the - / there,そのスマホはもともと彼のではありませんでした,The smartphone was not his originally.,そのスマホは | もともと | 彼の | ではありませんでした,,1
+,,,,,,,,,,1
+,English,Japanese,Noun,S was not - originally,that / that - / over there,あれはもともと私の車ではありませんでした,That was not my car originally.,あれは | もともと | 私の車 | ではありませんでした,,1
+,English,Japanese,Noun,S was not - originally,that / that - / over there,あれはもともと彼女の家ではありませんでした,That was not her house originally.,あれは | もともと | 彼女の家 | ではありませんでした,,1
+,English,Japanese,Noun,S was not - originally,that / that - / over there,あそこはもともと駅ではありませんでした,That was not the station originally.,あそこは | もともと | 駅 | ではありませんでした,,1
+,English,Japanese,Noun,S was not - originally,that / that - / over there,駅はもともとあそこではありませんでした,The station was not there originally.,駅は | もともと | あそこ | ではありませんでした,,1
+,English,Japanese,Noun,S was not - originally,that / that - / over there,あの建物はもともと教会ではありませんでした,That building was not the church originally.,あの建物は | もともと | 教会 | ではありませんでした,,1

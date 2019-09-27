@@ -1,0 +1,177 @@
+id,ylang,tlang,level,wclass,type,tlang_ex,ylang_ex,tlang_exf,furigana,chikugoyaku
+ですね,English,Japanese,Adjective2,get Adjective,親切だ / kind,親切ですね,,親切ですね,,1
+じゃないですよ,English,Japanese,Adjective2,get Adjective,親切だ / kind,普段はこんなに親切じゃないですよ,,普段はこんなに親切じゃないですよ,,1
+にしてください、しくしてください,English,Japanese,Adjective2,get Adjective,親切だ / kind,普段もこれくらい親切にしてください,,普段もこれくらい親切にしてください,,1
+になってから言ってください,English,Japanese,Adjective2,get Adjective,親切だ / kind,自分がもっと親切になってから言ってください,,自分がもっと親切になってから言ってください,,1
+にするのはやめてください,,,,,,,,,,1
+な事をするのはやめてください,English,Japanese,Adjective2,get Adjective,積極的だ / active,積極的ですね,,積極的ですね,,1
+になったのは誰のせいですか？,English,Japanese,Adjective2,get Adjective,積極的だ / active,普段はこんなに積極的じゃないですよ,,普段はこんなに積極的じゃないですよ,,1
+な人は嫌いです,English,Japanese,Adjective2,get Adjective,積極的だ / active,普段もこれくらい積極的に仕事をしてください,,普段もこれくらい積極的に仕事をしてください,,1
+,English,Japanese,Adjective2,get Adjective,積極的だ / active,自分がもっと積極的になってから言ってください,,自分がもっと積極的になってから言ってください,,1
+に、しくなってきました,,,,,,,,,,1
+に、しくなりますよ,English,Japanese,Adjective2,get Adjective,いい加減だ / sloppy,いい加減ですね,,いい加減ですね,,1
+Ad+さはやばい,English,Japanese,Adjective2,get Adjective,いい加減だ / sloppy,普段はこんなにいい加減じゃないですよ,,普段はこんなにいい加減じゃないですよ,,1
+,English,Japanese,Adjective2,get Adjective,いい加減だ / sloppy,いい加減に仕事をするのはやめてください,,いい加減に仕事をするのはやめてください,,1
+,English,Japanese,Adjective2,get Adjective,いい加減だ / sloppy,私がいい加減になったのは誰のせいですか？,,私がいい加減になったのは誰のせいですか？,,1
+,,,,,,,,,,1
+元気でいてください,English,Japanese,Adjective2,get Adjective,おせっかいだ / meddlesome,おせっかいですね,,おせっかいですね,,1
+きれいでいてください,English,Japanese,Adjective2,get Adjective,おせっかいだ / meddlesome,普段はこんなにおせっかいじゃないですよ,,普段はこんなにおせっかいじゃないですよ,,1
+,English,Japanese,Adjective2,get Adjective,おせっかいだ / meddlesome,おせっかいな事をするのはやめてください,,おせっかいな事をするのはやめてください,,1
+,English,Japanese,Adjective2,get Adjective,おせっかいだ / meddlesome,私がおせっかいになったのは誰のせいですか？,,私がおせっかいになったのは誰のせいですか？,,1
+人の態度を表す形容詞,,,,,,,,,,1
+,English,Japanese,Adjective2,get Adjective,おしゃべりだ / talkative,彼女はおしゃべりですね,,彼女はおしゃべりですね,,1
+優しい,English,Japanese,Adjective2,get Adjective,おしゃべりだ / talkative,普段はあんなにおしゃべりじゃないですよ,,普段はあんなにおしゃべりじゃないですよ,,1
+厳しい,English,Japanese,Adjective2,get Adjective,おしゃべりだ / talkative,おしゃべりな人は嫌いです,,おしゃべりな人は嫌いです,,1
+礼儀正しい,English,Japanese,Adjective2,get Adjective,おしゃべりだ / talkative,彼女がおしゃべりになったのは私のせいです,,彼女がおしゃべりになったのは私のせいです,,1
+積極的だ,,,,,,,,,,1
+消極的だ,English,Japanese,Adjective2,get Adjective,礼儀正しい / polite,礼儀正しいですね,,礼儀正しいですね,,1
+,English,Japanese,Adjective2,get Adjective,礼儀正しい / polite,普段はこんなに礼儀正しくないですよ,,普段はこんなに礼儀正しくないですよ,,1
+1,English,Japanese,Adjective2,get Adjective,礼儀正しい / polite,普段もこれくらい礼儀正しくしてください,,普段もこれくらい礼儀正しくしてください,,1
+アウトドア派,English,Japanese,Adjective2,get Adjective,礼儀正しい / polite,自分がもっと礼儀正しくなってから言ってください,,自分がもっと礼儀正しくなってから言ってください,,1
+,,,,,,,,,,1
+2,English,Japanese,Adjective2,get Adjective,わがままだ / selfish,わがままですね,,わがままですね,,1
+いい加減,English,Japanese,Adjective2,get Adjective,わがままだ / selfish,普段はこんなにわがままじゃないですよ,,普段はこんなにわがままじゃないですよ,,1
+,English,Japanese,Adjective2,get Adjective,わがままだ / selfish,わがままな事を言うのはやめてください,,わがままな事を言うのはやめてください,,1
+3,English,Japanese,Adjective2,get Adjective,わがままだ / selfish,私がわがままになったのは誰のせいですか？,,私がわがままになったのは誰のせいですか？,,1
+インドア派,,,,,,,,,,1
+,English,Japanese,Adjective2,get Adjective,無責任だ / irresponsible,無責任ですね,,無責任ですね,,1
+4,English,Japanese,Adjective2,get Adjective,無責任だ / irresponsible,普段はこんなに無責任じゃないですよ,,普段はこんなに無責任じゃないですよ,,1
+うろたえない,English,Japanese,Adjective2,get Adjective,無責任だ / irresponsible,無責任な事を言うのはやめてください,,無責任な事を言うのはやめてください,,1
+,English,Japanese,Adjective2,get Adjective,無責任だ / irresponsible,私が無責任になったのは誰のせいですか？,,私が無責任になったのは誰のせいですか？,,1
+5,,,,,,,,,,1
+うわさ好き,English,Japanese,Adjective2,get Adjective,しつこい / persistent,しつこいですね,,しつこいですね,,1
+,English,Japanese,Adjective2,get Adjective,しつこい / persistent,普段はこんなにしつこくないですよ,,普段はこんなにしつこくないですよ,,1
+6,English,Japanese,Adjective2,get Adjective,しつこい / persistent,しつこくするのはやめてください,,しつこくするのはやめてください,,1
+オカルト趣味,English,Japanese,Adjective2,get Adjective,しつこい / persistent,私がしつこくなったのは誰のせいですか？,,私がしつこくなったのは誰のせいですか？,,1
+,,,,,,,,,,1
+7,,,,,,,,,,1
+お人好し,English,Japanese,Adjective2,getting more Adjective,fun / 楽しい,なんだか楽しくなってきました,,なんだか楽しくなってきました,,1
+,English,Japanese,Adjective2,getting more Adjective,fun / 楽しい,これからもっと楽しくなりますよ,,これからもっと楽しくなりますよ,,1
+8,English,Japanese,Adjective2,getting more Adjective,fun / 楽しい,この楽しさはやばい,,この楽しさはやばい,,1
+お節介,,,,,,,,,,1
+,English,Japanese,Adjective2,getting more Adjective,sad / 悲しい,なんだか悲しくなってきました,,なんだか悲しくなってきました,,1
+9,English,Japanese,Adjective2,getting more Adjective,sad / 悲しい,これからもっと悲しくなりますよ,,これからもっと悲しくなりますよ,,1
+がさつな性格,English,Japanese,Adjective2,getting more Adjective,sad / 悲しい,この悲しさはやばい,,この悲しさはやばい,,1
+,,,,,,,,,,1
+10,English,Japanese,Adjective2,getting more Adjective,怖い / scary,なんだか怖くなってきました,,なんだか怖くなってきました,,1
+ぎこちない,English,Japanese,Adjective2,getting more Adjective,怖い / scary,これからもっと怖くなりますよ,,これからもっと怖くなりますよ,,1
+,English,Japanese,Adjective2,getting more Adjective,怖い / scary,この怖さはやばい,,この怖さはやばい,,1
+11,,,,,,,,,,1
+コミュニケーション障害,,,,,,,,,,1
+,,,,,,,,,,1
+12,,,,,,,,,,1
+サディスト,,,,,,,,,,1
+,,,,,,,,,,1
+13,,,,,,,,,,1
+サド,,,,,,,,,,1
+,,,,,,,,,,1
+14,,,,,,,,,,1
+サバサバ,,,,,,,,,,1
+,,,,,,,,,,1
+15,,,,,,,,,,1
+シスコン,,,,,,,,,,1
+,,,,,,,,,,1
+16,,,,,,,,,,1
+しつこい,,,,,,,,,,1
+,,,,,,,,,,1
+17,,,,,,,,,,1
+じゃれる,,,,,,,,,,1
+,,,,,,,,,,1
+18,,,,,,,,,,1
+しらけた性格,,,,,,,,,,1
+,,,,,,,,,,1
+19,,,,,,,,,,1
+ずぼらな性格,,,,,,,,,,1
+,,,,,,,,,,1
+20,,,,,,,,,,1
+すり寄る,,,,,,,,,,1
+,,,,,,,,,,1
+21,,,,,,,,,,1
+ずるい,,,,,,,,,,1
+,,,,,,,,,,1
+22,,,,,,,,,,1
+せっかち,,,,,,,,,,1
+,,,,,,,,,,1
+23,,,,,,,,,,1
+センスがいい,,,,,,,,,,1
+,,,,,,,,,,1
+24,,,,,,,,,,1
+ちゃっかりしている,,,,,,,,,,1
+,,,,,,,,,,1
+25,,,,,,,,,,1
+つよがり,,,,,,,,,,1
+,,,,,,,,,,1
+26,,,,,,,,,,1
+でしゃばる,,,,,,,,,,1
+,,,,,,,,,,1
+27,,,,,,,,,,1
+ナルシスト,,,,,,,,,,1
+,,,,,,,,,,1
+28,,,,,,,,,,1
+ニヒリスト,,,,,,,,,,1
+,,,,,,,,,,1
+29,,,,,,,,,,1
+ネガティブ,,,,,,,,,,1
+,,,,,,,,,,1
+30,,,,,,,,,,1
+ノーと言えない人,,,,,,,,,,1
+,,,,,,,,,,1
+31,,,,,,,,,,1
+のんびり,,,,,,,,,,1
+,,,,,,,,,,1
+32,,,,,,,,,,1
+はぐらかす,,,,,,,,,,1
+,,,,,,,,,,1
+33,,,,,,,,,,1
+はしたない,,,,,,,,,,1
+,,,,,,,,,,1
+34,,,,,,,,,,1
+ひとでなし,,,,,,,,,,1
+,,,,,,,,,,1
+35,,,,,,,,,,1
+ひょうきん,,,,,,,,,,1
+,,,,,,,,,,1
+36,,,,,,,,,,1
+ファザコン,,,,,,,,,,1
+,,,,,,,,,,1
+37,,,,,,,,,,1
+プラス思考,,,,,,,,,,1
+,,,,,,,,,,1
+38,,,,,,,,,,1
+へこたれない,,,,,,,,,,1
+,,,,,,,,,,1
+39,,,,,,,,,,1
+へりくだる,,,,,,,,,,1
+,,,,,,,,,,1
+40,,,,,,,,,,1
+マイペース,,,,,,,,,,1
+,,,,,,,,,,1
+41,,,,,,,,,,1
+マザコン,,,,,,,,,,1
+,,,,,,,,,,1
+42,,,,,,,,,,1
+マゾ,,,,,,,,,,1
+,,,,,,,,,,1
+43,,,,,,,,,,1
+マゾヒスト,,,,,,,,,,1
+,,,,,,,,,,1
+44,,,,,,,,,,1
+やせ我慢,,,,,,,,,,1
+,,,,,,,,,,1
+45,,,,,,,,,,1
+よく笑う・笑い上戸,,,,,,,,,,1
+,,,,,,,,,,1
+46,,,,,,,,,,1
+よそよそしい,,,,,,,,,,1
+,,,,,,,,,,1
+47,,,,,,,,,,1
+リアリスト,,,,,,,,,,1
+,,,,,,,,,,1
+48,,,,,,,,,,1
+ロマンチスト,,,,,,,,,,1
+,,,,,,,,,,1
+49,,,,,,,,,,1
+ロリコン,,,,,,,,,,1
+,,,,,,,,,,1
+50,,,,,,,,,,1
+わがまま,,,,,,,,,,1
